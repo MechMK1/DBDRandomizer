@@ -4,6 +4,7 @@
 			{
 				"name" : "The Trapper",
 				"image" : "Trapper.png",
+				"description" : "There is a vast monster of a man with a hideous grin torn across the mask that keeps stalking my every move. Similar to a hunter, he tracks us, priming devastating traps amongst the greenery.",
 				"addons" : [
 					"Trapper Gloves",
 					"Strong Coil Spring",
@@ -28,6 +29,7 @@
 			{
 				"name" : "The Wraith",
 				"image" : "Wraith.png",
+				"description" : "There's another apparition, more terrifying than anything I've ever seen, hunting amongst the shadows here. It moves like a silhouette, appearing and disappearing at the sound of a dreaded bell.",
 				"addons" : [
 					"Bone Clapper",
 					"\"Swift Hunt\" - Soot",
@@ -54,6 +56,7 @@
 			{
 				"name" : "The Hillbilly",
 				"image" : "Hillbilly.png",
+				"description" : "A most terrible man to behold. His physique is all twisted and disfigured as of by some awful accident. He carries a deadly and cruel chainsaw which he wields with devastating violence, seemingly imbuing him with a superhuman speed for a while.",
 				"addons" : [
 					"Vegetable Oil",
 					"Spark Plug",
@@ -79,6 +82,7 @@
 			{
 				"name" : "The Nurse",
 				"image" : "Nurse.png",
+				"description" : "A new varmint has entered the arena. I spotted her as she, somehow, moved through a wall. Clad in bandages that tell an untold tale of something horrid. This...nurse as it seems, brings me new angst during my lonely nights, as my mind runs amok.",
 				"addons" : [
 					"Wooden Horse",
 					"White Nit Comb",
@@ -105,6 +109,7 @@
 			{
 				"name" : "The Shape",
 				"image" : "Shape.png",
+				"description" : "Something, or rather someone, is here now. I've never seen this... Shape before. A man hiding behind a mask. He comes with a determination. But more worrying, he comes with an apparent grasp of the hunt. He does not strike me as someone who even went unwillingly to this place. Is there more to this being than I can fathom?",
 				"addons" : [
 					"Tacky Earrings",
 					"Boyfriend's Memo",
@@ -131,6 +136,7 @@
 			{
 				"name" : "The Hag",
 				"image" : "Hag.png",
+				"description" : "A new terror stalks the darkness; her appearance strikes me as more intense than the others after but a glimpse of her haggard silhouette. Twisted and torn in unspeakable ways, with greyish dead skin stretched out over her emaciated body.",
 				"addons" : [
 					"Rope Necklet",
 					"Powdered Eggshell",
@@ -157,6 +163,7 @@
 			{
 				"name" : "The Doctor",
 				"image" : "Doctor.png",
+				"description" : "I have difficulty keeping my sanity. Each day, this altering world provides me with new trials. A man wearing the robes of a doctor crossed my path. From afar, I witness him walking around, searching.. But he was not...normal.",
 				"addons" : [
 					"Moldy Electrode",
 					"Maple Knight",
@@ -183,6 +190,7 @@
 			{
 				"name" : "The Huntress",
 				"image" : "Huntress.png",
+				"description" : "A figure clad in the head of a hare. A most disturbing sight. This new foe holds something human within her. Some shards of ordinary life. She seems to be a hunter.",
 				"addons" : [
 					"Coarse Stone",
 					"Berus Toxin",
@@ -208,7 +216,8 @@
 			},
 			{
 				"name" : "The Cannibal",
-				"name" : "Cannibal.png",
+				"image" : "Cannibal.png",
+				"description" : "Whether killers perform their heinous acts by the compulsions of their diseased minds, or if they are forced into them by external pressures, has long been a matter of debate. But for one killer, nature and nurture are inextricably linked.",
 				"addons" : [
 					"Vegetable Oil",
 					"Spark Plug",
@@ -234,6 +243,7 @@
 			{
 				"name" : "The Nightmare",
 				"image" : "Nightmare.png",
+				"description" : "This place plays tricks on your mind…constantly I question whether I dream or if I am awake. This most recent horrid ghoul seems to bridge that gap – between the states of being awake or asleep. I saw him hunting another poor soul, someone who was not as lucky as me. A man with a hat and a claw clad hand, a scarred man of sorts.",
 				"addons" : [
 					"Wool Shirt",
 					"Sheep Block",
