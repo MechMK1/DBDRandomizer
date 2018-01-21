@@ -163,7 +163,7 @@ echo '				<div class="media text-white pt-3">';
 echo "					<img src=\"assets/data/images/offerings/$offering->image\" alt=\"$offering->name\" height=\"64\" class=\"mr-2 rounded\">";
 echo '					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">';
 echo "						<strong class=\"d-block text-gray-dark\">$offering->name</strong>";
-echo $offering->description;
+echo "						<em>$offering->description</em>";
 echo '					</p>';
 echo '        			</div>';
 echo '			</div>';
@@ -210,6 +210,77 @@ echo '			</div>';
 		return PickSingle($survivors);
 	}
 
+	function print_survivor($survivor)
+	{
+echo '			<div class="my-3 p-3 bg-dark rounded box-shadow">';
+echo '				<h2 class="border-bottom border-primary pb-3 text-white">Survivor</h2>';
+echo '				<div class="media text-white pt-3">';
+echo "					<img src=\"assets/data/images/survivors/$survivor->image\" alt=\"$survivor->name\" height=\"64\" class=\"mr-2 rounded\">";
+echo '					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">';
+echo "						<strong class=\"d-block text-gray-dark\">$survivor->name</strong>";
+echo "						<em>$survivor->description</em>";
+echo '					</p>';
+echo '        			</div>';
+echo '			</div>';
+	}
+
+	function print_survivor_item($item, $addons)
+	{
+echo '			<div class="my-3 p-3 bg-dark rounded box-shadow">';
+echo '				<h2 class="border-bottom border-primary pb-3 text-white">Item</h2>';
+echo '				<div class="media text-white pt-3">';
+echo "					<img src=\"assets/data/images/items/$item->image\" alt=\"$item->name\" height=\"64\" class=\"mr-2 rounded\">";
+echo '					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">';
+echo "						<strong class=\"d-block text-gray-dark\">$item->name</strong>";
+echo "						<em>$item->description</em>";
+echo '					</p>';
+echo '	       			</div>';
+
+echo '				<h4 class="border-bottom border-primary py-3 text-white">Add-Ons</h4>';
+foreach($addons as $addon)
+{
+echo '				<div class="media text-white pt-3">';
+echo "					<img src=\"assets/data/images/addons/items/$addon->image\" alt=\"$addon->name\" height=\"64\" class=\"mr-2 rounded\">";
+echo '					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">';
+echo "						<strong class=\"d-block text-gray-dark\">$addon->name</strong>";
+echo "						<em>$addon->description</em>";
+echo '					</p>';
+echo '				</div>';
+}
+echo '			</div>';
+	}
+
+	function print_survivor_perks($perks)
+	{
+echo '			<div class="my-3 p-3 bg-dark rounded box-shadow">';
+echo '				<h2 class="border-bottom border-primary pb-3 text-white">Perks</h2>';
+foreach($perks as $perk)
+{
+echo '				<div class="media text-white pt-3">';
+echo "					<img src=\"assets/data/images/perks/survivor/$perk->image\" alt=\"$perk->name\" height=\"64\" class=\"mr-2 rounded\">";
+echo '					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">';
+echo "						<strong class=\"d-block text-gray-dark\">$perk->name</strong>";
+echo $perk->description;
+echo '					</p>';
+echo '        			</div>';
+}
+echo '			</div>';
+	}
+
+	function print_survivor_offering($offering)
+	{
+echo '			<div class="my-3 p-3 bg-dark rounded box-shadow">';
+echo '				<h2 class="border-bottom border-primary pb-3 text-white">Offering</h2>';
+echo '				<div class="media text-white pt-3">';
+echo "					<img src=\"assets/data/images/offerings/$offering->image\" alt=\"$offering->name\" height=\"64\" class=\"mr-2 rounded\">";
+echo '					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">';
+echo "						<strong class=\"d-block text-gray-dark\">$offering->name</strong>";
+echo "						<em>$offering->description</em>";
+echo '					</p>';
+echo '        			</div>';
+echo '			</div>';
+	}
+
 	function mode_survivor($data)
 	{
 		$survivor   = get_survivor($data->survivors);
@@ -221,96 +292,10 @@ echo '			</div>';
 
 
 
-/*
-
-			<div class="my-3 p-3 bg-dark rounded box-shadow">
-				<h2 class="border-bottom border-primary pb-3 text-white">Survivor</h2>
-				<div class="media text-white pt-3">
-					<img src="assets/data/images/survivors/Jake.png" alt="Jake Park" height="64" class="mr-2 rounded">
-					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">
-						<strong class="d-block text-gray-dark">Jake Park</strong>
-						<em>Growing up the son of a wealthy CEO was always going to put pressure on Jake Park.</em>
-					</p>
-        			</div>
-			</div>
-
-			<div class="my-3 p-3 bg-dark rounded box-shadow">
-				<h2 class="border-bottom border-primary pb-3 text-white">Item</h2>
-				<div class="media text-white pt-3">
-					<img src="assets/data/images/items/UtilityFlashlight.png" alt="Utility Flashlight" height="64" class="mr-2 rounded">
-					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">
-						<strong class="d-block text-gray-dark">Utility Flashlight</strong>
-						<em>A sturdy but heavy Flashlight that packs a lot of power.</em>
-					</p>
-        			</div>
-
-				<h4 class="border-bottom border-primary py-3 text-white">Add-Ons</h4>
-				<div class="media text-white pt-3">
-					<img src="assets/data/images/addons/HighEndSapphireLens.png" alt="High-End Sapphire Lens" height="64" class="mr-2 rounded">
-					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">
-						<strong class="d-block text-gray-dark">High-End Sapphire Lens</strong>
-						<em>A wide lens made of unscratchable sapphire that optimises the power and range of the light beam.</em>
-					</p>
-        			</div>
-				<div class="media text-white pt-3">
-					<img src="assets/data/images/addons/LongLifeBattery.png" alt="Long Life Battery" height="64" class="mr-2 rounded">
-					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">
-						<strong class="d-block text-gray-dark">Long Life Battery</strong>
-						<em>A recent model of battery that lasts longer.</em>
-					</p>
-        			</div>
-			</div>
-
-			<div class="my-3 p-3 bg-dark rounded box-shadow">
-				<h2 class="border-bottom border-primary pb-3 text-white">Perks</h2>
-				<div class="media text-white pt-3">
-					<img src="assets/data/images/perks/SelfCare.png" alt="Self-Care" height="64" class="mr-2 rounded">
-					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">
-						<strong class="d-block text-gray-dark">Self-Care</strong>
-						Unlocks the ability to heal yourself without a Med-Kit at <strong><span class="uncommon">50%</span></strong> the normal healing speed.
-						Increases the efficiency of Med-Kit self-heal by <strong><span class="rare">10</span>/<span class="veryRare">15</span>/<span class="veryRare">20</span></strong> %.
-					</p>
-        			</div>
-				<div class="media text-white pt-3">
-					<img src="assets/data/images/perks/SprintBurst.png" alt="Sprint Burst" height="64" class="mr-2 rounded">
-					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">
-						<strong class="d-block text-gray-dark">Sprint Burst</strong>
-						When starting to run, break into a sprint at <strong><span class="uncommon">150%</span></strong> your normal running speed for a maximum of <strong><span class="teachable">3 seconds</span></strong>.
-						Causes Exhaustion for <strong><span class="rare">60</span>/<span class="veryRare">50</span>/<span class="veryRare">40</span></strong> seconds.
-					</p>
-        			</div>
-				<div class="media text-white pt-3">
-					<img src="assets/data/images/perks/UrbanEvasion.png" alt="Urban Evasion" height="64" class="mr-2 rounded">
-					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">
-						<strong class="d-block text-gray-dark">Urban Evasion</strong>
-						Your movement speed while crouching is increased by <strong><span class="uncommon">90</span>/<span class="rare">95</span>/<span class="veryRare">100</span></strong> %.
-					</p>
-        			</div>
-				<div class="media text-white pt-3">
-					<img src="assets/data/images/perks/DecisiveStrike.png" alt="Decisive Strike" height="64" class="mr-2 rounded">
-					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">
-						<strong class="d-block text-gray-dark">Decisive Strike</strong>
-						Once per match, when the Killer's Obsession, succeed a Skill Check to automatically escape the Killer's grasp and stun them for <strong><span class="rare">3</span>/<span class="veryRare">3.5</span>/<span class="veryRare">4</span></strong> seconds.
-						When not the Killer's Obsession, when the wiggle meter is at <strong><span class="rare">45</span>/<span class="veryRare">40</span>/<span class="veryRare">35</span></strong> %, succeed in a Skill Check to escape the grasp.
-					</p>
-        			</div>
-			</div>
-
-			<div class="my-3 p-3 bg-dark rounded box-shadow">
-				<h2 class="border-bottom border-primary pb-3 text-white">Offering</h2>
-				<div class="media text-white pt-3">
-					<img src="assets/data/images/offerings/PetrifiedOak.png" alt="Petrified Oak" height="64" class="mr-2 rounded">
-					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">
-						<strong class="d-block text-gray-dark">Petrified Oak</strong>
-						<em>A deteriorating piece of petrified wood.</em>
-					</p>
-        			</div>
-			</div>
-
-
-*/
-
-
+		print_survivor($survivor);
+		print_survivor_item($item, $addons);
+		print_survivor_perks($perks);
+		print_survivor_offering($offering);
 	}
 
 	function mode_default()
