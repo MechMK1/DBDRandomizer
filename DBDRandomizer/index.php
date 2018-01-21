@@ -57,8 +57,7 @@
 			$item = $data[$index];
 			$result[] = $item; //Add $item to $result - What kind of drugs did they take when they designed this syntax?
 
-			unset($data[$index]);
-			$data = array_values($data); //Because PHP does not re-index the array
+			array_splice($data, $index, 1); //Delete the item with offset $index from $data;
 			$n--;
 		}
 
@@ -236,16 +235,18 @@ echo "						<em>$item->description</em>";
 echo '					</p>';
 echo '	       			</div>';
 
-echo '				<h4 class="border-bottom border-primary py-3 text-white">Add-Ons</h4>';
-foreach($addons as $addon)
-{
-echo '				<div class="media text-white pt-3">';
-echo "					<img src=\"assets/data/images/addons/items/$addon->image\" alt=\"$addon->name\" height=\"64\" class=\"mr-2 rounded\">";
-echo '					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">';
-echo "						<strong class=\"d-block text-gray-dark\">$addon->name</strong>";
-echo "						<em>$addon->description</em>";
-echo '					</p>';
-echo '				</div>';
+if(!empty($addons)){
+	echo '				<h4 class="border-bottom border-primary py-3 text-white">Add-Ons</h4>';
+	foreach($addons as $addon)
+	{
+	echo '				<div class="media text-white pt-3">';
+	echo "					<img src=\"assets/data/images/addons/items/$addon->image\" alt=\"$addon->name\" height=\"64\" class=\"mr-2 rounded\">";
+	echo '					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">';
+	echo "						<strong class=\"d-block text-gray-dark\">$addon->name</strong>";
+	echo "						<em>$addon->description</em>";
+	echo '					</p>';
+	echo '				</div>';
+	}
 }
 echo '			</div>';
 	}
