@@ -553,7 +553,7 @@
 					},
 					{
 						"name" : "Half Eggshell" ,
-						"image" : "Half Eggshell.png",
+						"image" : "HalfEggshell.png",
 						"description" : "One half of a perfectly round hollow eggshell."
 					},
 					{
@@ -1053,76 +1053,348 @@
 			}
 		],
 		"perks" : [
-			"A Nurse's Calling",
-			"Agitation",
-			"Barbecue & Chilli",
-			"Beast Of Prey",
-			"Bitter Murmur",
-			"Bloodhound",
-			"Blood Warden",
-			"Brutal Strength",
-			"Deerstalker",
-			"Distressing",
-			"Dying Light",
-			"Enduring",
-			"Fire Up",
-			"Franklin's Demise",
-			"Insidious",
-			"Iron Grasp",
-			"Hex: Devour Hope",
-			"Hex: Huntress' Lullaby",
-			"Hex: No One Escapes Death",
-			"Hex: Ruin",
-			"Hex: The Third Seal",
-			"Hex: Thrill of the Hunt",
-			"Knock Out",
-			"Lightborn",
-			"Monitor & Abuse",
-			"Monstrous Shrine",
-			"Overcharge",
-			"Overwhelming Presence",
-			"Remember Me",
-			"Play With Your Food",
-			"Predator",
-			"Save The Best For Last",
-			"Shadowborn",
-			"Sloppy Butcher",
-			"Spies From The Shadows",
-			"Stridor",
-			"Territorial Imperative",
-			"Tinkerer",
-			"Thanatophobia",
-			"Unnerving Presence",
-			"Unrelenting",
-			"Whispers"
+			{
+				"name" : "A Nurse's Calling" ,
+				"image" : "ANursesCalling.png",
+				"description" : "Unlocks potential in one's Aura reading ability. The Auras of Survivors who are healing or being healed are revealed to you when they are within 20/24/28 metres of range."
+			},
+			{
+				"name" : "Agitation" ,
+				"image" : "Agitation.png",
+				"description" : "You get excited in anticipation of hooking your prey. Increases your speed while transporting bodies by 6/12/18 %. While transporting a body, your Terror Radius is increased by 6/8/12 metres."
+			},
+			{
+				"name" : "Barbecue & Chilli" ,
+				"image" : "BarbecueAndChilli.png",
+				"description" : "A deep bond with The Entity unlocks potential in one's Aura reading ability. After hooking a Survivor, all other Survivors' Auras are revealed to you for 4 seconds when they are further than 52/46/40 metres from the Hook. Each time a Survivor is hooked for the first time, gain a 15/20/25 % stackable Bonus to all Bloodpoint gains. The Bonus Bloodpoints are only awarded post-trial."
+			},
+			{
+				"name" : "Beast Of Prey" ,
+				"image" : "BeastOfPrey.png",
+				"description" : "Your lust for a kill is so intense that your connection with the Entity is momentarily lost, making you totally unpredictable. The Red Stain disappears for 15/20/25 seconds when Bloodlust activates. Beast of Prey has a cooldown of 120 seconds."
+			},
+			{
+				"name" : "Bitter Murmur" ,
+				"image" : "BitterMurmur.png",
+				"description" : "Unlocks potential in one's Aura reading ability. Survivors' Auras are revealed to you for a duration of 5/7/9 seconds when the Exit Gates are powered."
+			},
+			{
+				"name" : "Bloodhound" ,
+				"image" : "Bloodhound.png",
+				"description" : "Like a hunting scent hound, you smell traces of blood at a great distance. Fresh Blood Stains are considerably more discernible than normal and can be tracked for 2/3/4 seconds longer than normal."
+			},
+			{
+				"name" : "Blood Warden" ,
+				"image" : "BloodWarden.png",
+				"description" : "Once per match, once at least one Exit Gate is opened, hooking a Survivor summons The Entity to block the exits for all Survivors for 30/40/60 seconds. While Blood Warden is active, Auras of Survivors located within the Exit Gates are revealed to you."
+			},
+			{
+				"name" : "Brutal Strength" ,
+				"image" : "BrutalStrength.png",
+				"description" : "Your great strength allows you to shred through your prey's defences. Destroy dropped Pallets 10/15/20 % faster."
+			},
+			{
+				"name" : "Deerstalker" ,
+				"image" : "Deerstalker.png",
+				"description" : "Unlocks potential in one's Aura reading ability. Reveals dying Survivors' Auras when standing within 12/24/36 metres."
+			},
+			{
+				"name" : "Distressing" ,
+				"image" : "Distressing.png",
+				"description" : "Your horrifying emanation strikes at a supernaturally long distance. Your Terror Radius is increased by 22/24/26 %. Gain 50/75/100 % more Bloodpoints for actions in the Deviousness category. The Bonus Bloodpoints are only awarded during the trial."
+			},
+			{
+				"name" : "Dying Light" ,
+				"image" : "DyingLight.png",
+				"description" : "You become obsessed with one Survivor. Your Obsession's altruistic action speed is increased by 38/44/50 %. Once the Obsession is killed or sacrificed, every other Survivor gets a penalty of 19/22/25 % to repair, healing and sabotage speed."
+			},
+			{
+				"name" : "Enduring" ,
+				"image" : "Enduring.png",
+				"description" : "You are resilient to pain. Your rate of recovery from stuns is increased by 50/60/75 %."
+			},
+			{
+				"name" : "Fire Up" ,
+				"image" : "FireUp.png",
+				"description" : "The increased pressure of losing your preys fills you with anger and gives you unsuspected motivation. Each time the Survivors complete repairs on a Generator, Fire Up grows in power and grants speed bonus to pick up, drop, Pallet break, Generator break and vaults. 2 Tokens: Receive 6/8/10 % action speed bonus. 3 Tokens: Receive 8/10/12 % action speed bonus. 4 Tokens: Receive 10/12/14 % action speed bonus."
+			},
+			{
+				"name" : "Franklin's Demise" ,
+				"image" : "FranklinsDemise.png",
+				"description" : "Your vicious attacks make the Survivors drop their Item on impact. The lost Item is damaged in the fall, losing 0/5/10 % of its base amount of Charges."
+			},
+			{
+				"name" : "Insidious" ,
+				"image" : "Insidious.png",
+				"description" : "Unlocks the stealth ability. By standing still for 4/3/2 seconds, you reduce your Terror Radius to 0 metres and thus become stealthy until you move or act again."
+			},
+			{
+				"name" : "Iron Grasp" ,
+				"image" : "IronGrasp.png",
+				"description" : "Your powerful hold onto the Survivors causes escapes to be nearly impossible. Effects of Survivors' wiggling are reduced by 25/50/75 %. Time to wiggle free from your grasp is increased by 4/8/12 %."
+			},
+			{
+				"name" : "Hex: Devour Hope" ,
+				"image" : "DevourHope.png",
+				"description" : "A Hex rooting its power on hope. The false hope of Survivors ignites your hunger. When a Survivor is rescued from a hook at least 24 metres away, Devour Hope receives a Token. 2 Tokens: ―/―/Gain a 5% speed burst for 10 seconds after hooking a Survivor. Speed burst triggers 10 seconds after hooking a Survivor. 3 Tokens: ―/Attacks put Survivors into the dying state automatically./Attacks put Survivors into the dying state automatically. 5 Tokens: Grants the ability to kill Survivors by your own hand./Grants the ability to kill Survivors by your own hand./Grants the ability to kill Survivors by your own hand."
+			},
+			{
+				"name" : "Hex: Huntress' Lullaby" ,
+				"image" : "HexHuntressLullaby.png",
+				"description" : "A Hex rooting its power in despair. Your hunt is an irresistible song of dread which muddles your prey’s attention. Survivors receive a 2/4/6 % regression penalty when missing any Skill Check. Each time a Survivor is hooked, Huntress Lullaby grows in power: 1 to 4 Tokens: Time between the Skill Check warning sound and the Skill Check becomes shorter. 5 Tokens: No Skill Check warning."
+			},
+			{
+				"name" : "Hex: No One Escapes Death" ,
+				"image" : "NoOneEscapesDeath.png",
+				"description" : "A Hex rooting its power on hope. You are animated by the power of your Hex Totem when the Survivors are on the verge of escaping. Once the Exit Gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, ―/―/Successful attacks trigger Dying State automatically, cooldowns on successful and missed attacks are decreased by 4/8/8 % and your movement speed is increased by 3/4/4 %."
+			},
+			{
+				"name" : "Hex: Ruin" ,
+				"image" : "Ruin.png",
+				"description" : "A Hex that affects the Survivors' skills at repairing Generators. 2/3/4 Survivors are affected by Ruin, which causes Good Skill Checks to result in 5% regression on the Generator and Great Skill Checks grant 0% in progression."
+			},
+			{
+				"name" : "Hex: The Third Seal" ,
+				"image" : "TheThirdSeal.png",
+				"description" : "A Hex that hinders one's Aura reading ability. Hitting a Survivor while the Hex Totem is active reduces the effectiveness of their Aura reading ability by 100%. This effect applies to the last 2/3/4 Survivors hit."
+			},
+			{
+				"name" : "Hex: Thrill of the Hunt" ,
+				"image" : "ThrillOfTheHunt.png",
+				"description" : "A Hex rooting its power on hope. The false hope of Survivors fills you with excitement and strengthens your totems. For each Dull Totem and Hex Totem remaining on the Map gain a Token. Gain 6/8/10 % more Bloodpoints for actions in the Hunter category for each Token. Survivors' cleansing speed is reduced by 4/5/6 % for each Token. Gain a notification when someone starts working on a Hex Totem."
+			},
+			{
+				"name" : "Knock Out" ,
+				"image" : "KnockOut.png",
+				"description" : "The trauma caused by your brutal attacks makes crying for help painfully difficult. Dying Survivors' Auras are not revealed to other Survivors when they are standing outside of 32/24/16 metres of range."
+			},
+			{
+				"name" : "Lightborn" ,
+				"image" : "Lightborn.png",
+				"description" : "Unlike other beasts of the fog, you have adapted to light. Resistance to blindness is increased by 20/40/60 %. Recovery from blindness is increased by 50%."
+			},
+			{
+				"name" : "Monitor & Abuse" ,
+				"image" : "MonitorAndAbuse.png",
+				"description" : "Meticulous in your approach, terrifying in your application. While in a chase, your Terror Radius is increased by 6/7/8 metres. Otherwise your Terror Radius is decreased by 6/7/8 metres and your field of view is slightly/moderately/considerably increased."
+			},
+			{
+				"name" : "Monstrous Shrine" ,
+				"image" : "MonstrousShrine.png",
+				"description" : "Your fervent care of the hooks found in the Basement has aroused the Entity interest. The Basement Hooks are granted the following bonuses: 3/6/9 % faster Entity progression. 5/10/15 % increased difficulty on escape attempts. 3/6/9 % increased penalty to escape fails."
+			},
+			{
+				"name" : "Overcharge" ,
+				"image" : "GeneratorOvercharge.png",
+				"description" : "You are fuelled by your hate for progress. Overcharge a Generator by performing the Damage Generator action. The next Survivor interacting with that Generator is faced with a moderately/considerably/tremendously difficult Skill Check. Failing the Skill Check results in an additional 3/4/5 % Generator regression."
+			},
+			{
+				"name" : "Overwhelming Presence" ,
+				"image" : "OverwhelmingPresence.png",
+				"description" : "Your presence alone instils great fear. Survivors within your Terror Radius suffer from inefficiency. Affected Survivors' Item consumption rates are increased by 80/90/100 %."
+			},
+			{
+				"name" : "Remember Me" ,
+				"image" : "RememberMe.png",
+				"description" : "You become obsessed with one Survivor. Each time you hit your Obsession, you increase the opening time of the Exit Gates by 5 seconds up to a maximum of 20 additional/25 additional/30 additional seconds. The Obsession is not affected by Remember Me."
+			},
+			{
+				"name" : "Play With Your Food" ,
+				"image" : "PlayWithYourFood.png",
+				"description" : "You become obsessed with one Survivor. Every time you chase your Obsession and let them escape, you receive a Token up to a maximum of 3 Tokens. Each Token increases your movement speed by 3/4/5 %. Each offensive action spends one Token."
+			},
+			{
+				"name" : "Predator" ,
+				"image" : "Predator.png",
+				"description" : "Your acute tracking ability allows you to follow disturbances left by passing prey over a longer period of time. Footstep marks stay visible 1/2/3 seconds longer than normal."
+			},
+			{
+				"name" : "Save The Best For Last" ,
+				"image" : "SaveTheBestForLast.png",
+				"description" : "You become obsessed with one Survivor. As long as your Obsession is alive, after being in a chase for 20 seconds the cool-down for your next successful attack is decreased by 30/35/40 %. Your successful attack cool-down remains active for 5 seconds seconds after a chase. Re-initialising a chase before the 5 seconds have lapsed will reset the successful attack cool-down timer."
+			},
+			{
+				"name" : "Shadowborn" ,
+				"image" : "Shadowborn.png",
+				"description" : "You have a keen vision in the darkness of the night. Your field of view is moderately/considerably/tremendously wider than normal."
+			},
+			{
+				"name" : "Sloppy Butcher" ,
+				"image" : "SloppyButcher.png",
+				"description" : "You know where to hit to make them bleed. Wounds inflicted by successful attacks slightly/moderately/considerably increase the Survivor's Bleeding frequency. Bleeding returns to normal once the Survivor is healed."
+			},
+			{
+				"name" : "Spies From The Shadows" ,
+				"image" : "SpiesFromTheShadows.png",
+				"description" : "The Crows found in the world can communicate directly with you. 50/50/75 % of the time, cawing Crows give you a visual clue when you are within a 16/24/36 metres."
+			},
+			{
+				"name" : "Stridor" ,
+				"image" : "Stridor.png",
+				"description" : "Breathing of Survivors in pain is 25/50/50 % louder. Regular Survivor breathing is now also 0/0/25 % louder."
+			},
+			{
+				"name" : "Territorial Imperative" ,
+				"image" : "TerritorialImperative.png",
+				"description" : "Unlocks potential in one's Aura reading ability. Survivors' Auras are revealed to you for 3 seconds when they enter the Basement and you are more than 32 metres away from the Basement entrance. Territorial Imperative can only be triggered once every 60/45/30 seconds."
+			},
+			{
+				"name" : "Tinkerer" ,
+				"image" : "Tinkerer.png",
+				"description" : "Add-ons that affect the charge time of your Power are 6/8/10 % more effective."
+			},
+			{
+				"name" : "Thanatophobia" ,
+				"image" : "Thanatophobia.png",
+				"description" : "All Survivors receive penalties to repair, healing and sabotage speeds for each injured, dying or hooked Survivor. 1 injured, dying or hooked survivor decrease repair, healing and sabotage speed by 4/5/6 %. 2 injured, dying or hooked survivor decrease repair, healing and sabotage speed by 7/8/9 %. 3 injured, dying or hooked survivor decrease repair, healing and sabotage speed by 10/11/12 %. 4 injured, dying or hooked survivor decrease repair, healing and sabotage speed by 13/14/15 %."
+			},
+			{
+				"name" : "Unnerving Presence" ,
+				"image" : "UnnervingPresence.png",
+				"description" : "Your presence alone instils great fear. Survivors within your Terror Radius have a 6/8/10 % greater chance of triggering Skill Checks when repairing, healing or sabotaging. Triggered Skill Checks' success zones are reduced by 40/50/60 %."
+			},
+			{
+				"name" : "Unrelenting" ,
+				"image" : "Unrelenting.png",
+				"description" : "You recuperate faster from any attack made with your main weapon. The cooldown of missed attacks is reduced by 20/25/30 %."
+			},
+			{
+				"name" : "Whispers" ,
+				"image" : "Whispers.png",
+				"description" : "You have a rudimentary understanding of the Entity voice. Sporadically hear the Entity's Whisper when standing within a 48/40/32 metres of a Survivor."
+			}
 		],
 		"offerings" : [
-			"Ebony Memento Mori",
-			"New Moon Bouquet",
-			"Cut Coin",
-			"Full Moon Bouquet",
-			"Murky Reagent",
-			"Putrid Oak",
-			"Azarov's Key",
-			"Charred Wedding Photograph",
-			"Granma's Cookbook",
-			"Heart Locket",
-			"Ivory Memento Mori",
-			"MacMillan's Phalanx Bone",
-			"Rotten Oak",
-			"Shattered Glasses",
-			"Strode Realty Key",
-			"The Last Mask",
-			"The Pied Piper",
-			"Crescent Moon Bouquet",
-			"Cypress Memento Mori",
-			"Hazy Reagent",
-			"Moldy Oak",
-			"Quater Moon Bouquet",
-			"Scratched Coin",
-			"Shroud of Separation",
-			"Clear Reagent",
-			"Faint Reagent"
+			{
+				"name" : "Ebony Memento Mori" ,
+				"image" : "EbonyMementoMori.png",
+				"description" : "I could swear It spoke to the beast. It came to a halt, as if calmly listening to the leaves rustling, and then... grinned."
+			},
+			{
+				"name" : "New Moon Bouquet" ,
+				"image" : "NewMoonBouquet.png",
+				"description" : "Better go back to sleep, there is no moon this night."
+			},
+			{
+				"name" : "Cut Coin" ,
+				"image" : "CutCoin.png",
+				"description" : "Two halves of a thick metallic coin."
+			},
+			{
+				"name" : "Full Moon Bouquet" ,
+				"image" : "FullMoonBouquet.png",
+				"description" : "As the moon rises, the wolves howl, marking the beginning of the hunt."
+			},
+			{
+				"name" : "Murky Reagent" ,
+				"image" : "MurkyReagent.png",
+				"description" : "As the moon rises, the wolves howl, marking the beginning of the hunt."
+			},
+			{
+				"name" : "Putrid Oak" ,
+				"image" : "PutridOak.png",
+				"description" : "A ruined piece of oak oozing with a black putrescent liquid."
+			},
+			{
+				"name" : "Azarov's Key" ,
+				"image" : "AzarovsKey.png",
+				"description" : "A broken key pertaining to a vehicle of unknown brand. A key-chain attached to it identifies the owner as a certain A. Azarov."
+			},
+			{
+				"name" : "Charred Wedding Photograph" ,
+				"image" : "CharredWeddingPhotograph.png",
+				"description" : "A burned portrait of a couple on their wedding day, the faces are completely charred and unidentifiable."
+			},
+			{
+				"name" : "Granma's Cookbook" ,
+				"image" : "GranmasCookbook.png",
+				"description" : "A leather-bound book containing horrible human meat recipes such as the granny-slapping good chilli."
+			},
+			{
+				"name" : "Heart Locket" ,
+				"image" : "HeartLocket.png",
+				"description" : "A silver heart locket necklace. The simple interior is engraved with the following: 'E+M'."
+			},
+			{
+				"name" : "Ivory Memento Mori" ,
+				"image" : "IvoryMementoMori.png",
+				"description" : "Grant me the favour of killing one."
+			},
+			{
+				"name" : "MacMillan's Phalanx Bone" ,
+				"image" : "MacMillansPhalanxBone.png",
+				"description" : "MacMillan's skeletal remains were found in the basement of the mine's storehouse. His leg bones shattered into pieces and a mining hammer lying in his lap."
+			},
+			{
+				"name" : "Rotten Oak" ,
+				"image" : "RottenOak.png",
+				"description" : "A decomposing piece of oak in which strange markings have been etched."
+			},
+			{
+				"name" : "Shattered Glasses" ,
+				"image" : "ShatteredGlasses.png",
+				"description" : "Bent reading glasses. Speckles of dried blood can be seen on the shattered lenses."
+			},
+			{
+				"name" : "Strode Realty Key" ,
+				"image" : "StrodeRealtyKey.png",
+				"description" : "A house key, mundane in appearance. A cardboard key-tag attached to it reads 'Strode Real Estate', followed by a handwritten address: '45 Lampkin Lane'."
+			},
+			{
+				"name" : "The Last Mask" ,
+				"image" : "TheLastMask.png",
+				"description" : "A beautifully crafted tiger mask that would fit snug on a child's face. A faded note in the Cyrillic alphabet can be found scripted on the back."
+			},
+			{
+				"name" : "The Pied Piper" ,
+				"image" : "ThePiedPiper.png",
+				"description" : "Betrayed by the town, he exact his revenge by taking all their children."
+			},
+			{
+				"name" : "Crescent Moon Bouquet" ,
+				"image" : "CrescentMoonBouquet.png",
+				"description" : "The moon slowly fades into a smile: \"Don't worry, your secret is safe with me.\" Or is it a grin?"
+			},
+			{
+				"name" : "Cypress Memento Mori" ,
+				"image" : "CypressMementoMori.png",
+				"description" : "You worked well, the last one is yours."
+			},
+			{
+				"name" : "Hazy Reagent" ,
+				"image" : "HazyReagent.png",
+				"description" : "The Mist is alluring, hypnotising. I love it and fear it at the same time."
+			},
+			{
+				"name" : "Moldy Oak" ,
+				"image" : "MoldyOak.png",
+				"description" : "A damp and decaying piece of oak replete with mold."
+			},
+			{
+				"name" : "Quarter Moon Bouquet" ,
+				"image" : "QuarterMoonBouquet.png",
+				"description" : "The old moon shows her face, looking down on the preys."
+			},
+			{
+				"name" : "Scratched Coin" ,
+				"image" : "ScratchedCoin.png",
+				"description" : "A defaced coin of unknown origin."
+			},
+			{
+				"name" : "Shroud Of Separation" ,
+				"image" : "ShroudOfSeparation.png",
+				"description" : "A square and washed out piece of fabric with small knots on each end."
+			},
+			{
+				"name" : "Clear Reagent" ,
+				"image" : "ClearReagent.png",
+				"description" : "The Mist rolls in, traps all in its deep madness. There is no running, no escape, no asylum, except for the clear waters of the pond lost in the forest."
+			},
+			{
+				"name" : "Faint Reagent" ,
+				"image" : "FaintReagent.png",
+				"description" : "Paralysed, I stand in the cold as death lingers."
+			}
 		]
 	},
 	"survivorData" : {
@@ -1306,7 +1578,6 @@
 			"Wake Up!",
 			"We'll Make It",
 			"We're Gonna Live Forever"
-
 		],
 		"offerings" : [
 			"New Moon Bouquet",
