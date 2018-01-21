@@ -1879,53 +1879,241 @@
 			}
 		],
 		"perks" : [
-			"Ace in The Hole",
-			"Adrenaline",
-			"Alert",
-			"Balanced Landing",
-			"Bond",
-			"Borrowed Time",
-			"Botany Knowledge",
-			"Calm Spirit",
-			"Dark Sense",
-			"Dead Hard",
-			"Decisive Strike",
-			"Déjà Vu",
-			"Empathy",
-			"Hope",
-			"Iron Will",
-			"Kindred",
-			"Leader",
-			"Left Behind",
-			"Lightweight",
-			"Lithe",
-			"No Mither",
-			"No One Left Behind",
-			"Object of Obsession",
-			"Open Handed",
-			"Pharmacy",
-			"Plunderer's Instinct",
-			"Premonition",
-			"Prove Thyself",
-			"Quick & Quiet",
-			"Resilience",
-			"Saboteur",
-			"Self-Care",
-			"Slippery Meat",
-			"Small Game",
-			"Sole Survivor",
-			"Spine Chill",
-			"Sprint Burst",
-			"Streetwise",
-			"This Is Not Happening",
-			"Technician",
-			"Up The Ante",
-			"Unbreakable",
-			"Urban Evasion",
-			"Vigil",
-			"Wake Up!",
-			"We'll Make It",
-			"We're Gonna Live Forever"
+			{
+				"name" : "Ace in The Hole" ,
+				"image" : "AceInTheHole.png",
+				"description" : "Lady Luck always seems to be throwing something good your way. When retrieving an Item from a Chest, there is a 50% chance that an Add-on of Uncommon/Rare/Very Rare rarity or lower will be attached to it."
+			},
+			{
+				"name" : "Adrenaline" ,
+				"image" : "Adrenaline.png",
+				"description" : "You are fuelled by unexpected energy when on the verge of escape. Instantly heal one Health State and sprint at 150% your normal running speed for 5 seconds when the Exit Gates are powered.<br />Adrenaline is on hold if you are disabled at the moment it should take effect and will activate when freed.<br />Adrenaline will wake you up if you are asleep when it triggers.<br />Adrenaline ignores Exhaustion.<br />Causes Exhaustion for 60/50/40 seconds."
+			},
+			{
+				"name" : "Alert" ,
+				"image" : "Alert.png",
+				"description" : "Your acute senses are on high alert. When the Killer performs the break action within 12/24/36 metres of range, the Killer's Aura is revealed to you for 6 seconds. This effect can only be triggered once every 60/45/30 seconds."
+			},
+			{
+				"name" : "Balanced Landing" ,
+				"image" : "BalancedLanding.png",
+				"description" : "When Balanced Landing is active, stagger effects from long falls are reduced by 50/75/75 %.<br />Tier III only: Upon landing, start sprinting at 150% your normal running speed for a maximum of 3 seconds if not exhausted.<br />Causes Exhaustion for 40 seconds."
+			},
+			{
+				"name" : "Bond" ,
+				"image" : "Bond.png",
+				"description" : "Unlocks potential in one's Aura reading ability. Allies' Auras are revealed to you when they are within 12/24/36 metres."
+			},
+			{
+				"name" : "Borrowed Time" ,
+				"image" : "BorrowedTime.png",
+				"description" : "You are fuelled with an unexpected energy when saving an ally from a hook within the Killer's Terror Radius. Once per match, for 15 seconds after unhooking a Survivor within the Killer's Terror Radius, any damage taken that would put you or the unhooked Survivor into the dying state will instead trigger a 15/20/25 seconds bleed-out timer. Taking any damage during or reaching the end of the bleed-out timer will put you into the Dying State."
+			},
+			{
+				"name" : "Botany Knowledge" ,
+				"image" : "BotanyKnowledge.png",
+				"description" : "You transform plants found around The Campfire into tinctures that slow down bleeding. Healing speed is increased by 10/15/20 % and the efficiency of Med-Kits is increased by 10/15/20 %."
+			},
+			{
+				"name" : "Calm Spirit" ,
+				"image" : "CalmSpirit.png",
+				"description" : "Animals seem to trust you as they often stay calm in your presence. Reduces chances of alerting Crows by 80/90/100 %."
+			},
+			{
+				"name" : "Dark Sense" ,
+				"image" : "DarkSense.png",
+				"description" : "Unlocks potential in one's Aura reading ability. When the Exit Gates unlock, the Killer's Aura is revealed to you for 3/5/7 seconds."
+			},
+			{
+				"name" : "Dead Hard" ,
+				"image" : "DeadHard.png",
+				"description" : "You can take a beating. When injured, tap into your adrenaline bank and dash forward quickly to avoid damage. Press the activate ability button while running to dash forward. During the dash, you avoid damage.<br />Causes Exhaustion for 60/50/40 seconds."
+			},
+			{
+				"name" : "Decisive Strike" ,
+				"image" : "DecisiveStrike.png",
+				"description" : "Once per match, when the Killer's Obsession, succeed a Skill Check to automatically escape the Killer's grasp and stun them for 3/3.5/4 seconds. When not the Killer's Obsession, when the wiggle meter is at 45/40/35 % succeed in a Skill Check to escape the grasp."
+			},
+			{
+				"name" : "Déjà Vu" ,
+				"image" : "DejaVu.png",
+				"description" : "Unlocks potential in one's Aura reading ability. 1/1/2 Generator(s)' Auras are revealed to you for 4/8/8 seconds seconds when starting a trial.<br />If you are holding a Map that can track them, Generators revealed by Déjà Vu are added to the Map."
+			},
+			{
+				"name" : "Empathy" ,
+				"image" : "Empathy.png",
+				"description" : "Unlocks potential in one's Aura reading ability. Dying or injured allies' Auras are revealed to you when within 32/64/∞ metres. Empathy does not reveal Auras of allies when they are in the Killer's direct contact."
+			},
+			{
+				"name" : "Hope" ,
+				"image" : "Hope.png",
+				"description" : "The growing odds of a successful escape fill you with hope and give you wings. Your movement speed is increased by 5/6/7 % as soon as the Exit Gates are powered.<br />This Perk is only active for 120 seconds after the Exit Gates have been powered."
+			},
+			{
+				"name" : "Iron Will" ,
+				"image" : "IronWill.png",
+				"description" : "You're able to concentrate and enter a meditative-like state to numb some pain. Grunts of pain caused by injuries are reduced by 50/100/100 % while staying still/while staying still/at any time."
+			},
+			{
+				"name" : "Kindred" ,
+				"image" : "Kindred.png",
+				"description" : "Unlocks potential in one's Aura reading ability. While you're on the Hook, 1 random Survivor's/All Survivors'/All Survivors' and the Killer's (in an 8m radius around the Hook) Auras are revealed to all other Survivors."
+			},
+			{
+				"name" : "Leader" ,
+				"image" : "Leader.png",
+				"description" : "You're able to organize a team to cooperate more efficiently. Increases the other Survivors' Repair, Healing and Sabotage speed by 3/6/9 % when they are within an 8 metre range from you."
+			},
+			{
+				"name" : "Left Behind" ,
+				"image" : "LeftBehind.png",
+				"description" : "You'll get the job done... No matter the cost. If you are the last person remaining in the trial, for each Generator that needs to be repaired, gain a 19/22/25 % bonus to Repair speed."
+			},
+			{
+				"name" : "Lightweight" ,
+				"image" : "Lightweight.png",
+				"description" : "Your running is light and soft, making your tracks harder to follow. Footstep marks stay visible 1/2/3 seconds less than normal."
+			},
+			{
+				"name" : "Lithe" ,
+				"image" : "Lithe.png",
+				"description" : "After performing a vault, break into a sprint at 150% of your normal running speed for a maximum of 3 seconds.<br />Activates in chases only.<br />Causes Exhaustion for 60/50/40 seconds."
+			},
+			{
+				"name" : "No Mither" ,
+				"image" : "NoMither.png",
+				"description" : "Go on kid, it's just a scratch. You start the trial injured and won't let anyone heal you beyond this state. Your thick blood coagulates practically instantly. You cannot be healed to healthy. You don't leave pools of blood. Grunts of pain caused by injuries are reduced by 0/25/50 % at any time. Grants the ability to fully recover from the dying state."
+			},
+			{
+				"name" : "No One Left Behind" ,
+				"image" : "NoOneLeftBehind.png",
+				"description" : "It is inconceivable to leave someone behind. Once the Exit Gates are powered, gain 50/75/100 % more Bloodpoints for actions in the Altruism category and perform them 4/8/12 % quicker."
+			},
+			{
+				"name" : "Object of Obsession" ,
+				"image" : "ObjectOfObsession.png",
+				"description" : "If you are the Killer's Obsession and look in the Killer's direction, your link will reveal your Auras to each other. This effect applies only if you are outside the Killer's Terror Radius, to a maximum range of 56/64/72 metres. Otherwise, it applies to a maximum range of 44/56/64 metres."
+			},
+			{
+				"name" : "Open Handed" ,
+				"image" : "OpenHanded.png",
+				"description" : "Strengthens the potential of you and your team's Aura reading abilities. Increases Aura reading ranges by 4/6/8 metres."
+			},
+			{
+				"name" : "Pharmacy" ,
+				"image" : "Pharmacy.png",
+				"description" : "You have a knack for finding medicine. Searches through Chests are 40/60/80 % faster.<br />Tier III only: The noises caused by searches along with their hearing distances are reduced by 8 metres.<br />Pharmacy guarantees an Emergency Med-Kit on your first completed Chest search."
+			},
+			{
+				"name" : "Plunderer's Instinct" ,
+				"image" : "PlunderersInstinct.png",
+				"description" : "Unlocks potential in one's Aura reading ability. Chests' Auras are revealed to you when standing within 16/24/32 metres. Grants a slightly/moderately/considerably better chance at finding an Item of higher rarity from Chests."
+			},
+			{
+				"name" : "Premonition" ,
+				"image" : "Premonition.png",
+				"description" : "You have the undeniable capability to sense danger. Get an auditory warning when looking in the direction of the Killer in a 45 degree cone within a range of 12/24/36 metres. Premonition has a cooldown of 60/45/30 seconds seconds each time it activates. Premonition trumps any of the Killer's stealth abilities."
+			},
+			{
+				"name" : "Prove Thyself" ,
+				"image" : "ProveThyself.png",
+				"description" : "Receive an incremental speed bonus to repair, healing and sabotage actions when other Survivors are within an 8 metre range.<br />1 nearby Survivor grants 1/2/3 % increased speed.<br />2 nearby Survivor grants 2/4/6 % increased speed.<br />3 nearby Survivor grants 3/6/9 % increased speed."
+			},
+			{
+				"name" : "Quick & Quiet" ,
+				"image" : "QuickAndQuiet.png",
+				"description" : "You do not make as much noise as others when quickly vaulting over obstacles or hiding in Lockers. The vault and hide actions' noise detection range is reduced by 100%. This effect can only be triggered every 30/25/20 seconds."
+			},
+			{
+				"name" : "Resilience" ,
+				"image" : "Resilience.png",
+				"description" : "You are motivated in dire situations. Grants 3/6/9 % additional speed when repairing, sabotaging, healing and searching while you are Injured."
+			},
+			{
+				"name" : "Saboteur" ,
+				"image" : "Saboteur.png",
+				"description" : "Unlocks the ability to sabotage without a Toolbox at 30/40/50 % the normal sabotage speed. Skill Checks triggered in this situation have success zones reduced by 20/10/0 %. Increases efficiency of Toolbox sabotage by 50/75/100 %."
+			},
+			{
+				"name" : "Self-Care" ,
+				"image" : "SelfCare.png",
+				"description" : "Unlocks the ability to heal yourself without a Med-Kit at 50% the normal healing speed. Increases the efficiency of Med-Kit self-heal by 10/15/20 %."
+			},
+			{
+				"name" : "Slippery Meat" ,
+				"image" : "SlipperyMeat.png",
+				"description" : "You have developed an efficient way to get out of Bear Traps and Hooks. Grants up to 1/2/3 extra escape attempts on the hook. The odds of freeing yourself from Bear Traps are increased by 15/20/25 %."
+			},
+			{
+				"name" : "Small Game" ,
+				"image" : "SmallGame.png",
+				"description" : "You have the undeniable capability to sense danger. Get an auditory warning when looking in the direction of Killer Traps and Totems in a 45 degree cone within a range of 8/10/12 metres. Small Game has a cooldown of 15/12/10 seconds each time it activates."
+			},
+			{
+				"name" : "Sole Survivor" ,
+				"image" : "SoleSurvivor.png",
+				"description" : "Each Survivor killed or sacrificed disrupts the Killer's Aura reading ability.<br />1 killed or sacrificed: reduces the Killer's Aura reading range by 40/35/50 %.<br />2 killed or sacrificed: reduces the Killer's Aura reading range by 40/60/75 %.<br />3 killed or sacrificed: reduces the Killer's Aura reading range by 40/85/100 %."
+			},
+			{
+				"name" : "Spine Chill" ,
+				"image" : "SpineChill.png",
+				"description" : "An unnatural tingle warns you of impending doom. Get notified when the Killer is looking directly in your direction and standing within 12/24/36 metres of range. When Spine Chill is active, Skill Check trigger odds are increased by 10% with success zones reduced by 10% and your Repair, Heal and Sabotage speeds are increased by 2/4/6 %."
+			},
+			{
+				"name" : "Sprint Burst" ,
+				"image" : "SprintBurst.png",
+				"description" : "When starting to run, break into a sprint at 150% your normal running speed for a maximum of 3 seconds.<br />Causes Exhaustion for 60/50/40 seconds."
+			},
+			{
+				"name" : "Streetwise" ,
+				"image" : "Streetwise.png",
+				"description" : "Long nights out taught you to do a lot with what you've got. Reduce consumption rate of Item charge by 10/12/15 % for you and allies within an 8 metre range."
+			},
+			{
+				"name" : "This Is Not Happening" ,
+				"image" : "ThisIsNotHappening.png",
+				"description" : "You perform at your best when you are under extreme stress. Great Skill Check success zones when repairing, healing and sabotaging get 10/20/30 % bigger when you are injured."
+			},
+			{
+				"name" : "Technician" ,
+				"image" : "Technician.png",
+				"description" : "The noises caused by your repairs and their hearing distance are reduced by 0/4/8 metres. On a failed repair Skill Checks, there is a 30/40/50 % chance the Generator explosion will be prevented."
+			},
+			{
+				"name" : "Up The Ante" ,
+				"image" : "UpTheAnte.png",
+				"description" : "For each other Survivor still alive, grant a 1/2/3 % bonus to Luck to all remaining Survivors."
+			},
+			{
+				"name" : "Unbreakable" ,
+				"image" : "Unbreakable.png",
+				"description" : "Past battles have taught you a thing or two about survival. Grants the ability to fully recover from the dying state once per trial. Increases dying recovery by 15/20/25 %."
+			},
+			{
+				"name" : "Urban Evasion" ,
+				"image" : "UrbanEvasion.png",
+				"description" : "Your movement speed while crouching is increased by 90/95/100 %."
+			},
+			{
+				"name" : "Vigil" ,
+				"image" : "Vigil.png",
+				"description" : "You look over your friends even in dire situations. You and your allies within an 8 metre range recover from Exhausted, Hemorrhage, Mangled, Hindered and Blindness Status Effects 10/15/20 % faster."
+			},
+			{
+				"name" : "Wake Up!" ,
+				"image" : "WakeUp.png",
+				"description" : "Unlocks potential in one's Aura reading ability. Once all Generators are powered, Exit Gates are revealed to you when within 24/48/∞ metres of range. While opening the Exit Gates, reveal your Aura to other Survivors within 24/48/∞ metres of range.<br />While Wake Up! is active, you open the Exit Gates 5/10/15 % faster."
+			},
+			{
+				"name" : "We'll Make It" ,
+				"image" : "WellMakeIt.png",
+				"description" : "Helping others heightens your morale. For each Survivor you rescue from a Hook, gain an additional 25/50/100 % speed increase to healing up to a maximum of 100% for 30/60/90 seconds."
+			},
+			{
+				"name" : "We're Gonna Live Forever" ,
+				"image" : "WereGonnaLiveForever.png",
+				"description" : "Your few friends deserve the best protection. Each time you rescue or take a hit to protect a Survivor, gain 25% stackable bonus to all Bloodpoint gains up to a maximum of 50/75/100 %.<br />The Bonus Bloodpoints are only awarded post-trial."
+			}
 		],
 		"offerings" : [
 			{
