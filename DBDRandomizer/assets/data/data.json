@@ -313,102 +313,102 @@
 				"description" : "A new varmint has entered the arena. I spotted her as she, somehow, moved through a wall. Clad in bandages that tell an untold tale of something horrid. This...nurse as it seems, brings me new angst during my lonely nights, as my mind runs amok.",
 				"addons" : [
 					{
-						"name" : "Wooden Horse" ,
+						"name" : "Wooden Horse",
 						"image" : "WoodenHorse.png",
 						"description" : "An unpainted toy carved out of cheap wood to resemble a horse. Once the symbol of a deep connection between a catatonic patient and her Nurse."
 					},
 					{
-						"name" : "White Nit Comb" ,
+						"name" : "White Nit Comb",
 						"image" : "WhiteNitComb.png",
 						"description" : "A parasitic nit comb taken from the clinic. Once the symbol of a deep connection between an anxious patient and her Nurse."
 					},
 					{
-						"name" : "Torn Bookmark" ,
+						"name" : "Torn Bookmark",
 						"image" : "TornBookmark",
 						"description" : "A white and pristine piece of ribbon once attached to a sacred book. Once the symbol of a dispute."
 					},
 					{
-						"name" : "Metal Spoon" ,
+						"name" : "Metal Spoon",
 						"image" : "MetalSpoon.png",
 						"description" : "A dull, partially rusted and stained metallic spoon. Confiscated from Room 202's patient, the \"Bad Man\"."
 					},
 					{
-						"name" : "Matchbox" ,
+						"name" : "Matchbox",
 						"image" : "Matchbox.png",
 						"description" : "A matchbox containing an odd collection of mismatched buttons."
 					},
 					{
-						"name" : "Bad Man Keepsake" ,
+						"name" : "Bad Man Keepsake",
 						"image" : "BadManKeepsake.png",
 						"description" : "A rotten molar ripped from the \"Bad Man's\" cold dead hand."
 					},
 					{
-						"name" : "Pocket Watch" ,
+						"name" : "Pocket Watch",
 						"image" : "PocketWatch.png",
 						"description" : "A charred and broken pocket watch with rattling pieces. Taken from Nurse Moris' body."
 					},
 					{
-						"name" : "Dull Bracelet" ,
+						"name" : "Dull Bracelet",
 						"image" : "DullBracelet.png",
 						"description" : "A worthless piece of jewelry that might have an important significance to someone. Taken from the Anxious Girl's body."
 					},
 					{
-						"name" : "Dark Cincture" ,
+						"name" : "Dark Cincture",
 						"image" : "DarkCincture.png",
 						"description" : "A black rope used as a belt in times of mourning. Taken from Father Campbell's body."
 					},
 					{
-						"name" : "Catatonic Boy's Treasure" ,
+						"name" : "Catatonic Boy's Treasure",
 						"image" : "CatatonicBoysTreasure.png",
 						"description" : "A pine-cone which unexpectedly calmed a patient's repetitive movement. Taken from the Catatonic Boy's body."
 					},
 					{
-						"name" : "Spasmodic Breath" ,
+						"name" : "Spasmodic Breath",
 						"image" : "SpasmodicBreath.png",
 						"description" : "The twitchy and tremulous breath stolen from the \"Bad Man\". Aggressively pulses and jumps at The Nurse's touch."
 					},
 					{
-						"name" : "Heavy Panting" ,
+						"name" : "Heavy Panting",
 						"image" : "HeavyPanting.png",
 						"description" : "The slow and bulging breath stolen from the fat Orderly. Dimly oscillates at The Nurse's touch."
 					},
 					{
-						"name" : "Fragile Wheeze" ,
+						"name" : "Fragile Wheeze",
 						"image" : "FragileWheeze.png",
 						"description" : "The whistling and rattling breath stolen from Father Campbell. Silently curves and bends at The Nurse's touch."
 					},
 					{
-						"name" : "Ataxic Respiration" ,
+						"name" : "Ataxic Respiration",
 						"image" : "AtaxicRespiration.png",
 						"description" : "The irregular and deteriorating breath collected from the Catatonic Boy. Normally stable and calm, becomes incredibly agitated at The Nurse's touch."
 					},
 					{
-						"name" : "Anxious Gasp" ,
+						"name" : "Anxious Gasp",
 						"image" : "AnxiousGasp.png",
 						"description" : "The gasp of surprise collected from an Anxious Girl which the Nurse was fond of. Twitches vigorously at The Nurse's touch."
 					},
 					{
-						"name" : "Plaid Flannel" ,
+						"name" : "Plaid Flannel",
 						"image" : "PlaidFlannel.png",
 						"description" : "A torn piece of red and black plaid flannel. The scrap of fabric imbues The Nurse with devastating focus."
 					},
 					{
-						"name" : "Kavanagh's Last Breath" ,
+						"name" : "Kavanagh's Last Breath",
 						"image" : "KavanaghsLastBreath.png",
 						"description" : "A powerful last breath snatched from Crotus Prenn Asylum Orderly Harvey Kavanagh. In the hands of The Nurse, it wobbles with intensity."
 					},
 					{
-						"name" : "Jenner's Last Breath" ,
+						"name" : "Jenner's Last Breath",
 						"image" : "JennersLastBreath.png",
 						"description" : "A powerful last breath snatched from Crotus Prenn Asylum patient Mary Jenner. In the hands of The Nurse, it trembles with intensity."
 					},
 					{
-						"name" : "Campbell's Last Breath" ,
+						"name" : "Campbell's Last Breath",
 						"image" : "CampbellsLastBreath.png",
 						"description" : "A powerful last breath snatched from Crotus Prenn Asylum priest Father Campbell. In the hand of The Nurse, it crackles with intensity."
 					},
 					{
-						"name" : "\"Bad Man's\" Last Breath" ,
+						"name" : "\"Bad Man's\" Last Breath",
 						"image" : "BadMansLastBreath.png",
 						"description" : "A powerful last breath snatched from Crotus Prenn Asylum patient the \"Bad Man\". In the hands of The Nurse, it jolts with intensity."
 					}
@@ -420,102 +420,102 @@
 				"description" : "Something, or rather someone, is here now. I've never seen this... Shape before. A man hiding behind a mask. He comes with a determination. But more worrying, he comes with an apparent grasp of the hunt. He does not strike me as someone who even went unwillingly to this place. Is there more to this being than I can fathom?",
 				"addons" : [
 					{
-						"name" : "Tacky Earrings" ,
+						"name" : "Tacky Earrings",
 						"image" : "TackyEarrings.png",
 						"description" : "A very cheap piece of jewelry made from plastic. Painted to resemble precious material."
 					},
 					{
-						"name" : "Boyfriend's Memo" ,
+						"name" : "Boyfriend's Memo",
 						"image" : "BoyfriendsMemo.png",
 						"description" : "A <em>\"romantic\"</em>, if slightly sleazy, note left around to draw the attention of a female lover."
 					},
 					{
-						"name" : "Blond Hair" ,
+						"name" : "Blond Hair",
 						"image" : "BlondHair.png",
 						"description" : "A single slightly wavy blond hair."
 					},
 					{
-						"name" : "Reflective Fragment" ,
+						"name" : "Reflective Fragment",
 						"image" : "ReflectiveFragment.png",
 						"description" : "A tiny piece of a highly reflective material most probably from a broken mirror."
 					},
 					{
-						"name" : "Memorial Flower" ,
+						"name" : "Memorial Flower",
 						"image" : "MemorialFlower.png",
 						"description" : "A partially faded and dried pink larkspur picked up from a gravestone."
 					},
 					{
-						"name" : "Jewelry" ,
+						"name" : "Jewelry",
 						"image" : "Jewelry.png",
 						"description" : "A large necklace made of beads an inexpensive metals. One of Judith's favourites."
 					},
 					{
-						"name" : "Hair Brush" ,
+						"name" : "Hair Brush",
 						"image" : "HairBrush.png",
 						"description" : "A nylon bristle brush used to add body and softness to hair."
 					},
 					{
-						"name" : "Glass Fragment" ,
+						"name" : "Glass Fragment",
 						"image" : "GlassFragment.png",
 						"description" : "A tiny piece of tinted glass, probably from a broken object. It is impossible to determine its origin."
 					},
 					{
-						"name" : "Dead Rabbit" ,
+						"name" : "Dead Rabbit",
 						"image" : "DeadRabbit.png",
 						"description" : "A grey rabbit which has been opened from neck to tail."
 					},
 					{
-						"name" : "Mirror Shard" ,
+						"name" : "Mirror Shard",
 						"image" : "MirrorShard.png",
 						"description" : "A large and sharp piece of a broken mirror."
 					},
 					{
-						"name" : "Judith's Journal" ,
+						"name" : "Judith's Journal",
 						"image" : "JudithsJournal.png",
 						"description" : "A journal identified as owned by Judith M. Myers. Most of the pages are defaced with frightening and disturbing drawings."
 					},
 					{
-						"name" : "Jewelry Box" ,
+						"name" : "Jewelry Box",
 						"image" : "JewelryBox.png",
 						"description" : "A barren wooden box in which vanity items were once stored."
 					},
 					{
-						"name" : "J. Myers Memorial" ,
+						"name" : "J. Myers Memorial",
 						"image" : "JMyersMemorial.png",
 						"description" : "A glossy page ripped from the <em>1965 Haddonfield High School</em> yearbook, one dedicated to the memory of Judith Myers."
 					},
 					{
-						"name" : "Hair Bow" ,
+						"name" : "Hair Bow",
 						"image" : "HairBow.png",
 						"description" : "A blue tartan ribbon used to tie hair."
 					},
 					{
-						"name" : "Vanity Mirror" ,
+						"name" : "Vanity Mirror",
 						"image" : "VanityMirror.png",
 						"description" : "A standing portable vanity mirror in perfect condition except for a fine layer of dust and face powder covering it."
 					},
 					{
-						"name" : "Tombstone Piece" ,
+						"name" : "Tombstone Piece",
 						"image" : "TombstonePiece.png",
 						"description" : "A fist-sized granite piece taken from a broken tombstone."
 					},
 					{
-						"name" : "Scratched Mirror" ,
+						"name" : "Scratched Mirror",
 						"image" : "ScratchedMirror.png",
 						"description" : "A standing portable vanity mirror which has been violently scratched with a sharp metallic object."
 					},
 					{
-						"name" : "Lock of Hair" ,
+						"name" : "Lock of Hair",
 						"image" : "LockOfHair.png",
 						"description" : "A cut lock of blond hair bunched with a black elastic."
 					},
 					{
-						"name" : "Judith's Tombstone" ,
+						"name" : "Judith's Tombstone",
 						"image" : "JudithsTombstone.png",
 						"description" : "A large and heavy granite tombstone stolen from Mt. Sinclair cemetery, belonging to Judith Myers."
 					},
 					{
-						"name" : "Fragrant Tuft of Hair" ,
+						"name" : "Fragrant Tuft of Hair",
 						"image" : "FragrantTuftOfHair.png",
 						"description" : "A tuft of blond hair which was forcefully torn off someone's scalp. Releases hints of feminine floral fragrance."
 					}
@@ -527,102 +527,102 @@
 				"description" : "A new terror stalks the darkness; her appearance strikes me as more intense than the others after but a glimpse of her haggard silhouette. Twisted and torn in unspeakable ways, with greyish dead skin stretched out over her emaciated body.",
 				"addons" : [
 					{
-						"name" : "Rope Necklet" ,
+						"name" : "Rope Necklet",
 						"image" : "RopeNecklet.png",
 						"description" : "A rigid ornament worn around the neck made from dead plants."
 					},
 					{
-						"name" : "Powdered Eggshell" ,
+						"name" : "Powdered Eggshell",
 						"image" : "PowderedEggshell.png",
 						"description" : "Minuscule eggshell fragments shimmering with a pale golden hue."
 					},
 					{
-						"name" : "Dead Fly Mud" ,
+						"name" : "Dead Fly Mud",
 						"image" : "DeadFlyMud.png",
 						"description" : "A small lump of mud, black with the remains of flies. Devoured to increase stamina."
 					},
 					{
-						"name" : "Bog Water" ,
+						"name" : "Bog Water",
 						"image" : "BogWater.png",
 						"description" : "Murky water contained in a glass pill bottle from another time."
 					},
 					{
-						"name" : "Pussy Willow Catkins" ,
+						"name" : "Pussy Willow Catkins",
 						"image" : "PussyWillowCatkins.png",
 						"description" : "A handful of small, pristine flower clusters covered in a fine greyish fur."
 					},
 					{
-						"name" : "Half Eggshell" ,
+						"name" : "Half Eggshell",
 						"image" : "HalfEggshell.png",
 						"description" : "One half of a perfectly round hollow eggshell."
 					},
 					{
-						"name" : "Dragonfly Wings" ,
+						"name" : "Dragonfly Wings",
 						"image" : "DragonflyWings.png",
 						"description" : "A handful of yellowish wings, dry and crisp. Devoured to increase stamina."
 					},
 					{
-						"name" : "Cypress Necklet" ,
+						"name" : "Cypress Necklet",
 						"image" : "CypressNecklet.png",
 						"description" : "A rigid ornament worn around the neck made from dead plants adorned with crudely attached cypress bark and swamp moss."
 					},
 					{
-						"name" : "Bloodied Water" ,
+						"name" : "Bloodied Water",
 						"image" : "BloodiedWater.png",
 						"description" : "Tainted water contained in a folded water lily leaf."
 					},
 					{
-						"name" : "Willow Wreath" ,
+						"name" : "Willow Wreath",
 						"image" : "WillowWreath.png",
 						"description" : "Three frail willow branches attached to form a triangular wreath."
 					},
 					{
-						"name" : "Swamp Orchid Necklet" ,
+						"name" : "Swamp Orchid Necklet",
 						"image" : "SwampOrchidNecklet.png",
 						"description" : "A rigid ornament worn around the neck made from dead plants adorned with withered orchid petals and leaves."
 					},
 					{
-						"name" : "Dried Circada" ,
+						"name" : "Dried Circada",
 						"image" : "DriedCicada.png",
 						"description" : "A large swamp cicada covered in a fine layer of ash. Crispy. Devoured to increase stamina."
 					},
 					{
-						"name" : "Cracked Turtle Egg" ,
+						"name" : "Cracked Turtle Egg",
 						"image" : "CrackedTurtleEgg.png",
 						"description" : "A pale orange turtle egg, cracked and emptied of its content."
 					},
 					{
-						"name" : "Bloodied Mud" ,
+						"name" : "Bloodied Mud",
 						"image" : "BloodiedMud.png",
 						"description" : "A handful of mud with veins of deep crimson. The bloody layers empower the mud."
 					},
 					{
-						"name" : "Scarred Hand" ,
+						"name" : "Scarred Hand",
 						"image" : "ScarredHand.png",
 						"description" : "The cut up, severed hand of the cannibal village butcher. The trapped life essence within unlocks tremendous potential in The Hag's power."
 					},
 					{
-						"name" : "Rusty Shackles" ,
+						"name" : "Rusty Shackles",
 						"image" : "RustyShackles.png",
 						"description" : "Shackles once used to hold prisoners and carcasses in the cannibal village cellar. The trapped life essence within unlocks tremendous potential in The Hag's power."
 					},
 					{
-						"name" : "Granma's Heart" ,
+						"name" : "Granma's Heart",
 						"image" : "GranmasHeart.png",
 						"description" : "The cold heart of the cannibal village elder. The trapped life essence within unlocks tremendous potential in The Hag's power."
 					},
 					{
-						"name" : "Disfigured Ear" ,
+						"name" : "Disfigured Ear",
 						"image" : "DisfiguredEar.png",
 						"description" : "The cannibal village deaf boy's ear. Deformed due to several hits to the head. The trapped life essence within unlocks tremendous potential in The Hag's power."
 					},
 					{
-						"name" : "Waterlogged Shoe" ,
+						"name" : "Waterlogged Shoe",
 						"image" : "WaterloggedShoe.png",
 						"description" : "A child's shoe, long lost in the bog's waters. The trapped life essence within unlocks tremendous potential in The Hag's power."
 					},
 					{
-						"name" : "Mint Rag" ,
+						"name" : "Mint Rag",
 						"image" : "MintRag.png",
 						"description" : "A small piece of cotton torn from the dress worn by Lisa Sherwood on the day she disappeared. The trapped life essence within unlocks tremendous potential in The Hag's power."
 					}
@@ -634,102 +634,102 @@
 				"description" : "I have difficulty keeping my sanity. Each day, this altering world provides me with new trials. A man wearing the robes of a doctor crossed my path. From afar, I witness him walking around, searching.. But he was not...normal.",
 				"addons" : [
 					{
-						"name" : "Moldy Electrode" ,
+						"name" : "Moldy Electrode",
 						"image" : "MoldyElectrode.png",
 						"description" : "A moldy electrode which can nevertheless conduct a weak electrical current."
 					},
 					{
-						"name" : "Maple Knight" ,
+						"name" : "Maple Knight",
 						"image" : "MapleKnight.png",
 						"description" : "A white knight chess piece made of maple. This gift from an old man brings back distant memories and imbues The Doctor with devastating focus."
 					},
 					{
-						"name" : "\"Order\" - Class I" ,
+						"name" : "\"Order\" - Class I",
 						"image" : "OrderClassI.png",
 						"description" : "A conventional ECT procedure, part of a patient's daily routine at the Léry's Memorial Institute. Can cause a state of mild confusion in the patient."
 					},
 					{
-						"name" : "\"Calm\" - Class I" ,
+						"name" : "\"Calm\" - Class I",
 						"image" : "CalmClassI.png",
 						"description" : "An ECT procedure using a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure can cause mild anxiety in the patient."
 					},
 					{
-						"name" : "Scrapped Tape" ,
+						"name" : "Scrapped Tape",
 						"image" : "ScrappedTape.png",
 						"description" : "A compact cassette from <em>Project Awakening</em> containing mostly white noise. Opens The Doctor's mind to alternate treatment methods."
 					},
 					{
-						"name" : "Polished Electrode" ,
+						"name" : "Polished Electrode",
 						"image" : "PolishedElectrode.png",
 						"description" : "A like-new standard electrode equipment to conduct electro-convulsive treatments."
 					},
 					{
-						"name" : "Interview Tape" ,
+						"name" : "Interview Tape",
 						"image" : "InterviewTape.png",
 						"description" : "A compact cassette from <em>Project Awakening</em> containing an un-edited interview of a victim. Opens The Doctor's mind to alternate treatment methods."
 					},
 					{
-						"name" : "\"Restraint\" - Class II" ,
+						"name" : "\"Restraint\" - Class II",
 						"image" : "RestraintClassII.png",
 						"description" : "An experimental ECT procedure developed within the Fog. Uses a wavelength that links the patient's and Doctor's minds. This procedure is known to cause mild cases of hallucination in the patient."
 					},
 					{
-						"name" : "\"Order\" - Class II" ,
+						"name" : "\"Order\" - Class II",
 						"image" : "OrderClassII.png",
 						"description" : "A high stimulus ECT procedure, part of a patient's daily routine at the Léry's Memorial Institute. Can cause a state of moderate confusion in the patient."
 					},
 					{
-						"name" : "\"Discipline\" - Class II" ,
+						"name" : "\"Discipline\" - Class II",
 						"image" : "DisciplineClassII.png",
 						"description" : "<em>Project Awakening</em> ECT procedure for disciplinary action which uses a fixed dose at high voltage. Can cause a state of moderate paranoia in the patient."
 					},
 					{
-						"name" : "\"Calm\" - Class II" ,
+						"name" : "\"Calm\" - Class II",
 						"image" : "CalmClassII.png",
 						"description" : "A risky ECT procedure using a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure can cause moderate anxiety in the patient."
 					},
 					{
-						"name" : "High Stimulus Electrode" ,
+						"name" : "High Stimulus Electrode",
 						"image" : "HighStimulusElectrode.png",
 						"description" : "An experimental electrode that can withstand very high charges for a longer period of time."
 					},
 					{
-						"name" : "\"Restraint\" - Class III" ,
+						"name" : "\"Restraint\" - Class III",
 						"image" : "RestraintClassIII.png",
 						"description" : "An experimental ECT procedure developed within the Fog. Uses a high stimulus wavelength to link the patient's and Doctor's minds. This procedure is known to cause serious cases of hallucinations in the patient."
 					},
 					{
-						"name" : "\"Discipline\" - Class III" ,
+						"name" : "\"Discipline\" - Class III",
 						"image" : "DisciplineClassIII.png",
 						"description" : "<em>Project Awakening</em> ECT procedure for disciplinary action which uses a fixed dose at very high voltage. Can cause a state of serious paranoia in the patient."
 					},
 					{
-						"name" : "\"Restraint\" - Carter's Notes" ,
+						"name" : "\"Restraint\" - Carter's Notes",
 						"image" : "RestraintCartersNotes.png",
 						"description" : "An experimental ECT procedure developed within the Fog, crudely annotated. Uses an unbearable stimulus wavelength to link the patient's and Doctor's minds. This procedure is known to cause severe cases of hallucinations in the patient."
 					},
 					{
-						"name" : "\"Order\" - Carter's Notes" ,
+						"name" : "\"Order\" - Carter's Notes",
 						"image" : "OrderCartersNotes.png",
 						"description" : "An experimental version of the ECT procedure, annotated by Doctor Herman Carter himself The long, constant stimulus leaves the patient in a state of severe confusion."
 					},
 					{
-						"name" : "\"Obedience\" - Carter's Notes" ,
+						"name" : "\"Obedience\" - Carter's Notes",
 						"image" : "ObedienceCartersNotes.png",
 						"description" : "An experimental ECT procedure developed within the Fog, crudely annotated. The extra surge of power causes extreme muscle tension which depletes the patient's energy."
 					},
 					{
-						"name" : "\"Discipline\" - Carter's Notes" ,
+						"name" : "\"Discipline\" - Carter's Notes",
 						"image" : "DisciplineCartersNotes.png",
 						"description" : "<em>Project Awakening</em> ECT procedure for disciplinary action, annotated by Doctor Herman Carter himself. The intolerably high voltage leaves the patient in a severe state of paranoia."
 					},
 					{
-						"name" : "\"Calm\" - Carter's Notes" ,
+						"name" : "\"Calm\" - Carter's Notes",
 						"image" : "CalmCartersNotes.png",
 						"description" : "An experimental version of the ECT procedure annotated by Doctor Herman Carter himself. Uses a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure causes uncontrollable fear and anxiety in the patient."
 					},
 					{
-						"name" : "Iridescent King" ,
+						"name" : "Iridescent King",
 						"image" : "IridescentKing.png",
 						"description" : "A glass-like king chess piece moulded from The Fog itself. The Entity's trace reverberating within can break the most powerful minds."
 					}
@@ -741,102 +741,102 @@
 				"description" : "A figure clad in the head of a hare. A most disturbing sight. This new foe holds something human within her. Some shards of ordinary life. She seems to be a hunter.",
 				"addons" : [
 					{
-						"name" : "Coarse Stone" ,
+						"name" : "Coarse Stone",
 						"image" : "CoarseStone.png",
 						"description" : "This stone is too coarse to do any good. A blade damaged by it inflicts awful open wounds."
 					},
 					{
-						"name" : "Berus Toxin" ,
+						"name" : "Berus Toxin",
 						"image" : "BerusToxin.png",
 						"description" : "A toxin applied to the Hatchets' blades. The Berus snake toxin causes tiredness in such a small amount."
 					},
 					{
-						"name" : "Bandaged Haft" ,
+						"name" : "Bandaged Haft",
 						"image" : "BandagedHaft.png",
 						"description" : "First-aid bandages securely rolled and attached to the Hatchets' hafts."
 					},
 					{
-						"name" : "Amanita Toxin" ,
+						"name" : "Amanita Toxin",
 						"image" : "AmanitaToxin.png",
 						"description" : "A toxin applied to the Hatchet's blades. The Amanita mushrooms' toxin numbs the mind."
 					},
 					{
-						"name" : "Yew Seed Brew" ,
+						"name" : "Yew Seed Brew",
 						"image" : "YewSeedBrew.png",
 						"description" : "A toxic brew applied to the Hatchets' blades. The thick brew is mainly composed of yew seeds which give it paralytic capabilities."
 					},
 					{
-						"name" : "Shiny Pin" ,
+						"name" : "Shiny Pin",
 						"image" : "ShinyPin.png",
 						"description" : "A copper pin defaced beyond recognition yet polished to a high sheen. Pillaged from a particularly difficult prey."
 					},
 					{
-						"name" : "Oak Haft" ,
+						"name" : "Oak Haft",
 						"image" : "OakHaft.png",
 						"description" : "A circular decorative braid made from manna grass. This memory of a list little one fills The Huntress with rage and focus."
 					},
 					{
-						"name" : "Manna Grass Braid" ,
+						"name" : "Manna Grass Braid",
 						"image" : "MannaGrassBraid.png",
 						"description" : "This stone is too coarse to do any good. A blade damaged by it inflicts awful open wounds."
 					},
 					{
-						"name" : "Leather Loop" ,
+						"name" : "Leather Loop",
 						"image" : "LeatherLoop.png",
 						"description" : "This leather strip tied into a loop can be attached to a belt to allow easy transportation of tools."
 					},
 					{
-						"name" : "Fine Stone" ,
+						"name" : "Fine Stone",
 						"image" : "FineStone.png",
 						"description" : "This puck shaped honing tool can be used to sharpen the Hatchets' blades and inflicts clean wounds."
 					},
 					{
-						"name" : "Deerskin Gloves" ,
+						"name" : "Deerskin Gloves",
 						"image" : "DeerskinGloves.png",
 						"description" : "Cured leather gloves that protect the hands and give a sure grip."
 					},
 					{
-						"name" : "Yew Seed Concoction" ,
+						"name" : "Yew Seed Concoction",
 						"image" : "YewSeedConcoction.png",
 						"description" : "A toxic concoction applied to the Hatchets' blades. The muddy concoction is mainly composed of yew seeds which give it paralytic capabilities."
 					},
 					{
-						"name" : "Venomous Concoction" ,
+						"name" : "Venomous Concoction",
 						"image" : "VenomousConcoction.png",
 						"description" : "A toxic concoction applied to the Hatchets' blades. The murky concoction is mainly composed of Berus snake venom which gives it fatiguing capabilities."
 					},
 					{
-						"name" : "Rusty Head" ,
+						"name" : "Rusty Head",
 						"image" : "RustyHead.png",
 						"description" : "These Hatchets' heads are covered with crusty and volatile rust spots that make injuries particularly difficult to heal from."
 					},
 					{
-						"name" : "Pungent Fiale" ,
+						"name" : "Pungent Fiale",
 						"image" : "PungentFiale.png",
 						"description" : "The clear liquid has a very particular stench that can be recognised and tracked by some animals."
 					},
 					{
-						"name" : "Flower Babushka" ,
+						"name" : "Flower Babushka",
 						"image" : "FlowerBabushka.png",
 						"description" : "A clean and colourful handkerchief adorned with a flower pattern. This memory of a lost little one fills The Huntress with rage and focus."
 					},
 					{
-						"name" : "Infantry Belt" ,
+						"name" : "Infantry Belt",
 						"image" : "InfantryBelt.png",
 						"description" : "A sturdy utility belt pillaged from a soldier. Its multiple leather loops and holsters are useful to transport tools."
 					},
 					{
-						"name" : "Glowing Concoction" ,
+						"name" : "Glowing Concoction",
 						"image" : "GlowingConcoction.png",
 						"description" : "An otherworldly concoction that faintly glows a foreboding light."
 					},
 					{
-						"name" : "Begrimed Head" ,
+						"name" : "Begrimed Head",
 						"image" : "BegrimedHead.png",
 						"description" : "These Hatchets' heads are stained with a foul substance that afflicts anyone who it touches with debilities."
 					},
 					{
-						"name" : "Iridescent Head" ,
+						"name" : "Iridescent Head",
 						"image" : "IridescentHead.png",
 						"description" : "A glass-like Hatchet head moulded from The Fog itself. The blade is warm and reverberating with The Entity's power."
 					}
@@ -848,97 +848,97 @@
 				"description" : "Whether killers perform their heinous acts by the compulsions of their diseased minds, or if they are forced into them by external pressures, has long been a matter of debate. But for one killer, nature and nurture are inextricably linked.",
 				"addons" : [
 					{
-						"name" : "Vegetable Oil" ,
+						"name" : "Vegetable Oil",
 						"image" : "VegetableOil.png",
 						"description" : "A rancid oil used as a poor quality lubricant."
 					},
 					{
-						"name" : "Spark Plug" ,
+						"name" : "Spark Plug",
 						"image" : "SparkPlug.png",
 						"description" : "A clean spark plug fitted for a Chainsaw."
 					},
 					{
-						"name" : "Chainsaw File" ,
+						"name" : "Chainsaw File",
 						"image" : "ChainsawFile.png",
 						"description" : "A file whose purpose is to hone Chainsaw chains."
 					},
 					{
-						"name" : "Speed Limiter" ,
+						"name" : "Speed Limiter",
 						"image" : "SpeedLimiter.png",
 						"description" : "A mechanical device that limits the amount of fuel small engines can intake at one time, forcing a constant and safe speed."
 					},
 					{
-						"name" : "Shop Lubricant" ,
+						"name" : "Shop Lubricant",
 						"image" : "ShopLubricant.png",
 						"description" : "An oil specifically formulated for Chainsaws. A special additive prevents oil throw off."
 					},
 					{
-						"name" : "Primer Bulb" ,
+						"name" : "Primer Bulb",
 						"image" : "PrimerBulb.png",
 						"description" : "Pumps more gas in the ignition system to ensure a quick and powerful start."
 					},
 					{
-						"name" : "Long Guide Bar" ,
+						"name" : "Long Guide Bar",
 						"image" : "LongGuideBar.png",
 						"description" : "A sturdy iron replacement bar for long chains."
 					},
 					{
-						"name" : "Knife Scratches" ,
+						"name" : "Knife Scratches",
 						"image" : "KnifeScratches.png",
 						"description" : "Scratches cover the Chainsaw's body, caused by a searing blade. Memories of reprimands fill its holder with the fear of failure."
 					},
 					{
-						"name" : "Homemade Muffler" ,
+						"name" : "Homemade Muffler",
 						"image" : "HomemadeMuffler.png",
 						"description" : "A makeshift exhaust system made of black gas pipes."
 					},
 					{
-						"name" : "Grisly Chains" ,
+						"name" : "Grisly Chains",
 						"image" : "GrislyChains.png",
 						"description" : "A chain with unusually hefty cutter teeth that leaves victims crippled even after being healed."
 					},
 					{
-						"name" : "Depth Gauge Rake" ,
+						"name" : "Depth Gauge Rake",
 						"image" : "DepthGaugeRake.png",
 						"description" : "Tool that increases the angle of the depth gauge, making the chain eat more \"wood\"."
 					},
 					{
-						"name" : "Chilli" ,
+						"name" : "Chilli",
 						"image" : "Chilli.png",
 						"description" : "A big bowl of steaming Chilli to keep you fresh and strong."
 					},
 					{
-						"name" : "The Grease" ,
+						"name" : "The Grease",
 						"image" : "TheGrease.png",
 						"description" : "A thick yellowish ooze, concocted by the Sawyers. Used for all-purpose lubrication around their house."
 					},
 					{
-						"name" : "The Beast's Marks" ,
+						"name" : "The Beast's Marks",
 						"image" : "TheBeastsMarks.png",
 						"description" : "Jagged marks cover the Chainsaw's body, punishment from the dark beast that lives in The Fog. Memories of violent reprimands fill its holder with the fear of failure."
 					},
 					{
-						"name" : "Rusted Chains" ,
+						"name" : "Rusted Chains",
 						"image" : "RustedChains.png",
 						"description" : "This chain is covered with crusty and volatile rust spots that make injuries particularly difficult to heal."
 					},
 					{
-						"name" : "Light Chassis" ,
+						"name" : "Light Chassis",
 						"image" : "LightChassis.png",
 						"description" : "A light and durable Chainsaw chassis with a shorter guide bar. Makes the Chainsaw easier to handle."
 					},
 					{
-						"name" : "Carburetor Tuning Guide" ,
+						"name" : "Carburetor Tuning Guide",
 						"image" : "CarburetorTuningGuide.png",
 						"description" : "A crudely drawn guide to properly adjust and tune a Chainsaw carburetor."
 					},
 					{
-						"name" : "Begrimed Chains" ,
+						"name" : "Begrimed Chains",
 						"image" : "BegrimedChains.png",
 						"description" : "This chain is stained with a foul substance that debilitates anyone it touches."
 					},
 					{
-						"name" : "Award-winning Chilli" ,
+						"name" : "Award-winning Chilli",
 						"image" : "Award-winningChilli.png",
 						"description" : "A big bowl of spicy Chilli made famous thanks to prime meat."
 					}
@@ -950,102 +950,102 @@
 				"description" : "This place plays tricks on your mind…constantly I question whether I dream or if I am awake. This most recent horrid ghoul seems to bridge that gap – between the states of being awake or asleep. I saw him hunting another poor soul, someone who was not as lucky as me. A man with a hat and a claw clad hand, a scarred man of sorts.",
 				"addons" : [
 					{
-						"name" : "Wool Shirt" ,
+						"name" : "Wool Shirt",
 						"image" : "WoolShirt.png",
 						"description" : "A small boy's orange and yellow striped shirt. Identified with a sewn name tag to \"Jesse\"."
 					},
 					{
-						"name" : "Sheep Block" ,
+						"name" : "Sheep Block",
 						"image" : "SheepBlock.png",
 						"description" : "A white and blue wooden block depicting two woolly Lambs grazing and the letter \"S\"."
 					},
 					{
-						"name" : "Kid's Drawing" ,
+						"name" : "Kid's Drawing",
 						"image" : "KidsDrawing.png",
 						"description" : "An unattributed drawing clearly crafted by a young child."
 					},
 					{
-						"name" : "Garden Rake" ,
+						"name" : "Garden Rake",
 						"image" : "GardenRake.png",
 						"description" : "A small claw rake, a must have tool for any accomplished gardener."
 					},
 					{
-						"name" : "Prototype Claws" ,
+						"name" : "Prototype Claws",
 						"image" : "PrototypeClaws.png",
 						"description" : "A home-made tool to facilitate bush trimming."
 					},
 					{
-						"name" : "Outdoor Rope" ,
+						"name" : "Outdoor Rope",
 						"image" : "OutdoorRope.png",
 						"description" : "Sturdy outdoor rope, handy to tie up anything."
 					},
 					{
-						"name" : "Nancy's Sketch" ,
+						"name" : "Nancy's Sketch",
 						"image" : "NancysSketch.png",
 						"description" : "A crude and bold sketch made with Fusain, signed by Nancy H."
 					},
 					{
-						"name" : "Green Dress" ,
+						"name" : "Green Dress",
 						"image" : "GreenDress.png",
 						"description" : "A little girl's green dress with a silky white ribbon."
 					},
 					{
-						"name" : "Cat Block" ,
+						"name" : "Cat Block",
 						"image" : "CatBlock.png",
 						"description" : "A white and purple wooden block depicting a sleeping Cat and the letter \"C\"."
 					},
 					{
-						"name" : "Unicorn Block" ,
+						"name" : "Unicorn Block",
 						"image" : "UnicornBlock.png",
 						"description" : "A white and red wooden block depicting a prancing Unicorn and the letter \"U\"."
 					},
 					{
-						"name" : "Swing Chains" ,
+						"name" : "Swing Chains",
 						"image" : "SwingChains.png",
 						"description" : "Rusty, but sturdy chains used to securely attach a swing seat."
 					},
 					{
-						"name" : "Nancy's Masterpiece" ,
+						"name" : "Nancy's Masterpiece",
 						"image" : "NancysMasterpiece.png",
 						"description" : "A painting of a Character, made by Nancy Holbrook at Badham and kept as a treasure memory."
 					},
 					{
-						"name" : "Jump Rope" ,
+						"name" : "Jump Rope",
 						"image" : "JumpRope.png",
 						"description" : "A long Double Dutch jump rope, stained with many years of use."
 					},
 					{
-						"name" : "Blue Dress" ,
+						"name" : "Blue Dress",
 						"image" : "BlueDress.png",
 						"description" : "A little girl's pale blue dress with white lace which's front is ruined by large cuts."
 					},
 					{
-						"name" : "Pill Bottle" ,
+						"name" : "Pill Bottle",
 						"image" : "PillBottle.png",
 						"description" : "An empty pill bottle which once contained a medicine called <em>\"Zoneral\"</em>."
 					},
 					{
-						"name" : "Paint Thinner" ,
+						"name" : "Paint Thinner",
 						"image" : "PaintThinner.png",
 						"description" : "A tin of a highly volatile and inflammable material."
 					},
 					{
-						"name" : "Class Photo" ,
+						"name" : "Class Photo",
 						"image" : "ClassPhoto.png",
 						"description" : "A large photograph taken at Badham Preschool showing the cheerful class of 94-95."
 					},
 					{
-						"name" : "\"Z\" Block" ,
+						"name" : "\"Z\" Block",
 						"image" : "ZBlock.png",
 						"description" : "A deeply scratched and burnt wooden block which's only recognisable feature is the letter \"Z\"."
 					},
 					{
-						"name" : "Red Paint Brush" ,
+						"name" : "Red Paint Brush",
 						"image" : "RedPaintBrush.png",
 						"description" : "A large paint brush, wet with crimson paint."
 					},
 					{
-						"name" : "Black Box" ,
+						"name" : "Black Box",
 						"image" : "BlackBox.png",
 						"description" : "A black cardboard box filled with photographs."
 					}
@@ -1054,344 +1054,344 @@
 		],
 		"perks" : [
 			{
-				"name" : "A Nurse's Calling" ,
+				"name" : "A Nurse's Calling",
 				"image" : "ANursesCalling.png",
 				"description" : "Unlocks potential in one's Aura reading ability. The Auras of Survivors who are healing or being healed are revealed to you when they are within 20/24/28 metres of range."
 			},
 			{
-				"name" : "Agitation" ,
+				"name" : "Agitation",
 				"image" : "Agitation.png",
 				"description" : "You get excited in anticipation of hooking your prey. Increases your speed while transporting bodies by 6/12/18 %. While transporting a body, your Terror Radius is increased by 6/8/12 metres."
 			},
 			{
-				"name" : "Barbecue & Chilli" ,
+				"name" : "Barbecue & Chilli",
 				"image" : "BarbecueAndChilli.png",
 				"description" : "A deep bond with The Entity unlocks potential in one's Aura reading ability. After hooking a Survivor, all other Survivors' Auras are revealed to you for 4 seconds when they are further than 52/46/40 metres from the Hook. Each time a Survivor is hooked for the first time, gain a 15/20/25 % stackable Bonus to all Bloodpoint gains. The Bonus Bloodpoints are only awarded post-trial."
 			},
 			{
-				"name" : "Beast Of Prey" ,
+				"name" : "Beast Of Prey",
 				"image" : "BeastOfPrey.png",
 				"description" : "Your lust for a kill is so intense that your connection with the Entity is momentarily lost, making you totally unpredictable. The Red Stain disappears for 15/20/25 seconds when Bloodlust activates. Beast of Prey has a cooldown of 120 seconds."
 			},
 			{
-				"name" : "Bitter Murmur" ,
+				"name" : "Bitter Murmur",
 				"image" : "BitterMurmur.png",
 				"description" : "Unlocks potential in one's Aura reading ability. Survivors' Auras are revealed to you for a duration of 5/7/9 seconds when the Exit Gates are powered."
 			},
 			{
-				"name" : "Bloodhound" ,
+				"name" : "Bloodhound",
 				"image" : "Bloodhound.png",
 				"description" : "Like a hunting scent hound, you smell traces of blood at a great distance. Fresh Blood Stains are considerably more discernible than normal and can be tracked for 2/3/4 seconds longer than normal."
 			},
 			{
-				"name" : "Blood Warden" ,
+				"name" : "Blood Warden",
 				"image" : "BloodWarden.png",
 				"description" : "Once per match, once at least one Exit Gate is opened, hooking a Survivor summons The Entity to block the exits for all Survivors for 30/40/60 seconds. While Blood Warden is active, Auras of Survivors located within the Exit Gates are revealed to you."
 			},
 			{
-				"name" : "Brutal Strength" ,
+				"name" : "Brutal Strength",
 				"image" : "BrutalStrength.png",
 				"description" : "Your great strength allows you to shred through your prey's defences. Destroy dropped Pallets 10/15/20 % faster."
 			},
 			{
-				"name" : "Deerstalker" ,
+				"name" : "Deerstalker",
 				"image" : "Deerstalker.png",
 				"description" : "Unlocks potential in one's Aura reading ability. Reveals dying Survivors' Auras when standing within 12/24/36 metres."
 			},
 			{
-				"name" : "Distressing" ,
+				"name" : "Distressing",
 				"image" : "Distressing.png",
 				"description" : "Your horrifying emanation strikes at a supernaturally long distance. Your Terror Radius is increased by 22/24/26 %. Gain 50/75/100 % more Bloodpoints for actions in the Deviousness category. The Bonus Bloodpoints are only awarded during the trial."
 			},
 			{
-				"name" : "Dying Light" ,
+				"name" : "Dying Light",
 				"image" : "DyingLight.png",
 				"description" : "You become obsessed with one Survivor. Your Obsession's altruistic action speed is increased by 38/44/50 %. Once the Obsession is killed or sacrificed, every other Survivor gets a penalty of 19/22/25 % to repair, healing and sabotage speed."
 			},
 			{
-				"name" : "Enduring" ,
+				"name" : "Enduring",
 				"image" : "Enduring.png",
 				"description" : "You are resilient to pain. Your rate of recovery from stuns is increased by 50/60/75 %."
 			},
 			{
-				"name" : "Fire Up" ,
+				"name" : "Fire Up",
 				"image" : "FireUp.png",
 				"description" : "The increased pressure of losing your preys fills you with anger and gives you unsuspected motivation. Each time the Survivors complete repairs on a Generator, Fire Up grows in power and grants speed bonus to pick up, drop, Pallet break, Generator break and vaults. 2 Tokens: Receive 6/8/10 % action speed bonus. 3 Tokens: Receive 8/10/12 % action speed bonus. 4 Tokens: Receive 10/12/14 % action speed bonus."
 			},
 			{
-				"name" : "Franklin's Demise" ,
+				"name" : "Franklin's Demise",
 				"image" : "FranklinsDemise.png",
 				"description" : "Your vicious attacks make the Survivors drop their Item on impact. The lost Item is damaged in the fall, losing 0/5/10 % of its base amount of Charges."
 			},
 			{
-				"name" : "Insidious" ,
+				"name" : "Insidious",
 				"image" : "Insidious.png",
 				"description" : "Unlocks the stealth ability. By standing still for 4/3/2 seconds, you reduce your Terror Radius to 0 metres and thus become stealthy until you move or act again."
 			},
 			{
-				"name" : "Iron Grasp" ,
+				"name" : "Iron Grasp",
 				"image" : "IronGrasp.png",
 				"description" : "Your powerful hold onto the Survivors causes escapes to be nearly impossible. Effects of Survivors' wiggling are reduced by 25/50/75 %. Time to wiggle free from your grasp is increased by 4/8/12 %."
 			},
 			{
-				"name" : "Hex: Devour Hope" ,
+				"name" : "Hex: Devour Hope",
 				"image" : "DevourHope.png",
 				"description" : "A Hex rooting its power on hope. The false hope of Survivors ignites your hunger. When a Survivor is rescued from a hook at least 24 metres away, Devour Hope receives a Token. 2 Tokens: ―/―/Gain a 5% speed burst for 10 seconds after hooking a Survivor. Speed burst triggers 10 seconds after hooking a Survivor. 3 Tokens: ―/Attacks put Survivors into the dying state automatically./Attacks put Survivors into the dying state automatically. 5 Tokens: Grants the ability to kill Survivors by your own hand./Grants the ability to kill Survivors by your own hand./Grants the ability to kill Survivors by your own hand."
 			},
 			{
-				"name" : "Hex: Huntress' Lullaby" ,
+				"name" : "Hex: Huntress' Lullaby",
 				"image" : "HexHuntressLullaby.png",
 				"description" : "A Hex rooting its power in despair. Your hunt is an irresistible song of dread which muddles your prey’s attention. Survivors receive a 2/4/6 % regression penalty when missing any Skill Check. Each time a Survivor is hooked, Huntress Lullaby grows in power: 1 to 4 Tokens: Time between the Skill Check warning sound and the Skill Check becomes shorter. 5 Tokens: No Skill Check warning."
 			},
 			{
-				"name" : "Hex: No One Escapes Death" ,
+				"name" : "Hex: No One Escapes Death",
 				"image" : "NoOneEscapesDeath.png",
 				"description" : "A Hex rooting its power on hope. You are animated by the power of your Hex Totem when the Survivors are on the verge of escaping. Once the Exit Gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, ―/―/Successful attacks trigger Dying State automatically, cooldowns on successful and missed attacks are decreased by 4/8/8 % and your movement speed is increased by 3/4/4 %."
 			},
 			{
-				"name" : "Hex: Ruin" ,
+				"name" : "Hex: Ruin",
 				"image" : "Ruin.png",
 				"description" : "A Hex that affects the Survivors' skills at repairing Generators. 2/3/4 Survivors are affected by Ruin, which causes Good Skill Checks to result in 5% regression on the Generator and Great Skill Checks grant 0% in progression."
 			},
 			{
-				"name" : "Hex: The Third Seal" ,
+				"name" : "Hex: The Third Seal",
 				"image" : "TheThirdSeal.png",
 				"description" : "A Hex that hinders one's Aura reading ability. Hitting a Survivor while the Hex Totem is active reduces the effectiveness of their Aura reading ability by 100%. This effect applies to the last 2/3/4 Survivors hit."
 			},
 			{
-				"name" : "Hex: Thrill of the Hunt" ,
+				"name" : "Hex: Thrill of the Hunt",
 				"image" : "ThrillOfTheHunt.png",
 				"description" : "A Hex rooting its power on hope. The false hope of Survivors fills you with excitement and strengthens your totems. For each Dull Totem and Hex Totem remaining on the Map gain a Token. Gain 6/8/10 % more Bloodpoints for actions in the Hunter category for each Token. Survivors' cleansing speed is reduced by 4/5/6 % for each Token. Gain a notification when someone starts working on a Hex Totem."
 			},
 			{
-				"name" : "Knock Out" ,
+				"name" : "Knock Out",
 				"image" : "KnockOut.png",
 				"description" : "The trauma caused by your brutal attacks makes crying for help painfully difficult. Dying Survivors' Auras are not revealed to other Survivors when they are standing outside of 32/24/16 metres of range."
 			},
 			{
-				"name" : "Lightborn" ,
+				"name" : "Lightborn",
 				"image" : "Lightborn.png",
 				"description" : "Unlike other beasts of the fog, you have adapted to light. Resistance to blindness is increased by 20/40/60 %. Recovery from blindness is increased by 50%."
 			},
 			{
-				"name" : "Monitor & Abuse" ,
+				"name" : "Monitor & Abuse",
 				"image" : "MonitorAndAbuse.png",
 				"description" : "Meticulous in your approach, terrifying in your application. While in a chase, your Terror Radius is increased by 6/7/8 metres. Otherwise your Terror Radius is decreased by 6/7/8 metres and your field of view is slightly/moderately/considerably increased."
 			},
 			{
-				"name" : "Monstrous Shrine" ,
+				"name" : "Monstrous Shrine",
 				"image" : "MonstrousShrine.png",
 				"description" : "Your fervent care of the hooks found in the Basement has aroused the Entity interest. The Basement Hooks are granted the following bonuses: 3/6/9 % faster Entity progression. 5/10/15 % increased difficulty on escape attempts. 3/6/9 % increased penalty to escape fails."
 			},
 			{
-				"name" : "Overcharge" ,
+				"name" : "Overcharge",
 				"image" : "GeneratorOvercharge.png",
 				"description" : "You are fuelled by your hate for progress. Overcharge a Generator by performing the Damage Generator action. The next Survivor interacting with that Generator is faced with a moderately/considerably/tremendously difficult Skill Check. Failing the Skill Check results in an additional 3/4/5 % Generator regression."
 			},
 			{
-				"name" : "Overwhelming Presence" ,
+				"name" : "Overwhelming Presence",
 				"image" : "OverwhelmingPresence.png",
 				"description" : "Your presence alone instils great fear. Survivors within your Terror Radius suffer from inefficiency. Affected Survivors' Item consumption rates are increased by 80/90/100 %."
 			},
 			{
-				"name" : "Remember Me" ,
+				"name" : "Remember Me",
 				"image" : "RememberMe.png",
 				"description" : "You become obsessed with one Survivor. Each time you hit your Obsession, you increase the opening time of the Exit Gates by 5 seconds up to a maximum of 20 additional/25 additional/30 additional seconds. The Obsession is not affected by Remember Me."
 			},
 			{
-				"name" : "Play With Your Food" ,
+				"name" : "Play With Your Food",
 				"image" : "PlayWithYourFood.png",
 				"description" : "You become obsessed with one Survivor. Every time you chase your Obsession and let them escape, you receive a Token up to a maximum of 3 Tokens. Each Token increases your movement speed by 3/4/5 %. Each offensive action spends one Token."
 			},
 			{
-				"name" : "Predator" ,
+				"name" : "Predator",
 				"image" : "Predator.png",
 				"description" : "Your acute tracking ability allows you to follow disturbances left by passing prey over a longer period of time. Footstep marks stay visible 1/2/3 seconds longer than normal."
 			},
 			{
-				"name" : "Save The Best For Last" ,
+				"name" : "Save The Best For Last",
 				"image" : "SaveTheBestForLast.png",
 				"description" : "You become obsessed with one Survivor. As long as your Obsession is alive, after being in a chase for 20 seconds the cool-down for your next successful attack is decreased by 30/35/40 %. Your successful attack cool-down remains active for 5 seconds seconds after a chase. Re-initialising a chase before the 5 seconds have lapsed will reset the successful attack cool-down timer."
 			},
 			{
-				"name" : "Shadowborn" ,
+				"name" : "Shadowborn",
 				"image" : "Shadowborn.png",
 				"description" : "You have a keen vision in the darkness of the night. Your field of view is moderately/considerably/tremendously wider than normal."
 			},
 			{
-				"name" : "Sloppy Butcher" ,
+				"name" : "Sloppy Butcher",
 				"image" : "SloppyButcher.png",
 				"description" : "You know where to hit to make them bleed. Wounds inflicted by successful attacks slightly/moderately/considerably increase the Survivor's Bleeding frequency. Bleeding returns to normal once the Survivor is healed."
 			},
 			{
-				"name" : "Spies From The Shadows" ,
+				"name" : "Spies From The Shadows",
 				"image" : "SpiesFromTheShadows.png",
 				"description" : "The Crows found in the world can communicate directly with you. 50/50/75 % of the time, cawing Crows give you a visual clue when you are within a 16/24/36 metres."
 			},
 			{
-				"name" : "Stridor" ,
+				"name" : "Stridor",
 				"image" : "Stridor.png",
 				"description" : "Breathing of Survivors in pain is 25/50/50 % louder. Regular Survivor breathing is now also 0/0/25 % louder."
 			},
 			{
-				"name" : "Territorial Imperative" ,
+				"name" : "Territorial Imperative",
 				"image" : "TerritorialImperative.png",
 				"description" : "Unlocks potential in one's Aura reading ability. Survivors' Auras are revealed to you for 3 seconds when they enter the Basement and you are more than 32 metres away from the Basement entrance. Territorial Imperative can only be triggered once every 60/45/30 seconds."
 			},
 			{
-				"name" : "Tinkerer" ,
+				"name" : "Tinkerer",
 				"image" : "Tinkerer.png",
 				"description" : "Add-ons that affect the charge time of your Power are 6/8/10 % more effective."
 			},
 			{
-				"name" : "Thanatophobia" ,
+				"name" : "Thanatophobia",
 				"image" : "Thanatophobia.png",
 				"description" : "All Survivors receive penalties to repair, healing and sabotage speeds for each injured, dying or hooked Survivor. 1 injured, dying or hooked survivor decrease repair, healing and sabotage speed by 4/5/6 %. 2 injured, dying or hooked survivor decrease repair, healing and sabotage speed by 7/8/9 %. 3 injured, dying or hooked survivor decrease repair, healing and sabotage speed by 10/11/12 %. 4 injured, dying or hooked survivor decrease repair, healing and sabotage speed by 13/14/15 %."
 			},
 			{
-				"name" : "Unnerving Presence" ,
+				"name" : "Unnerving Presence",
 				"image" : "UnnervingPresence.png",
 				"description" : "Your presence alone instils great fear. Survivors within your Terror Radius have a 6/8/10 % greater chance of triggering Skill Checks when repairing, healing or sabotaging. Triggered Skill Checks' success zones are reduced by 40/50/60 %."
 			},
 			{
-				"name" : "Unrelenting" ,
+				"name" : "Unrelenting",
 				"image" : "Unrelenting.png",
 				"description" : "You recuperate faster from any attack made with your main weapon. The cooldown of missed attacks is reduced by 20/25/30 %."
 			},
 			{
-				"name" : "Whispers" ,
+				"name" : "Whispers",
 				"image" : "Whispers.png",
 				"description" : "You have a rudimentary understanding of the Entity voice. Sporadically hear the Entity's Whisper when standing within a 48/40/32 metres of a Survivor."
 			}
 		],
 		"offerings" : [
 			{
-				"name" : "Ebony Memento Mori" ,
+				"name" : "Ebony Memento Mori",
 				"image" : "EbonyMementoMori.png",
 				"description" : "I could swear It spoke to the beast. It came to a halt, as if calmly listening to the leaves rustling, and then... grinned."
 			},
 			{
-				"name" : "New Moon Bouquet" ,
+				"name" : "New Moon Bouquet",
 				"image" : "NewMoonBouquet.png",
 				"description" : "Better go back to sleep, there is no moon this night."
 			},
 			{
-				"name" : "Cut Coin" ,
+				"name" : "Cut Coin",
 				"image" : "CutCoin.png",
 				"description" : "Two halves of a thick metallic coin."
 			},
 			{
-				"name" : "Full Moon Bouquet" ,
+				"name" : "Full Moon Bouquet",
 				"image" : "FullMoonBouquet.png",
 				"description" : "As the moon rises, the wolves howl, marking the beginning of the hunt."
 			},
 			{
-				"name" : "Murky Reagent" ,
+				"name" : "Murky Reagent",
 				"image" : "MurkyReagent.png",
 				"description" : "As the moon rises, the wolves howl, marking the beginning of the hunt."
 			},
 			{
-				"name" : "Putrid Oak" ,
+				"name" : "Putrid Oak",
 				"image" : "PutridOak.png",
 				"description" : "A ruined piece of oak oozing with a black putrescent liquid."
 			},
 			{
-				"name" : "Azarov's Key" ,
+				"name" : "Azarov's Key",
 				"image" : "AzarovsKey.png",
 				"description" : "A broken key pertaining to a vehicle of unknown brand. A key-chain attached to it identifies the owner as a certain A. Azarov."
 			},
 			{
-				"name" : "Charred Wedding Photograph" ,
+				"name" : "Charred Wedding Photograph",
 				"image" : "CharredWeddingPhotograph.png",
 				"description" : "A burned portrait of a couple on their wedding day, the faces are completely charred and unidentifiable."
 			},
 			{
-				"name" : "Granma's Cookbook" ,
+				"name" : "Granma's Cookbook",
 				"image" : "GranmasCookbook.png",
 				"description" : "A leather-bound book containing horrible human meat recipes such as the granny-slapping good chilli."
 			},
 			{
-				"name" : "Heart Locket" ,
+				"name" : "Heart Locket",
 				"image" : "HeartLocket.png",
 				"description" : "A silver heart locket necklace. The simple interior is engraved with the following: 'E+M'."
 			},
 			{
-				"name" : "Ivory Memento Mori" ,
+				"name" : "Ivory Memento Mori",
 				"image" : "IvoryMementoMori.png",
 				"description" : "Grant me the favour of killing one."
 			},
 			{
-				"name" : "MacMillan's Phalanx Bone" ,
+				"name" : "MacMillan's Phalanx Bone",
 				"image" : "MacMillansPhalanxBone.png",
 				"description" : "MacMillan's skeletal remains were found in the basement of the mine's storehouse. His leg bones shattered into pieces and a mining hammer lying in his lap."
 			},
 			{
-				"name" : "Rotten Oak" ,
+				"name" : "Rotten Oak",
 				"image" : "RottenOak.png",
 				"description" : "A decomposing piece of oak in which strange markings have been etched."
 			},
 			{
-				"name" : "Shattered Glasses" ,
+				"name" : "Shattered Glasses",
 				"image" : "ShatteredGlasses.png",
 				"description" : "Bent reading glasses. Speckles of dried blood can be seen on the shattered lenses."
 			},
 			{
-				"name" : "Strode Realty Key" ,
+				"name" : "Strode Realty Key",
 				"image" : "StrodeRealtyKey.png",
 				"description" : "A house key, mundane in appearance. A cardboard key-tag attached to it reads 'Strode Real Estate', followed by a handwritten address: '45 Lampkin Lane'."
 			},
 			{
-				"name" : "The Last Mask" ,
+				"name" : "The Last Mask",
 				"image" : "TheLastMask.png",
 				"description" : "A beautifully crafted tiger mask that would fit snug on a child's face. A faded note in the Cyrillic alphabet can be found scripted on the back."
 			},
 			{
-				"name" : "The Pied Piper" ,
+				"name" : "The Pied Piper",
 				"image" : "ThePiedPiper.png",
 				"description" : "Betrayed by the town, he exact his revenge by taking all their children."
 			},
 			{
-				"name" : "Crescent Moon Bouquet" ,
+				"name" : "Crescent Moon Bouquet",
 				"image" : "CrescentMoonBouquet.png",
 				"description" : "The moon slowly fades into a smile: \"Don't worry, your secret is safe with me.\" Or is it a grin?"
 			},
 			{
-				"name" : "Cypress Memento Mori" ,
+				"name" : "Cypress Memento Mori",
 				"image" : "CypressMementoMori.png",
 				"description" : "You worked well, the last one is yours."
 			},
 			{
-				"name" : "Hazy Reagent" ,
+				"name" : "Hazy Reagent",
 				"image" : "HazyReagent.png",
 				"description" : "The Mist is alluring, hypnotising. I love it and fear it at the same time."
 			},
 			{
-				"name" : "Moldy Oak" ,
+				"name" : "Moldy Oak",
 				"image" : "MoldyOak.png",
 				"description" : "A damp and decaying piece of oak replete with mold."
 			},
 			{
-				"name" : "Quarter Moon Bouquet" ,
+				"name" : "Quarter Moon Bouquet",
 				"image" : "QuarterMoonBouquet.png",
 				"description" : "The old moon shows her face, looking down on the preys."
 			},
 			{
-				"name" : "Scratched Coin" ,
+				"name" : "Scratched Coin",
 				"image" : "ScratchedCoin.png",
 				"description" : "A defaced coin of unknown origin."
 			},
 			{
-				"name" : "Shroud Of Separation" ,
+				"name" : "Shroud Of Separation",
 				"image" : "ShroudOfSeparation.png",
 				"description" : "A square and washed out piece of fabric with small knots on each end."
 			},
 			{
-				"name" : "Clear Reagent" ,
+				"name" : "Clear Reagent",
 				"image" : "ClearReagent.png",
 				"description" : "The Mist rolls in, traps all in its deep madness. There is no running, no escape, no asylum, except for the clear waters of the pond lost in the forest."
 			},
 			{
-				"name" : "Faint Reagent" ,
+				"name" : "Faint Reagent",
 				"image" : "FaintReagent.png",
 				"description" : "Paralysed, I stand in the cold as death lingers."
 			}
@@ -1399,134 +1399,482 @@
 	},
 	"survivorData" : {
 		"survivors" : [
-			"Dwight Fairfield",
-			"Meg Thomas",
-			"Claudette Morel",
-			"Jake Park",
-			"Laurie Strode",
-			"Ace Visconti",
-			"Nea Karlsson",
-			"William \"Bill\" Overbeck",
-			"David King",
-			"Feng Min",
-			"Quentin Smith"
+			{
+				"name" : "Dwight Fairfield",
+				"image" : "Dwight.png",
+				"description" : ""
+			},
+			{
+				"name" : "Meg Thomas",
+				"image" : "Meg.png",
+				"description" : ""
+			},
+			{
+				"name" : "Claudette Morel",
+				"image" : "Claudette.png",
+				"description" : ""
+			},
+			{
+				"name" : "Jake Park",
+				"image" : "Jake.png",
+				"description" : ""
+			},
+			{
+				"name" : "Laurie Strode",
+				"image" : "Laurie.png",
+				"description" : ""
+			},
+			{
+				"name" : "Ace Visconti",
+				"image" : "Ace.png",
+				"description" : ""
+			},
+			{
+				"name" : "Nea Karlsson",
+				"image" : "Nea.png",
+				"description" : ""
+			},
+			{
+				"name" : "William \"Bill\" Overbeck",
+				"image" : "Bill.png",
+				"description" : ""
+			},
+			{
+				"name" : "David King",
+				"image" : "David.png",
+				"description" : ""
+			},
+			{
+				"name" : "Feng Min",
+				"image" : "Feng.png",
+				"description" : ""
+			},
+			{
+				"name" : "Quentin Smith",
+				"image" : "Quentin.png",
+				"description" : ""
+			}
 		],
 		"itemGroups" : [
 			{
 				"group" : "Firecrackers",
 				"items" : [
-					"Chinese Firecraker",
-					"Winter Party Starter"
+					{
+						"name" : "Chinese Firecracker",
+						"image" : "ChineseFirecracker.png",
+						"description" : "A row of small explosive devices wrapped in heavy paper casing. Detonates into loud bangs and intense light flashes."
+					},
+					{
+						"name" : "Winter Party Starter",
+						"image" : "WinterPartyStarter.png",
+						"description" : "A small, highly-explosive dinner table decoration. Detonates into loud bangs and intense light flashes."
+					}
 				],
 				"addons" : []
 			},
 			{
 				"group" : "Flashlights",
 				"items" : [
-					"Flashlight",
-					"Sport Flashlight",
-					"Utility Flashlight",
-					"Will O' Wisp"
+					{
+						"name" : "Flashlight",
+						"image" : "FlashlightItem.png",
+						"description" : "A standard Flashlight."
+					},
+					{
+						"name" : "Sport Flashlight",
+						"image" : "SportFlashlight.png",
+						"description" : "A very portable Flashlight with a good grip. Its efficient technology produces a powerful light while consuming less power."
+					},
+					{
+						"name" : "Utility Flashlight",
+						"image" : "UtilityFlashlight.png",
+						"description" : "A sturdy but heavy Flashlight that packs a lot of power."
+					},
+					{
+						"name" : "Will O' Wisp",
+						"image" : "WillOWisp.png",
+						"description" : "A Flashlight equipped with a special lens cover that adds an orange tint and a little Ghost to the beam."
+					}
 				],
 				"addons" : [
-					"Wide Lens",
-					"Power Bulb",
-					"Leather Grip",
-					"Battery",
-					"Tir Optic",
-					"Rubber Grip",
-					"Low Amp Filament",
-					"Heavy Duty Battery",
-					"Focus Lens",
-					"Long Life Battery",
-					"Intense Halogen",
-					"High-End Sapphire Lens",
-					"Odd Bulb"
+					{
+						"name" : "Wide Lens",
+						"image" : "WideLens.png",
+						"description" : "A thing wide lens in perfect condition. Designed to spread the Flashlight beam at the cost of reducing its range fo effectiveness."
+					},
+					{
+						"name" : "Power Bulb",
+						"image" : "PowerBulb.png",
+						"description" : "A tiny Flashlight bulb that packs more wattage for a brighter, more powerful light beam."
+					},
+					{
+						"name" : "Leather Grip",
+						"image" : "LeatherGrip.png",
+						"description" : "A leather strip wrapped around the Flashlight for more grip."
+					},
+					{
+						"name" : "Battery",
+						"image" : "Battery.png",
+						"description" : "A standard battery of unknown brand."
+					},
+					{
+						"name" : "Tir Optic",
+						"image" : "TirOptic.png",
+						"description" : "A lens and reflector combo which can magnify a Flashlight's beam."
+					},
+					{
+						"name" : "Rubber Grip",
+						"image" : "RubberGrip.png",
+						"description" : "A rubber grip specifically fitting Flashlights for more grip."
+					},
+					{
+						"name" : "Low Amp Filament",
+						"image" : "LowAmpFilament.png",
+						"description" : "A filament bulb designed to extend a Flashlight battery's life."
+					},
+					{
+						"name" : "Heavy Duty Battery",
+						"image" : "HeavyDutyBattery.png",
+						"description" : "A battery marked as <em>\"industrial strength\"</em>."
+					},
+					{
+						"name" : "Focus Lens",
+						"image" : "FocusLens.png",
+						"description" : "A thick glass lens that focuses the Flashlight beam to increase its intensity."
+					},
+					{
+						"name" : "Long Life Battery",
+						"image" : "LongLifeBattery.png",
+						"description" : "A recent model of battery that lasts longer."
+					},
+					{
+						"name" : "Intense Halogen",
+						"image" : "IntenseHalogen.png",
+						"description" : "A chemical bulb that generates an intensely clear light."
+					},
+					{
+						"name" : "High-End Sapphire Lens",
+						"image" : "High-EndSapphireLens.png",
+						"description" : "A wide lens made of unscratchable sapphire that optimises the power and range of the light beam."
+					},
+					{
+						"name" : "Odd Bulb",
+						"image" : "OddBulb.png",
+						"description" : "A heavy and completely opaque bulb of unknown origin which emits a faint light even when turned off."
+					}
 				]
 			},
 			{
 				"group" : "Keys",
 				"items" : [
-					"Broken Key",
-					"Dull Key",
-					"Skeleton Key"
+					{
+						"name" : "Broken Key",
+						"image" : "BrokenKey.png",
+						"description" : "The bow and shank of a key, vibrating with power. The Broken Key's power cannot be triggered by itself. Various objects can be attached to its jump ring, which channels the Broken Key's power into various effects."
+					},
+					{
+						"name" : "Dull Key",
+						"image" : "DullKey.png",
+						"description" : "A bent and dull Key that once held great power. The Dull Key's power cannot be triggered by itself. Various objects can be attached to its jump ring, which channels the Dull Key's remaining power into various effects."
+					},
+					{
+						"name" : "Skeleton Key",
+						"image" : "SkeletonKey.png",
+						"description" : "A tarnished and crooked Key, vibrating with ominous power. The Skeleton Key's power cannot be triggered by itself. Various objects can be attached to its jump ring, which channels the Skeleton Key's power into various effects."
+					}
 				],
 				"addons" : [
-					"Prayer Rope",
-					"Scratched Pearl",
-					"Prayer Beads",
-					"Eroded Token",
-					"Gold Token",
-					"Weaved Ring",
-					"Milky Glass",
-					"Blood Amber"
+					{
+						"name" : "Prayer Rope",
+						"image" : "PrayerRope.png",
+						"description" : "Tightly knitted rope used in praying rituals. Can be attached to the Key."
+					},
+					{
+						"name" : "Scratched Pearl",
+						"image" : "ScratchedPearl.png",
+						"description" : "A porous and scratched white pearl. A minuscule jump ring allows the pearl to be attached to the Key."
+					},
+					{
+						"name" : "Prayer Beads",
+						"image" : "PrayerBeads.png",
+						"description" : "A chain of matte beads of various sizes used in praying ritual. Can be attached to the Key."
+					},
+					{
+						"name" : "Eroded Token",
+						"image" : "ErodedToken.png",
+						"description" : "A heavily worn out token made of brass. If an inscription or drawing was once engraved in it, it has today completely disappeared. Can be attached to the Key using its jump ring to channel the Key's Aura reading ability."
+					},
+					{
+						"name" : "Gold Token",
+						"image" : "GoldToken.png",
+						"description" : "A gold token with a dull appearance. Both faces are smooth and void of any inscriptions. Can be attached to the Key using its jump ring to channel the Key's Aura reading ability."
+					},
+					{
+						"name" : "Weaved Ring",
+						"image" : "WeavedRing.png",
+						"description" : "A mundane key ring in appearance with an unusual bluish dark sheen. The ring binds the Key to the user, preventing its loss even in the darkest of times."
+					},
+					{
+						"name" : "Milky Glass",
+						"image" : "MilkyGlass.png",
+						"description" : "This opaque piece of glass emits a dull vibrating noise. When the Skeleton or Dull Key is used to unlock a Black Lock, the glass token protects the Key from breaking, channelling the Black Fog's energy into the glass."
+					},
+					{
+						"name" : "Blood Amber",
+						"image" : "BloodAmber.png",
+						"description" : "A blood-red amber striped with black veins. The amber is warm to the touch. Can be attached to the Key using its jump ring to channel the Key's Aura reading ability."
+					}
 				]
 			},
 			{
 				"group" : "Maps",
 				"items" : [
-					"Map",
-					"Rainbow Map"
+					{
+						"name" : "Map",
+						"image" : "MapItem.png",
+						"description" : "An old piece of parchment made out of a skin-like material. Is rolled and sealed with an uncoloured leather string. Holding and channelling the map unlocks great potential in one's Aura reading ability which slowly burns the map. Generators' Auras which you have already encountered are revealed to you for as long as the map has charges left."
+					},
+					{
+						"name" : "Rainbow Map",
+						"image" : "RainbowMap.png",
+						"description" : "A piece of parchment made out of oddly fresh skin. Blood on its edge has yet to dry. It is rolled and sealed with multiple coloured ropes and cords. Holding and channelling the map unlocks a great potential in one's Aura reading ability which slowly burns up the map. Objects with Auras which you have already encountered are revealed to you for as long as the map has charges left."
+					}
 				],
 				"addons" : [
-					"Map Addendum",
-					"Yellow Wire",
-					"Unusual Stamp",
-					"Retardant Jelly",
-					"Red Twine",
-					"Glass Bead",
-					"Odd Stamp",
-					"Black Silk Cord",
-					"Crystal Bead"
+					{
+						"name" : "Map Addendum",
+						"image" : "MapAddendum.png",
+						"description" : "A fragmented piece of a thick fibrous material. A partial and faded map is drawn on it which by itself is useless."
+					},
+					{
+						"name" : "Yellow Wire",
+						"image" : "YellowWire.png",
+						"description" : "A small electrical wire. Both ends are heavily damaged like it has been forcefully torn out of its intended location. Can be tied around a map to enhance its Aura reading ability."
+					},
+					{
+						"name" : "Unusual Stamp",
+						"image" : "UnusualStamp.png",
+						"description" : "A wooden stamp with a crosshatched rubber pad used to mark documents. It is unclear as to how or by whom this stamp was originally used. Can be used with a map."
+					},
+					{
+						"name" : "Retardant Jelly",
+						"image" : "RetardantJelly.png",
+						"description" : "A slimy, translucent substance with a ghastly lavender shade. This jelly from unknown origin is highly resistant to heat."
+					},
+					{
+						"name" : "Red Twine",
+						"image" : "RedTwine.png",
+						"description" : "A bristly and rough piece of twine of a deep red colour. Can be tied around a map to enhance its Aura reading ability."
+					},
+					{
+						"name" : "Glass Bead",
+						"image" : "GlassBead.png",
+						"description" : "A strange bead circled with gold that can be used to magnify the map and mark a specific position. The bead emits an energy which can be felt and seen by Survivors."
+					},
+					{
+						"name" : "Odd Stamp",
+						"image" : "OddStamp.png",
+						"description" : "A stamp carved out of sturdy blonde wood. The text found at the base is incomprehensible: <em>\"kw'zvre'od\"</em>."
+					},
+					{
+						"name" : "Black Silk Cord",
+						"image" : "BlackSilkCord.png",
+						"description" : "A smooth black cord with a soft appearance. Can be tied around a map to enhance its Aura reading ability."
+					},
+					{
+						"name" : "Crystal Bead",
+						"image" : "CrystalBead.png",
+						"description" : "An intricate set of lenses wrapped up in an astonishingly complex apparatus. The gears controlling the lenses' focus move by themselves as to focus on something invisible to humans."
+					}
 				]
 			},
 			{
 				"group" : "Med-Kits",
 				"items" : [
-					"Camping Aid Kit",
-					"All Hallows' Eve Lunchbox",
-					"First Aid Kit",
-					"Emergency Med-Kit",
-					"Ranger Med-Kit"
+					{
+						"name" : "Camping Aid Kit",
+						"image" : "CampingAidKit.png",
+						"description" : "A rudimentary aid kit which can save lives in emergencies even if it's lacking some of its supplies."
+					},
+					{
+						"name" : "All Hallows' Eve Lunchbox",
+						"image" : "AllHallowsEveLunchbox.png",
+						"description" : "A plastic lunchbox with phosphorescent Halloween Stickers that has been packed with first-aid equipment."
+					},
+					{
+						"name" : "First Aid Kit",
+						"image" : "FirstAidKit.png",
+						"description" : "A standard first aid kit with all the necessary equipment for treating common to more serious injuries."
+					},
+					{
+						"name" : "Emergency Med-Kit",
+						"image" : "EmergencyMed-Kit.png",
+						"description" : "A sturdy and well organized medical kit equipped with top condition emergency supplies."
+					},
+					{
+						"name" : "Ranger Med-Kit",
+						"image" : "RangerMed-Kit.png",
+						"description" : "A large metal box containing medical supplies aimed for emergency rescues in hard to reach, often isolated locations."
+					}
 				],
 				"addons" : [
-					"Rubber Gloves",
-					"Butterfly Tape",
-					"Bandages",
-					"Sponge",
-					"Self Adherent Wrap",
-					"Needle & Thread",
-					"Medical Scissors",
-					"Gauze Roll",
-					"Surgical Suture",
-					"Gel Dressings",
-					"Abdominal Dressing",
-					"Styptic Agent",
-					"Anti-Hemorrhagic Syringe"
+					{
+						"name" : "Rubber Gloves",
+						"image" : "RubberGloves.png",
+						"description" : "Disposable medical gloves to avoid cross-contamination."
+					},
+					{
+						"name" : "Butterfly Tape",
+						"image" : "ButterflyTape.png",
+						"description" : "Medical quality tape used to close small wounds."
+					},
+					{
+						"name" : "Bandages",
+						"image" : "Bandages.png",
+						"description" : "A pack of bandages usually found in First Aid Kits."
+					},
+					{
+						"name" : "Sponge",
+						"image" : "Sponge.png",
+						"description" : "A mundane sponge used to soak up extra blood, providing easier access to wounds."
+					},
+					{
+						"name" : "Self Adherent Wrap",
+						"image" : "SelfAdherentWrap.png",
+						"description" : "A pack of bandages that stick to themselves without the need of clips for a faster patch-up that requires less readjustments."
+					},
+					{
+						"name" : "Needle & Thread",
+						"image" : "NeedleAndThread.png",
+						"description" : "Not exactly a medical device, however it can be used to quickly and painfully close up a wound."
+					},
+					{
+						"name" : "Medical Scissors",
+						"image" : "MedicalScissors.png",
+						"description" : "Scissors designed to easily cut through textiles."
+					},
+					{
+						"name" : "Gauze Roll",
+						"image" : "GauzeRoll.png",
+						"description" : "A sterile gauze used for a variety of wounds. Part of a total wound care system."
+					},
+					{
+						"name" : "Surgical Suture",
+						"image" : "SurgicalSuture.png",
+						"description" : "A medical device used to close and hold body tissue. Even though it's very effective, the surgical suture is challenging to use."
+					},
+					{
+						"name" : "Gel Dressings",
+						"image" : "GelDressings.png",
+						"description" : "A pack of gel forming pads used to patch up heavily exudating wounds."
+					},
+					{
+						"name" : "Abdominal Dressing",
+						"image" : "AbdominalDressing.png",
+						"description" : "A highly absorbent pad that prevents bodily fluid leakage when applied to large abdominal wounds."
+					},
+					{
+						"name" : "Styptic Agent",
+						"image" : "StypticAgent.png",
+						"description" : "A white powder with coagulant properties. Apply the agent to a wound to stop it from hemorrhaging."
+					},
+					{
+						"name" : "Anti-Hemorrhagic Syringe",
+						"image" : "Anti-hemorrhagicSyringe.png",
+						"description" : "An anti-hemorrhagic substance that stops the bleeding in a matter of seconds."
+					}
 				]
 			},
 			{
 				"group" : "Toolboxes",
 				"items" : [
-					"Worn-Out Tools",
-					"Toolbox",
-					"Mechanic's Toolbox",
-					"Commodious Toolbox",
-					"Engineer's Toolbox",
-					"Alex's Toolbox"
+					{
+						"name" : "Worn-Out Tools",
+						"image" : "Worn-outTools.png",
+						"description" : "A metal box containing out of condition tools that could break at any moment. Even without training, can be used to repair or break various mechanical components."
+					},
+					{
+						"name" : "Toolbox",
+						"image" : "ToolboxItem.png",
+						"description" : "A metal box containing a set of basic tools. Even without training, can be used to repair or break various mechanical components."
+					},
+					{
+						"name" : "Mechanic's Toolbox",
+						"image" : "MechanicsToolbox.png",
+						"description" : "A metal box with specialised mechanics tools. Even without training, can be used to repair or break various mechanical components."
+					},
+					{
+						"name" : "Commodious Toolbox",
+						"image" : "CommodiousToolbox.png",
+						"description" : "A large metal box containing basic tool and extra mechanical parts. Even without training, can be used to repair or break various mechanical components."
+					},
+					{
+						"name" : "Engineer's Toolbox",
+						"image" : "EngineersToolbox.png",
+						"description" : "A metal box with highly specialised tools meant for engineering. Most of the tools can be used by neophytes to make fast repairs or break various mechanical components."
+					},
+					{
+						"name" : "Alex's Toolbox",
+						"image" : "AlexsToolbox.png",
+						"description" : "A metal box containing mainly saws and vice grips of varying sizes but also other tools. Even though the content of this toolbox is clearly aimed at destructive deeds, it can be used to repair various mechanical components as well."
+					}
 				],
 				"addons" : [
-					"Spring Clamp",
-					"Scraps",
-					"Clean Rag",
-					"Wire Spool",
-					"Socket Swivels",
-					"Protective Gloves",
-					"Instructions",
-					"Grip Wrench",
-					"Cutting Wire",
-					"Hacksaw",
-					"Brand New Part"
+					{
+						"name" : "Spring Clamp",
+						"image" : "SpringClamp.png",
+						"description" : "Useful tool to clamp hoses or hold wires in place and prevent damage or injury."
+					},
+					{
+						"name" : "Scraps",
+						"image" : "Scraps.png",
+						"description" : "Springs, screws and gears. Mostly unusable junk."
+					},
+					{
+						"name" : "Clean Rag",
+						"image" : "CleanRag.png",
+						"description" : "A mundane rag. Suspiciously clean."
+					},
+					{
+						"name" : "Wire Spool",
+						"image" : "WireSpool.png",
+						"description" : "A portable but heavy spool of copper wire."
+					},
+					{
+						"name" : "Socket Swivels",
+						"image" : "SocketSwivels.png",
+						"description" : "Swivels provide bend and flexibility for bolts that are out of reach, deep within mechanical devices."
+					},
+					{
+						"name" : "Protective Gloves",
+						"image" : "ProtectiveGloves.png",
+						"description" : "Thick gloves, which reduce menial dexterity but protect hands from injury."
+					},
+					{
+						"name" : "Instructions",
+						"image" : "Instructions.png",
+						"description" : "Someone quickly painted what seems to be repair instructions on this piece of bark."
+					},
+					{
+						"name" : "Grip Wrench",
+						"image" : "GripWrench.png",
+						"description" : "An adjustable wrench with a tough grip. Essential in any Toolbox."
+					},
+					{
+						"name" : "Cutting Wire",
+						"image" : "CuttingWire.png",
+						"description" : "A rudimentary cutting tool made from a jagged metal wire and two wooden handles."
+					},
+					{
+						"name" : "Hacksaw",
+						"image" : "Hacksaw.png",
+						"description" : "A small hand saw mounted with a metal cutting blade."
+					},
+					{
+						"name" : "Brand New Part",
+						"image" : "BrandNewPart.png",
+						"description" : "This intricate mechanical part feels oddly out of place. It is clean and shiny as if straight out of the factory."
+					}
 				]
 			}
 		],
