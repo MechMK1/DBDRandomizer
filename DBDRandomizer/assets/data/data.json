@@ -6,24 +6,96 @@
 				"image" : "Trapper.png",
 				"description" : "There is a vast monster of a man with a hideous grin torn across the mask that keeps stalking my every move. Similar to a hunter, he tracks us, priming devastating traps amongst the greenery.",
 				"addons" : [
-					"Trapper Gloves",
-					"Strong Coil Spring",
-					"Serrated Jaws",
-					"Wax Brick",
-					"Trapper Bag",
-					"Trap Setters",
-					"Secondary Coil",
-					"Logwood Dye",
-					"4-Coil Spring Kit",
-					"Tar Bottle",
-					"Setting Tools",
-					"Rusted Jaws",
-					"Oily Coil",
-					"Fastening Tools",
-					"Stitched Bag",
-					"Honing Stone",
-					"Bloody Coil",
-					"Diamond Stone"
+					{
+						"name" : "Trapper Gloves",
+						"image" : "TrapperGloves.png",
+						"description" : "Protective padded leather gloves."
+					},
+					{
+						"name" : "Strong Coil Spring",
+						"image" : "StrongCoilSpring.png",
+						"description" : "A large and heavy coil spring which adds a good amount of strength to the Bear Trap's hold."
+					},
+					{
+						"name" : "Serrated Jaws",
+						"image" : "SerratedJaws.png",
+						"description" : "These replacement Bear Trap jaws have saw-like blades which cause awful open wounds when they snap."
+					},
+					{
+						"name" : "Wax Brick",
+						"image" : "WaxBrick.png",
+						"description" : "A block of wax used to lower friction and facilitate movement in mechanical parts."
+					},
+					{
+						"name" : "Trapper Bag",
+						"image" : "TrapperBag.png",
+						"description" : "A cured leather waist bag. Large and sturdy to transport hunting equipment."
+					},
+					{
+						"name" : "Trap Setters",
+						"image" : "TrapSetters.png",
+						"description" : "Simple tools designed to quickly and safely set Bear Traps."
+					},
+					{
+						"name" : "Secondary Coil",
+						"image" : "SecondaryCoil.png",
+						"description" : "A secondary coil which keeps a Bear Trap functional in times when the primary coil becomes unusable."
+					},
+					{
+						"name" : "Logwood Dye",
+						"image" : "LogwoodDye.png",
+						"description" : "Wood ash. When boiled, can be used to dye Bear Traps and make them less noticeable."
+					},
+					{
+						"name" : "4-Coil Spring Kit",
+						"image" : "4-coilSpringKit.png",
+						"description" : "A replacement kit for Bear Traps which changes the usual dual spring system to 4 coil springs, adding a great amount of strength to a Bear Trap's hold."
+					},
+					{
+						"name" : "Tar Bottle",
+						"image" : "TarBottle.png",
+						"description" : "A black, matte and sticky substance similar to tar. When applied to Bear Traps, makes them far less noticeable."
+					},
+					{
+						"name" : "Setting Tools",
+						"image" : "SettingTools.png",
+						"description" : "Specialised tools designed to quickly and effortlessly set Bear Traps."
+					},
+					{
+						"name" : "Rusted Jaws",
+						"image" : "RustedJaws.png",
+						"description" : "These Bear Trap jaws are covered with crusty and volatile rust spots that make injuries particularly difficult to heal."
+					},
+					{
+						"name" : "Oily Coil",
+						"image" : "OilyCoil.png",
+						"description" : "A clear oil that makes handling the Trap's spring more hazardous."
+					},
+					{
+						"name" : "Fastening Tools",
+						"image" : "FasteningTools.png",
+						"description" : "A specialised set of tools used to fasten Bear Traps to ensure their effectiveness."
+						},
+					{
+						"name" : "Stitched Bag",
+						"image" : "StitchedBag.png",
+						"description" : "Skin pieces of all sorts crudely stitched together making for a very large bag."
+					},
+					{
+						"name" : "Honing Stone",
+						"image" : "HoningStone.png",
+						"description" : "When used with the Bear Trap, the Honing Stone sharpens its blades. The razor-sharp blades inflict deep wounds aimed at bleeding the victim as fast as possible."
+					},
+					{
+						"name" : "Bloody Coil",
+						"image" : "BloodyCoil.png",
+						"description" : "Part sticky, part slippery, this grim liquid makes handling the Trap's spring more dangerous."
+					},
+					{
+						"name" : "Diamond Stone",
+						"image" : "DiamondStone.png",
+						"description" : "This honing tool consist of small diamonds attached to a metal plate. It can be used to sharpen the Bear Trap blades and inflicts lethal wounds."
+					}
 				]
 			},
 			{
@@ -31,26 +103,106 @@
 				"image" : "Wraith.png",
 				"description" : "There's another apparition, more terrifying than anything I've ever seen, hunting amongst the shadows here. It moves like a silhouette, appearing and disappearing at the sound of a dreaded bell.",
 				"addons" : [
-					"Bone Clapper",
-					"\"Swift Hunt\" - Soot",
-					"\"Blink\" - Soot",
-					"\"Blind Warrior\" - Soot",
-					"Coxcombed Clapper",
-					"\"Windstorm\" - Mud",
-					"\"Swift Hunt\" - Mud",
-					"\"Blind Warrior\" - Mud",
-					"\"All Seeing\" - Mud",
-					"\"Windstorm\" - White",
-					"\"The Ghost\" - White",
-					"\"Swift Hunt\" - White",
-					"\"Blind Warrior\" - White",
-					"\"All Seeing\" - White",
-					"\"Windstorm\" - Blood",
-					"\"Blink\" - White",
-					"\"Blind Warrior\" - White",
-					"\"All Seeing\" - White",
-					"\"Blind Warrior\" - Spirit",
-					"\"All Seeing\" - Spirit"
+					{
+						"name" : "Bone Clapper",
+						"image" : "BoneClapper.png",
+						"description" : "A Bell clapper made from a highly polished piece of bone."
+					},
+					{
+						"name" : "\"Swift Hunt\" - Soot",
+						"image" : "SwiftHunt-Soot.png",
+						"description" : "The Kuntin-Takko symbol, representing a rapid descent on a prey, is finger-drawn in soot on the body of the Bell."
+					},
+					{
+						"name" : "\"Blink\" - Soot",
+						"image" : "Blink-Soot.png",
+						"description" : "The Kratin symbol, representing quick passing, is finger-drawn in soot on the body of the Bell."
+					},
+					{
+						"name" : "\"Blind Warrior\" - Soot",
+						"image" : "BlindWarrior-Soot.png",
+						"description" : "The Baikra-Kaeug symbol, representing imperviousness, is finger-drawn in soot on the body of the Bell."
+					},
+					{
+						"name" : "Coxcombed Clapper",
+						"image" : "CoxcombedClapper.png",
+						"description" : "A coxcombed rope knotted around the Bell clapper to create a softer sound."
+					},
+					{
+						"name" : "\"Windstorm\" - Mud",
+						"image" : "Windstorm-Mud.png",
+						"description" : "The Ohuwe-Onmnea symbol, representing a violent storm, is finger-drawn in mud on the body of the Bell."
+					},
+					{
+						"name" : "\"Swift Hunt\" - Mud",
+						"image" : "SwiftHunt-Mud.png",
+						"description" : "The Kuntin-Takko symbol, representing a rapid descent on a prey, is finger-drawn in mud on the body of the Bell."
+					},
+					{
+						"name" : "\"Blind Warrior\" - Mud",
+						"image" : "BlindWarrior-Mud.png",
+						"description" : "The Baikra-Kaeug symbol, representing imperviousness, is finger-drawn in mud on the body of the Bell."
+					},
+					{
+						"name" : "\"All Seeing\" - Mud",
+						"image" : "AllSeeing-Mud.png",
+						"description" : "The Kra-Frabai symbol, representing the Entity watching over us, is finger-drawn in mud on the head of the Bell."
+					},
+					{
+						"name" : "\"Windstorm\" - White",
+						"image" : "Windstorm-White.png",
+						"description" : "The Ohuwe-Onmnea symbol, representing a violent storm, is finger-drawn in white ink on the body of the Bell."
+					},
+					{
+						"name" : "\"The Ghost\" - White",
+						"image" : "TheGhost-White.png",
+						"description" : "The Khugwemuu symbol, representing the spirit world, is finger-drawn in white ink on the body of the Bell."
+					},
+					{
+						"name" : "\"Swift Hunt\" - White",
+						"image" : "SwiftHunt-White.png",
+						"description" : "The Kuntin-Takkho symbol, representing a rapid descent on a prey, is stamped in white ink on the body of the Bell."
+					},
+					{
+						"name" : "\"Blind Warrior\" - White",
+						"image" : "BlindWarrior-White.png",
+						"description" : "The Baikra-Kaeug symbol, representing imperviousness, is stamped out of white ink on the body of the Bell."
+					},
+					{
+						"name" : "\"All Seeing\" - White",
+						"image" : "AllSeeing-White.png",
+						"description" : "The Kra-Frabai symbol, representing the Entity watching over us, is stamped out of white ink on the head of the Bell."
+					},
+					{
+						"name" : "\"Windstorm\" - Blood",
+						"image" : "Windstorm-Blood.png",
+						"description" : "The Ohuwee-Onmnea smybol, representing a violent storm, is stamped out of blood on the body of the Bell."
+					},
+					{
+						"name" : "\"Blink\" - Blood",
+						"image" : "Blink-Blood.png",
+						"description" : "The Kratin symbol, representing quick passing, is finger-drawn in mud on the body of the Bell."
+					},
+					{
+						"name" : "\"Blind Warrior\" - Blood",
+						"image" : "BlindWarrior-Blood.png",
+						"description" : "The Baikra-Kaeug symbol, representing imperviousness, is stamped out of blood on the body of the Bell."
+					},
+					{
+						"name" : "\"All Seeing\" - Blood",
+						"image" : "AllSeeing-Blood.png",
+						"description" : "The Kra-Frabai symbol. representing the Entity watching over us, is stamped in blood on the head of the Bell."
+					},
+					{
+						"name" : "\"Blind Warrior\" - Spirit",
+						"image" : "BlindWarrior-Spirit.png",
+						"description" : "The Baikra-Kaeug symbol, representing imperviousness, ominously glows on the body of the Bell."
+					},
+					{
+						"name" : "\"All Seeing\" - Spirit",
+						"image" : "AllSeeing-Spirit.png",
+						"description" : "The Kra-Frabai symbol, representing the Entity watching over us, ominously glows on the head of the Bell."
+					}
 				]
 			},
 			{
@@ -58,25 +210,101 @@
 				"image" : "Hillbilly.png",
 				"description" : "A most terrible man to behold. His physique is all twisted and disfigured as of by some awful accident. He carries a deadly and cruel chainsaw which he wields with devastating violence, seemingly imbuing him with a superhuman speed for a while.",
 				"addons" : [
-					"Vegetable Oil",
-					"Spark Plug",
-					"Chainsaw File",
-					"Spiked Boots",
-					"Speed Limiter",
-					"Shop Lubricant",
-					"Primer Bulb",
-					"Long Guide Bar",
-					"Homemade Muffler",
-					"Grisly Chains",
-					"Depth Gauge Rake",
-					"Death Engravings",
-					"The Thompson's Mix",
-					"Rusted Chains",
-					"Light Chassis",
-					"Doom Engravings",
-					"Carburetor Tuning Guide",
-					"Thompson's Moonshine",
-					"Begrimed Chains"
+					{
+						"name" : "Vegetable Oil",
+						"image" : "VegetableOil.png",
+						"description" : "A rancid oil used as a poor quality lubricant."
+					},
+					{
+						"name" : "Spark Plug",
+						"image" : "SparkPlug.png",
+						"description" : "A clean spark plug fitted for a Chainsaw."
+					},
+					{
+						"name" : "Chainsaw File",
+						"image" : "ChainsawFile.png",
+						"description" : "A file whose purpose is to hone Chainsaw chains."
+					},
+					{
+						"name" : "Spiked Boots",
+						"image" : "SpikedBoots.png",
+						"description" : "Boots with metal spikes protruding from the soles, which provide more stability and control when walking on slippery soil."
+					},
+					{
+						"name" : "Speed Limiter",
+						"image" : "SpeedLimiter.png",
+						"description" : "A mechanical device that limits the amount of fuel small engines can intake at one time, forcing a constant and safe speed."
+					},
+					{
+						"name" : "Shop Lubricant",
+						"image" : "ShopLubricant.png",
+						"description" : "An oil specifically formulated for Chainsaws. A special additive prevents oil throw off."
+					},
+					{
+						"name" : "Primer Bulb",
+						"image" : "PrimerBulb.png",
+						"description" : "Pumps more gas in the ignition system to ensure a quick and powerful start."
+					},
+					{
+						"name" : "Long Guide Bar",
+						"image" : "LongGuideBar.png",
+						"description" : "A sturdy iron replacement bar for long chains."
+					},
+					{
+						"name" : "Homemade Muffler",
+						"image" : "HomemadeMuffler.png",
+						"description" : "A makeshift exhaust system made of black gas pipes."
+					},
+					{
+						"name" : "Grisly Chains",
+						"image" : "GrislyChains.png",
+						"description" : "A chain with unusually hefty cutter teeth that leaves victims crippled even after being healed."
+					},
+					{
+						"name" : "Depth Gauge Rake",
+						"image" : "DepthGaugeRake.png",
+						"description" : "Tool that increases the angle of the depth gauge, making the chain eat more \"wood\"."
+					},
+					{
+						"name" : "Death Engravings",
+						"image" : "DeathEngravings.png",
+						"description" : "Engravings found on the Chainsaw body counting the amount of lives it took. Fills the user with determination."
+					},
+					{
+						"name" : "The Thompson's Mix",
+						"image" : "TheThompsonsMix.png",
+						"description" : "A special oily substance used in the lubrication of all machinery concocted by the Thompson's themselves."
+					},
+					{
+						"name" : "Rusted Chains",
+						"image" : "RustedChains.png",
+						"description" : "This chain is covered with crusty and volatile rust spots that make injuries particularly difficult to heal."
+					},
+					{
+						"name" : "Light Chassis",
+						"image" : "LightChassis.png",
+						"description" : "A light and durable Chainsaw chassis with a shorter guide bar. Makes the Chainsaw easier to handle."
+					},
+					{
+						"name" : "Doom Engravings",
+						"image" : "DoomEngravings.png",
+						"description" : "Engravings found on the Chainsaw body representing the dark beast that lives in the Fog. Fills the user with determination."
+					},
+					{
+						"name" : "Carburetor Tuning Guide",
+						"image" : "CarburetorTuningGuide.png",
+						"description" : "A crudely drawn guide to properly adjust and tune a Chainsaw carburetor."
+					},
+					{
+						"name" : "Thompson's Moonshine",
+						"image" : "ThompsonsMoonshine.png",
+						"description" : "A strong beverage made from corn and a recipe passed down in the Thompson's family. Instils rage and headache."
+					},
+					{
+						"name" : "Begrimed Chains",
+						"image" : "BegrimedChains.png",
+						"description" : "This chain is stained with a foul substance that afflicts anyone it touches with debilities."
+					}
 				]
 			},
 			{
@@ -84,26 +312,106 @@
 				"image" : "Nurse.png",
 				"description" : "A new varmint has entered the arena. I spotted her as she, somehow, moved through a wall. Clad in bandages that tell an untold tale of something horrid. This...nurse as it seems, brings me new angst during my lonely nights, as my mind runs amok.",
 				"addons" : [
-					"Wooden Horse",
-					"White Nit Comb",
-					"Torn Bookmark",
-					"Metal Spoon",
-					"Matchbox",
-					"Bad Man Keepsake",
-					"Pocket Watch",
-					"Dull Bracelet",
-					"Dark Cincture",
-					"Catatonic Boy's Treasure",
-					"Spasmodic Breath",
-					"Heavy Panting",
-					"Fragile Wheeze",
-					"Ataxic Respiration",
-					"Anxious Gasp",
-					"Plaid Flannel",
-					"Kavanagh's Last Breath",
-					"Jenner's Last Breath",
-					"Campbell's Last Breath",
-					"\"Bad Man's\" Last Breath"
+					{
+						"name" : "Wooden Horse" ,
+						"image" : "WoodenHorse.png",
+						"description" : "An unpainted toy carved out of cheap wood to resemble a horse. Once the symbol of a deep connection between a catatonic patient and her Nurse."
+					},
+					{
+						"name" : "White Nit Comb" ,
+						"image" : "WhiteNitComb.png",
+						"description" : "A parasitic nit comb taken from the clinic. Once the symbol of a deep connection between an anxious patient and her Nurse."
+					},
+					{
+						"name" : "Torn Bookmark" ,
+						"image" : "TornBookmark",
+						"description" : "A white and pristine piece of ribbon once attached to a sacred book. Once the symbol of a dispute."
+					},
+					{
+						"name" : "Metal Spoon" ,
+						"image" : "MetalSpoon.png",
+						"description" : "A dull, partially rusted and stained metallic spoon. Confiscated from Room 202's patient, the \"Bad Man\"."
+					},
+					{
+						"name" : "Matchbox" ,
+						"image" : "Matchbox.png",
+						"description" : "A matchbox containing an odd collection of mismatched buttons."
+					},
+					{
+						"name" : "Bad Man Keepsake" ,
+						"image" : "BadManKeepsake.png",
+						"description" : "A rotten molar ripped from the \"Bad Man's\" cold dead hand."
+					},
+					{
+						"name" : "Pocket Watch" ,
+						"image" : "PocketWatch.png",
+						"description" : "A charred and broken pocket watch with rattling pieces. Taken from Nurse Moris' body."
+					},
+					{
+						"name" : "Dull Bracelet" ,
+						"image" : "DullBracelet.png",
+						"description" : "A worthless piece of jewelry that might have an important significance to someone. Taken from the Anxious Girl's body."
+					},
+					{
+						"name" : "Dark Cincture" ,
+						"image" : "DarkCincture.png",
+						"description" : "A black rope used as a belt in times of mourning. Taken from Father Campbell's body."
+					},
+					{
+						"name" : "Catatonic Boy's Treasure" ,
+						"image" : "CatatonicBoysTreasure.png",
+						"description" : "A pine-cone which unexpectedly calmed a patient's repetitive movement. Taken from the Catatonic Boy's body."
+					},
+					{
+						"name" : "Spasmodic Breath" ,
+						"image" : "SpasmodicBreath.png",
+						"description" : "The twitchy and tremulous breath stolen from the \"Bad Man\". Aggressively pulses and jumps at The Nurse's touch."
+					},
+					{
+						"name" : "Heavy Panting" ,
+						"image" : "HeavyPanting.png",
+						"description" : "The slow and bulging breath stolen from the fat Orderly. Dimly oscillates at The Nurse's touch."
+					},
+					{
+						"name" : "Fragile Wheeze" ,
+						"image" : "FragileWheeze.png",
+						"description" : "The whistling and rattling breath stolen from Father Campbell. Silently curves and bends at The Nurse's touch."
+					},
+					{
+						"name" : "Ataxic Respiration" ,
+						"image" : "AtaxicRespiration.png",
+						"description" : "The irregular and deteriorating breath collected from the Catatonic Boy. Normally stable and calm, becomes incredibly agitated at The Nurse's touch."
+					},
+					{
+						"name" : "Anxious Gasp" ,
+						"image" : "AnxiousGasp.png",
+						"description" : "The gasp of surprise collected from an Anxious Girl which the Nurse was fond of. Twitches vigorously at The Nurse's touch."
+					},
+					{
+						"name" : "Plaid Flannel" ,
+						"image" : "PlaidFlannel.png",
+						"description" : "A torn piece of red and black plaid flannel. The scrap of fabric imbues The Nurse with devastating focus."
+					},
+					{
+						"name" : "Kavanagh's Last Breath" ,
+						"image" : "KavanaghsLastBreath.png",
+						"description" : "A powerful last breath snatched from Crotus Prenn Asylum Orderly Harvey Kavanagh. In the hands of The Nurse, it wobbles with intensity."
+					},
+					{
+						"name" : "Jenner's Last Breath" ,
+						"image" : "JennersLastBreath.png",
+						"description" : "A powerful last breath snatched from Crotus Prenn Asylum patient Mary Jenner. In the hands of The Nurse, it trembles with intensity."
+					},
+					{
+						"name" : "Campbell's Last Breath" ,
+						"image" : "CampbellsLastBreath.png",
+						"description" : "A powerful last breath snatched from Crotus Prenn Asylum priest Father Campbell. In the hand of The Nurse, it crackles with intensity."
+					},
+					{
+						"name" : "\"Bad Man's\" Last Breath" ,
+						"image" : "BadMansLastBreath.png",
+						"description" : "A powerful last breath snatched from Crotus Prenn Asylum patient the \"Bad Man\". In the hands of The Nurse, it jolts with intensity."
+					}
 				]
 			},
 			{
@@ -111,26 +419,106 @@
 				"image" : "Shape.png",
 				"description" : "Something, or rather someone, is here now. I've never seen this... Shape before. A man hiding behind a mask. He comes with a determination. But more worrying, he comes with an apparent grasp of the hunt. He does not strike me as someone who even went unwillingly to this place. Is there more to this being than I can fathom?",
 				"addons" : [
-					"Tacky Earrings",
-					"Boyfriend's Memo",
-					"Blond Hair",
-					"Reflective Fragment",
-					"Memorial Flower",
-					"Jewelry",
-					"Hair Brush",
-					"Glass Fragment",
-					"Dead Rabbit",
-					"Mirror Shard",
-					"Judith's Journal",
-					"Jewelry Box",
-					"J. Myers Memorial",
-					"Hair Bow",
-					"Vanity Mirror",
-					"Tombstone Piece",
-					"Scratched Mirror",
-					"Lock of Hair",
-					"Judith's Tombstone",
-					"Fragrant Tuft of Hair"
+					{
+						"name" : "Tacky Earrings" ,
+						"image" : "TackyEarrings.png",
+						"description" : "A very cheap piece of jewelry made from plastic. Painted to resemble precious material."
+					},
+					{
+						"name" : "Boyfriend's Memo" ,
+						"image" : "BoyfriendsMemo.png",
+						"description" : "A <em>\"romantic\"</em>, if slightly sleazy, note left around to draw the attention of a female lover."
+					},
+					{
+						"name" : "Blond Hair" ,
+						"image" : "BlondHair.png",
+						"description" : "A single slightly wavy blond hair."
+					},
+					{
+						"name" : "Reflective Fragment" ,
+						"image" : "ReflectiveFragment.png",
+						"description" : "A tiny piece of a highly reflective material most probably from a broken mirror."
+					},
+					{
+						"name" : "Memorial Flower" ,
+						"image" : "MemorialFlower.png",
+						"description" : "A partially faded and dried pink larkspur picked up from a gravestone."
+					},
+					{
+						"name" : "Jewelry" ,
+						"image" : "Jewelry.png",
+						"description" : "A large necklace made of beads an inexpensive metals. One of Judith's favourites."
+					},
+					{
+						"name" : "Hair Brush" ,
+						"image" : "HairBrush.png",
+						"description" : "A nylon bristle brush used to add body and softness to hair."
+					},
+					{
+						"name" : "Glass Fragment" ,
+						"image" : "GlassFragment.png",
+						"description" : "A tiny piece of tinted glass, probably from a broken object. It is impossible to determine its origin."
+					},
+					{
+						"name" : "Dead Rabbit" ,
+						"image" : "DeadRabbit.png",
+						"description" : "A grey rabbit which has been opened from neck to tail."
+					},
+					{
+						"name" : "Mirror Shard" ,
+						"image" : "MirrorShard.png",
+						"description" : "A large and sharp piece of a broken mirror."
+					},
+					{
+						"name" : "Judith's Journal" ,
+						"image" : "JudithsJournal.png",
+						"description" : "A journal identified as owned by Judith M. Myers. Most of the pages are defaced with frightening and disturbing drawings."
+					},
+					{
+						"name" : "Jewelry Box" ,
+						"image" : "JewelryBox.png",
+						"description" : "A barren wooden box in which vanity items were once stored."
+					},
+					{
+						"name" : "J. Myers Memorial" ,
+						"image" : "JMyersMemorial.png",
+						"description" : "A glossy page ripped from the <em>1965 Haddonfield High School</em> yearbook, one dedicated to the memory of Judith Myers."
+					},
+					{
+						"name" : "Hair Bow" ,
+						"image" : "HairBow.png",
+						"description" : "A blue tartan ribbon used to tie hair."
+					},
+					{
+						"name" : "Vanity Mirror" ,
+						"image" : "VanityMirror.png",
+						"description" : "A standing portable vanity mirror in perfect condition except for a fine layer of dust and face powder covering it."
+					},
+					{
+						"name" : "Tombstone Piece" ,
+						"image" : "TombstonePiece.png",
+						"description" : "A fist-sized granite piece taken from a broken tombstone."
+					},
+					{
+						"name" : "Scratched Mirror" ,
+						"image" : "ScratchedMirror.png",
+						"description" : "A standing portable vanity mirror which has been violently scratched with a sharp metallic object."
+					},
+					{
+						"name" : "Lock of Hair" ,
+						"image" : "LockOfHair.png",
+						"description" : "A cut lock of blond hair bunched with a black elastic."
+					},
+					{
+						"name" : "Judith's Tombstone" ,
+						"image" : "JudithsTombstone.png",
+						"description" : "A large and heavy granite tombstone stolen from Mt. Sinclair cemetery, belonging to Judith Myers."
+					},
+					{
+						"name" : "Fragrant Tuft of Hair" ,
+						"image" : "FragrantTuftOfHair.png",
+						"description" : "A tuft of blond hair which was forcefully torn off someone's scalp. Releases hints of feminine floral fragrance."
+					}
 				]
 			},
 			{
@@ -138,26 +526,106 @@
 				"image" : "Hag.png",
 				"description" : "A new terror stalks the darkness; her appearance strikes me as more intense than the others after but a glimpse of her haggard silhouette. Twisted and torn in unspeakable ways, with greyish dead skin stretched out over her emaciated body.",
 				"addons" : [
-					"Rope Necklet",
-					"Powdered Eggshell",
-					"Dead Fly Mud",
-					"Bog Water",
-					"Pussy Willow Catkins",
-					"Half Eggshell",
-					"Dragonfly Wings",
-					"Cypress Necklet",
-					"Bloodied Water",
-					"Willow Wreath",
-					"Swamp Orchid Necklet",
-					"Dried Circada",
-					"Cracked Turtle Egg",
-					"Bloodied Mud",
-					"Scarred Hand",
-					"Rusty Shackles",
-					"Granma's Heart",
-					"Disfigured Ear",
-					"Waterlogged Shoe",
-					"Mint Rag"
+					{
+						"name" : "Rope Necklet" ,
+						"image" : "RopeNecklet.png",
+						"description" : "A rigid ornament worn around the neck made from dead plants."
+					},
+					{
+						"name" : "Powdered Eggshell" ,
+						"image" : "PowderedEggshell.png",
+						"description" : "Minuscule eggshell fragments shimmering with a pale golden hue."
+					},
+					{
+						"name" : "Dead Fly Mud" ,
+						"image" : "DeadFlyMud.png",
+						"description" : "A small lump of mud, black with the remains of flies. Devoured to increase stamina."
+					},
+					{
+						"name" : "Bog Water" ,
+						"image" : "BogWater.png",
+						"description" : "Murky water contained in a glass pill bottle from another time."
+					},
+					{
+						"name" : "Pussy Willow Catkins" ,
+						"image" : "PussyWillowCatkins.png",
+						"description" : "A handful of small, pristine flower clusters covered in a fine greyish fur."
+					},
+					{
+						"name" : "Half Eggshell" ,
+						"image" : "Half Eggshell.png",
+						"description" : "One half of a perfectly round hollow eggshell."
+					},
+					{
+						"name" : "Dragonfly Wings" ,
+						"image" : "DragonflyWings.png",
+						"description" : "A handful of yellowish wings, dry and crisp. Devoured to increase stamina."
+					},
+					{
+						"name" : "Cypress Necklet" ,
+						"image" : "CypressNecklet.png",
+						"description" : "A rigid ornament worn around the neck made from dead plants adorned with crudely attached cypress bark and swamp moss."
+					},
+					{
+						"name" : "Bloodied Water" ,
+						"image" : "BloodiedWater.png",
+						"description" : "Tainted water contained in a folded water lily leaf."
+					},
+					{
+						"name" : "Willow Wreath" ,
+						"image" : "WillowWreath.png",
+						"description" : "Three frail willow branches attached to form a triangular wreath."
+					},
+					{
+						"name" : "Swamp Orchid Necklet" ,
+						"image" : "SwampOrchidNecklet.png",
+						"description" : "A rigid ornament worn around the neck made from dead plants adorned with withered orchid petals and leaves."
+					},
+					{
+						"name" : "Dried Circada" ,
+						"image" : "DriedCicada.png",
+						"description" : "A large swamp cicada covered in a fine layer of ash. Crispy. Devoured to increase stamina."
+					},
+					{
+						"name" : "Cracked Turtle Egg" ,
+						"image" : "CrackedTurtleEgg.png",
+						"description" : "A pale orange turtle egg, cracked and emptied of its content."
+					},
+					{
+						"name" : "Bloodied Mud" ,
+						"image" : "BloodiedMud.png",
+						"description" : "A handful of mud with veins of deep crimson. The bloody layers empower the mud."
+					},
+					{
+						"name" : "Scarred Hand" ,
+						"image" : "ScarredHand.png",
+						"description" : "The cut up, severed hand of the cannibal village butcher. The trapped life essence within unlocks tremendous potential in The Hag's power."
+					},
+					{
+						"name" : "Rusty Shackles" ,
+						"image" : "RustyShackles.png",
+						"description" : "Shackles once used to hold prisoners and carcasses in the cannibal village cellar. The trapped life essence within unlocks tremendous potential in The Hag's power."
+					},
+					{
+						"name" : "Granma's Heart" ,
+						"image" : "GranmasHeart.png",
+						"description" : "The cold heart of the cannibal village elder. The trapped life essence within unlocks tremendous potential in The Hag's power."
+					},
+					{
+						"name" : "Disfigured Ear" ,
+						"image" : "DisfiguredEar.png",
+						"description" : "The cannibal village deaf boy's ear. Deformed due to several hits to the head. The trapped life essence within unlocks tremendous potential in The Hag's power."
+					},
+					{
+						"name" : "Waterlogged Shoe" ,
+						"image" : "WaterloggedShoe.png",
+						"description" : "A child's shoe, long lost in the bog's waters. The trapped life essence within unlocks tremendous potential in The Hag's power."
+					},
+					{
+						"name" : "Mint Rag" ,
+						"image" : "MintRag.png",
+						"description" : "A small piece of cotton torn from the dress worn by Lisa Sherwood on the day she disappeared. The trapped life essence within unlocks tremendous potential in The Hag's power."
+					}
 				]
 			},
 			{
@@ -165,26 +633,106 @@
 				"image" : "Doctor.png",
 				"description" : "I have difficulty keeping my sanity. Each day, this altering world provides me with new trials. A man wearing the robes of a doctor crossed my path. From afar, I witness him walking around, searching.. But he was not...normal.",
 				"addons" : [
-					"Moldy Electrode",
-					"Maple Knight",
-					"\"Order\" - Class I",
-					"\"Calm\" - Class I",
-					"Scrapped Tape",
-					"Polished Electrode",
-					"Interview Tape",
-					"\"Restraint\" - Class II",
-					"\"Order\" - Class II",
-					"\"Discipline\" - Class II",
-					"\"Calm\" - Class II",
-					"High Stimulus Electrode",
-					"\"Restraint\" - Class III",
-					"\"Discipline\" - Class III",
-					"\"Restraint\" - Carter's Notes",
-					"\"Order\" - Carter's Notes",
-					"\"Obedience\" - Carter's Notes",
-					"\"Discipline\" - Carter's Notes",
-					"\"Calm\" - Carter's Notes",
-					"Iridescent King"
+					{
+						"name" : "Moldy Electrode" ,
+						"image" : "MoldyElectrode.png",
+						"description" : "A moldy electrode which can nevertheless conduct a weak electrical current."
+					},
+					{
+						"name" : "Maple Knight" ,
+						"image" : "MapleKnight.png",
+						"description" : "A white knight chess piece made of maple. This gift from an old man brings back distant memories and imbues The Doctor with devastating focus."
+					},
+					{
+						"name" : "\"Order\" - Class I" ,
+						"image" : "OrderClassI.png",
+						"description" : "A conventional ECT procedure, part of a patient's daily routine at the Léry's Memorial Institute. Can cause a state of mild confusion in the patient."
+					},
+					{
+						"name" : "\"Calm\" - Class I" ,
+						"image" : "CalmClassI.png",
+						"description" : "An ECT procedure using a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure can cause mild anxiety in the patient."
+					},
+					{
+						"name" : "Scrapped Tape" ,
+						"image" : "ScrappedTape.png",
+						"description" : "A compact cassette from <em>Project Awakening</em> containing mostly white noise. Opens The Doctor's mind to alternate treatment methods."
+					},
+					{
+						"name" : "Polished Electrode" ,
+						"image" : "PolishedElectrode.png",
+						"description" : "A like-new standard electrode equipment to conduct electro-convulsive treatments."
+					},
+					{
+						"name" : "Interview Tape" ,
+						"image" : "InterviewTape.png",
+						"description" : "A compact cassette from <em>Project Awakening</em> containing an un-edited interview of a victim. Opens The Doctor's mind to alternate treatment methods."
+					},
+					{
+						"name" : "\"Restraint\" - Class II" ,
+						"image" : "RestraintClassII.png",
+						"description" : "An experimental ECT procedure developed within the Fog. Uses a wavelength that links the patient's and Doctor's minds. This procedure is known to cause mild cases of hallucination in the patient."
+					},
+					{
+						"name" : "\"Order\" - Class II" ,
+						"image" : "OrderClassII.png",
+						"description" : "A high stimulus ECT procedure, part of a patient's daily routine at the Léry's Memorial Institute. Can cause a state of moderate confusion in the patient."
+					},
+					{
+						"name" : "\"Discipline\" - Class II" ,
+						"image" : "DisciplineClassII.png",
+						"description" : "<em>Project Awakening</em> ECT procedure for disciplinary action which uses a fixed dose at high voltage. Can cause a state of moderate paranoia in the patient."
+					},
+					{
+						"name" : "\"Calm\" - Class II" ,
+						"image" : "CalmClassII.png",
+						"description" : "A risky ECT procedure using a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure can cause moderate anxiety in the patient."
+					},
+					{
+						"name" : "High Stimulus Electrode" ,
+						"image" : "HighStimulusElectrode.png",
+						"description" : "An experimental electrode that can withstand very high charges for a longer period of time."
+					},
+					{
+						"name" : "\"Restraint\" - Class III" ,
+						"image" : "RestraintClassIII.png",
+						"description" : "An experimental ECT procedure developed within the Fog. Uses a high stimulus wavelength to link the patient's and Doctor's minds. This procedure is known to cause serious cases of hallucinations in the patient."
+					},
+					{
+						"name" : "\"Discipline\" - Class III" ,
+						"image" : "DisciplineClassIII.png",
+						"description" : "<em>Project Awakening</em> ECT procedure for disciplinary action which uses a fixed dose at very high voltage. Can cause a state of serious paranoia in the patient."
+					},
+					{
+						"name" : "\"Restraint\" - Carter's Notes" ,
+						"image" : "RestraintCartersNotes.png",
+						"description" : "An experimental ECT procedure developed within the Fog, crudely annotated. Uses an unbearable stimulus wavelength to link the patient's and Doctor's minds. This procedure is known to cause severe cases of hallucinations in the patient."
+					},
+					{
+						"name" : "\"Order\" - Carter's Notes" ,
+						"image" : "OrderCartersNotes.png",
+						"description" : "An experimental version of the ECT procedure, annotated by Doctor Herman Carter himself The long, constant stimulus leaves the patient in a state of severe confusion."
+					},
+					{
+						"name" : "\"Obedience\" - Carter's Notes" ,
+						"image" : "ObedienceCartersNotes.png",
+						"description" : "An experimental ECT procedure developed within the Fog, crudely annotated. The extra surge of power causes extreme muscle tension which depletes the patient's energy."
+					},
+					{
+						"name" : "\"Discipline\" - Carter's Notes" ,
+						"image" : "DisciplineCartersNotes.png",
+						"description" : "<em>Project Awakening</em> ECT procedure for disciplinary action, annotated by Doctor Herman Carter himself. The intolerably high voltage leaves the patient in a severe state of paranoia."
+					},
+					{
+						"name" : "\"Calm\" - Carter's Notes" ,
+						"image" : "CalmCartersNotes.png",
+						"description" : "An experimental version of the ECT procedure annotated by Doctor Herman Carter himself. Uses a deep wavelength that soothes various mental illnesses. With Carter's Spark as its source, this procedure causes uncontrollable fear and anxiety in the patient."
+					},
+					{
+						"name" : "Iridescent King" ,
+						"image" : "IridescentKing.png",
+						"description" : "A glass-like king chess piece moulded from The Fog itself. The Entity's trace reverberating within can break the most powerful minds."
+					}
 				]
 			},
 			{
@@ -192,26 +740,106 @@
 				"image" : "Huntress.png",
 				"description" : "A figure clad in the head of a hare. A most disturbing sight. This new foe holds something human within her. Some shards of ordinary life. She seems to be a hunter.",
 				"addons" : [
-					"Coarse Stone",
-					"Berus Toxin",
-					"Bandaged Haft",
-					"Amanita Toxin",
-					"Yew Seed Brew",
-					"Shiny Pin",
-					"Oak Haft",
-					"Manna Grass Braid",
-					"Leather Loop",
-					"Fine Stone",
-					"Deerskin Gloves",
-					"Yew Seed Concoction",
-					"Venomous Concoction",
-					"Rusty Head",
-					"Pungent Fiale",
-					"Flower Babushka",
-					"Infantry Belt",
-					"Glowing Concoction",
-					"Begrimed Head",
-					"Iridescent Head"
+					{
+						"name" : "Coarse Stone" ,
+						"image" : "CoarseStone.png",
+						"description" : "This stone is too coarse to do any good. A blade damaged by it inflicts awful open wounds."
+					},
+					{
+						"name" : "Berus Toxin" ,
+						"image" : "BerusToxin.png",
+						"description" : "A toxin applied to the Hatchets' blades. The Berus snake toxin causes tiredness in such a small amount."
+					},
+					{
+						"name" : "Bandaged Haft" ,
+						"image" : "BandagedHaft.png",
+						"description" : "First-aid bandages securely rolled and attached to the Hatchets' hafts."
+					},
+					{
+						"name" : "Amanita Toxin" ,
+						"image" : "AmanitaToxin.png",
+						"description" : "A toxin applied to the Hatchet's blades. The Amanita mushrooms' toxin numbs the mind."
+					},
+					{
+						"name" : "Yew Seed Brew" ,
+						"image" : "YewSeedBrew.png",
+						"description" : "A toxic brew applied to the Hatchets' blades. The thick brew is mainly composed of yew seeds which give it paralytic capabilities."
+					},
+					{
+						"name" : "Shiny Pin" ,
+						"image" : "ShinyPin.png",
+						"description" : "A copper pin defaced beyond recognition yet polished to a high sheen. Pillaged from a particularly difficult prey."
+					},
+					{
+						"name" : "Oak Haft" ,
+						"image" : "OakHaft.png",
+						"description" : "A circular decorative braid made from manna grass. This memory of a list little one fills The Huntress with rage and focus."
+					},
+					{
+						"name" : "Manna Grass Braid" ,
+						"image" : "MannaGrassBraid.png",
+						"description" : "This stone is too coarse to do any good. A blade damaged by it inflicts awful open wounds."
+					},
+					{
+						"name" : "Leather Loop" ,
+						"image" : "LeatherLoop.png",
+						"description" : "This leather strip tied into a loop can be attached to a belt to allow easy transportation of tools."
+					},
+					{
+						"name" : "Fine Stone" ,
+						"image" : "FineStone.png",
+						"description" : "This puck shaped honing tool can be used to sharpen the Hatchets' blades and inflicts clean wounds."
+					},
+					{
+						"name" : "Deerskin Gloves" ,
+						"image" : "DeerskinGloves.png",
+						"description" : "Cured leather gloves that protect the hands and give a sure grip."
+					},
+					{
+						"name" : "Yew Seed Concoction" ,
+						"image" : "YewSeedConcoction.png",
+						"description" : "A toxic concoction applied to the Hatchets' blades. The muddy concoction is mainly composed of yew seeds which give it paralytic capabilities."
+					},
+					{
+						"name" : "Venomous Concoction" ,
+						"image" : "VenomousConcoction.png",
+						"description" : "A toxic concoction applied to the Hatchets' blades. The murky concoction is mainly composed of Berus snake venom which gives it fatiguing capabilities."
+					},
+					{
+						"name" : "Rusty Head" ,
+						"image" : "RustyHead.png",
+						"description" : "These Hatchets' heads are covered with crusty and volatile rust spots that make injuries particularly difficult to heal from."
+					},
+					{
+						"name" : "Pungent Fiale" ,
+						"image" : "PungentFiale.png",
+						"description" : "The clear liquid has a very particular stench that can be recognised and tracked by some animals."
+					},
+					{
+						"name" : "Flower Babushka" ,
+						"image" : "FlowerBabushka.png",
+						"description" : "A clean and colourful handkerchief adorned with a flower pattern. This memory of a lost little one fills The Huntress with rage and focus."
+					},
+					{
+						"name" : "Infantry Belt" ,
+						"image" : "InfantryBelt.png",
+						"description" : "A sturdy utility belt pillaged from a soldier. Its multiple leather loops and holsters are useful to transport tools."
+					},
+					{
+						"name" : "Glowing Concoction" ,
+						"image" : "GlowingConcoction.png",
+						"description" : "An otherworldly concoction that faintly glows a foreboding light."
+					},
+					{
+						"name" : "Begrimed Head" ,
+						"image" : "BegrimedHead.png",
+						"description" : "These Hatchets' heads are stained with a foul substance that afflicts anyone who it touches with debilities."
+					},
+					{
+						"name" : "Iridescent Head" ,
+						"image" : "IridescentHead.png",
+						"description" : "A glass-like Hatchet head moulded from The Fog itself. The blade is warm and reverberating with The Entity's power."
+					}
 				]
 			},
 			{
@@ -219,25 +847,101 @@
 				"image" : "Cannibal.png",
 				"description" : "Whether killers perform their heinous acts by the compulsions of their diseased minds, or if they are forced into them by external pressures, has long been a matter of debate. But for one killer, nature and nurture are inextricably linked.",
 				"addons" : [
-					"Vegetable Oil",
-					"Spark Plug",
-					"Chainsaw File",
-					"Speed Limiter",
-					"Shop Lubricant",
-					"Primer Bulb",
-					"Long Guide Bar",
-					"Knife Scratches",
-					"Homemade Muffler",
-					"Grisly Chains",
-					"Depth Gauge Rake",
-					"Chilli",
-					"The Grease",
-					"The Beast's Marks",
-					"Rusted Chains",
-					"Light Chassis",
-					"Carburetor Tuning Guide",
-					"Begrimed Chains",
-					"Award-winning Chilli"
+					{
+						"name" : "Vegetable Oil" ,
+						"image" : "VegetableOil.png",
+						"description" : "A rancid oil used as a poor quality lubricant."
+					},
+					{
+						"name" : "Spark Plug" ,
+						"image" : "SparkPlug.png",
+						"description" : "A clean spark plug fitted for a Chainsaw."
+					},
+					{
+						"name" : "Chainsaw File" ,
+						"image" : "ChainsawFile.png",
+						"description" : "A file whose purpose is to hone Chainsaw chains."
+					},
+					{
+						"name" : "Speed Limiter" ,
+						"image" : "SpeedLimiter.png",
+						"description" : "A mechanical device that limits the amount of fuel small engines can intake at one time, forcing a constant and safe speed."
+					},
+					{
+						"name" : "Shop Lubricant" ,
+						"image" : "ShopLubricant.png",
+						"description" : "An oil specifically formulated for Chainsaws. A special additive prevents oil throw off."
+					},
+					{
+						"name" : "Primer Bulb" ,
+						"image" : "PrimerBulb.png",
+						"description" : "Pumps more gas in the ignition system to ensure a quick and powerful start."
+					},
+					{
+						"name" : "Long Guide Bar" ,
+						"image" : "LongGuideBar.png",
+						"description" : "A sturdy iron replacement bar for long chains."
+					},
+					{
+						"name" : "Knife Scratches" ,
+						"image" : "KnifeScratches.png",
+						"description" : "Scratches cover the Chainsaw's body, caused by a searing blade. Memories of reprimands fill its holder with the fear of failure."
+					},
+					{
+						"name" : "Homemade Muffler" ,
+						"image" : "HomemadeMuffler.png",
+						"description" : "A makeshift exhaust system made of black gas pipes."
+					},
+					{
+						"name" : "Grisly Chains" ,
+						"image" : "GrislyChains.png",
+						"description" : "A chain with unusually hefty cutter teeth that leaves victims crippled even after being healed."
+					},
+					{
+						"name" : "Depth Gauge Rake" ,
+						"image" : "DepthGaugeRake.png",
+						"description" : "Tool that increases the angle of the depth gauge, making the chain eat more \"wood\"."
+					},
+					{
+						"name" : "Chilli" ,
+						"image" : "Chilli.png",
+						"description" : "A big bowl of steaming Chilli to keep you fresh and strong."
+					},
+					{
+						"name" : "The Grease" ,
+						"image" : "TheGrease.png",
+						"description" : "A thick yellowish ooze, concocted by the Sawyers. Used for all-purpose lubrication around their house."
+					},
+					{
+						"name" : "The Beast's Marks" ,
+						"image" : "TheBeastsMarks.png",
+						"description" : "Jagged marks cover the Chainsaw's body, punishment from the dark beast that lives in The Fog. Memories of violent reprimands fill its holder with the fear of failure."
+					},
+					{
+						"name" : "Rusted Chains" ,
+						"image" : "RustedChains.png",
+						"description" : "This chain is covered with crusty and volatile rust spots that make injuries particularly difficult to heal."
+					},
+					{
+						"name" : "Light Chassis" ,
+						"image" : "LightChassis.png",
+						"description" : "A light and durable Chainsaw chassis with a shorter guide bar. Makes the Chainsaw easier to handle."
+					},
+					{
+						"name" : "Carburetor Tuning Guide" ,
+						"image" : "CarburetorTuningGuide.png",
+						"description" : "A crudely drawn guide to properly adjust and tune a Chainsaw carburetor."
+					},
+					{
+						"name" : "Begrimed Chains" ,
+						"image" : "BegrimedChains.png",
+						"description" : "This chain is stained with a foul substance that debilitates anyone it touches."
+					},
+					{
+						"name" : "Award-winning Chilli" ,
+						"image" : "Award-winningChilli.png",
+						"description" : "A big bowl of spicy Chilli made famous thanks to prime meat."
+					}
 				]
 			},
 			{
@@ -245,26 +949,106 @@
 				"image" : "Nightmare.png",
 				"description" : "This place plays tricks on your mind…constantly I question whether I dream or if I am awake. This most recent horrid ghoul seems to bridge that gap – between the states of being awake or asleep. I saw him hunting another poor soul, someone who was not as lucky as me. A man with a hat and a claw clad hand, a scarred man of sorts.",
 				"addons" : [
-					"Wool Shirt",
-					"Sheep Block",
-					"Kid's Drawing",
-					"Garden Rake",
-					"Prototype Claws",
-					"Outdoor Rope",
-					"Nancy's Sketch",
-					"Green Dress",
-					"Cat Block",
-					"Unicorn Block",
-					"Swing Chains",
-					"Nancy's Masterpiece",
-					"Jump Rope",
-					"Blue Dress",
-					"Pill Bottle",
-					"Paint Thinner",
-					"Class Photo",
-					"\"Z\" Block",
-					"Red Paint Brush",
-					"Black Box"
+					{
+						"name" : "Wool Shirt" ,
+						"image" : "WoolShirt.png",
+						"description" : "A small boy's orange and yellow striped shirt. Identified with a sewn name tag to \"Jesse\"."
+					},
+					{
+						"name" : "Sheep Block" ,
+						"image" : "SheepBlock.png",
+						"description" : "A white and blue wooden block depicting two woolly Lambs grazing and the letter \"S\"."
+					},
+					{
+						"name" : "Kid's Drawing" ,
+						"image" : "KidsDrawing.png",
+						"description" : "An unattributed drawing clearly crafted by a young child."
+					},
+					{
+						"name" : "Garden Rake" ,
+						"image" : "GardenRake.png",
+						"description" : "A small claw rake, a must have tool for any accomplished gardener."
+					},
+					{
+						"name" : "Prototype Claws" ,
+						"image" : "PrototypeClaws.png",
+						"description" : "A home-made tool to facilitate bush trimming."
+					},
+					{
+						"name" : "Outdoor Rope" ,
+						"image" : "OutdoorRope.png",
+						"description" : "Sturdy outdoor rope, handy to tie up anything."
+					},
+					{
+						"name" : "Nancy's Sketch" ,
+						"image" : "NancysSketch.png",
+						"description" : "A crude and bold sketch made with Fusain, signed by Nancy H."
+					},
+					{
+						"name" : "Green Dress" ,
+						"image" : "GreenDress.png",
+						"description" : "A little girl's green dress with a silky white ribbon."
+					},
+					{
+						"name" : "Cat Block" ,
+						"image" : "CatBlock.png",
+						"description" : "A white and purple wooden block depicting a sleeping Cat and the letter \"C\"."
+					},
+					{
+						"name" : "Unicorn Block" ,
+						"image" : "UnicornBlock.png",
+						"description" : "A white and red wooden block depicting a prancing Unicorn and the letter \"U\"."
+					},
+					{
+						"name" : "Swing Chains" ,
+						"image" : "SwingChains.png",
+						"description" : "Rusty, but sturdy chains used to securely attach a swing seat."
+					},
+					{
+						"name" : "Nancy's Masterpiece" ,
+						"image" : "NancysMasterpiece.png",
+						"description" : "A painting of a Character, made by Nancy Holbrook at Badham and kept as a treasure memory."
+					},
+					{
+						"name" : "Jump Rope" ,
+						"image" : "JumpRope.png",
+						"description" : "A long Double Dutch jump rope, stained with many years of use."
+					},
+					{
+						"name" : "Blue Dress" ,
+						"image" : "BlueDress.png",
+						"description" : "A little girl's pale blue dress with white lace which's front is ruined by large cuts."
+					},
+					{
+						"name" : "Pill Bottle" ,
+						"image" : "PillBottle.png",
+						"description" : "An empty pill bottle which once contained a medicine called <em>\"Zoneral\"</em>."
+					},
+					{
+						"name" : "Paint Thinner" ,
+						"image" : "PaintThinner.png",
+						"description" : "A tin of a highly volatile and inflammable material."
+					},
+					{
+						"name" : "Class Photo" ,
+						"image" : "ClassPhoto.png",
+						"description" : "A large photograph taken at Badham Preschool showing the cheerful class of 94-95."
+					},
+					{
+						"name" : "\"Z\" Block" ,
+						"image" : "ZBlock.png",
+						"description" : "A deeply scratched and burnt wooden block which's only recognisable feature is the letter \"Z\"."
+					},
+					{
+						"name" : "Red Paint Brush" ,
+						"image" : "RedPaintBrush.png",
+						"description" : "A large paint brush, wet with crimson paint."
+					},
+					{
+						"name" : "Black Box" ,
+						"image" : "BlackBox.png",
+						"description" : "A black cardboard box filled with photographs."
+					}
 				]
 			}
 		],
