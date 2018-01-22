@@ -1061,12 +1061,12 @@
 			{
 				"name" : "Agitation",
 				"image" : "Agitation.png",
-				"description" : "You get excited in anticipation of hooking your prey. Increases your speed while transporting bodies by 6/12/18 %. While transporting a body, your Terror Radius is increased by 6/8/12 metres."
+				"description" : "You get excited in anticipation of hooking your prey. Increases your speed while transporting bodies by <strong class=\"rare\">6</strong>/<strong class=\"veryRare\">12</strong>/<strong class=\"veryRare\">18</strong> %. While transporting a body, your Terror Radius is increased by <strong class=\"rare\">6</strong>/<strong class=\"veryRare\">8</strong>/<strong class=\"veryRare\">12</strong> metres."
 			},
 			{
 				"name" : "Barbecue & Chilli",
 				"image" : "BarbecueAndChilli.png",
-				"description" : "A deep bond with The Entity unlocks potential in one's Aura reading ability. After hooking a Survivor, all other Survivors' Auras are revealed to you for 4 seconds when they are further than 52/46/40 metres from the Hook. Each time a Survivor is hooked for the first time, gain a 15/20/25 % stackable Bonus to all Bloodpoint gains. The Bonus Bloodpoints are only awarded post-trial."
+				"description" : "A deep bond with The Entity unlocks potential in one's Aura reading ability. After hooking a Survivor, all other Survivors' Auras are revealed to you for <strong class=\"uncommon\">4 seconds</strong> when they are further than <strong class=\"uncommon\">52</strong>/<strong class=\"rare\">46</strong>/<strong class=\"veryRare\">40</strong> metres from the Hook. Each time a Survivor is hooked for the first time, gain a <strong class=\"uncommon\">15</strong>/<strong class=\"rare\">20</strong>/<strong class=\"veryRare\">25</strong> % stackable Bonus to all Bloodpoint gains. The Bonus Bloodpoints are only awarded post-trial."
 			},
 			{
 				"name" : "Beast Of Prey",
