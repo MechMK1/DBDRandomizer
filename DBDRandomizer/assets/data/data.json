@@ -1086,32 +1086,32 @@
 			{
 				"name" : "Blood Warden",
 				"image" : "BloodWarden.png",
-				"description" : "Once per match, once at least one Exit Gate is opened, hooking a Survivor summons The Entity to block the exits for all Survivors for 30/40/60 seconds. While Blood Warden is active, Auras of Survivors located within the Exit Gates are revealed to you."
+				"description" : "Once per match, once at least one Exit Gate is opened, hooking a Survivor summons The Entity to block the exits for all Survivors for <strong class=\"uncommon\">30</strong>/<strong class=\"rare\">40</strong>/<strong class=\"veryRare\">60</strong> seconds. While Blood Warden is active, Auras of Survivors located within the Exit Gates are revealed to you."
 			},
 			{
 				"name" : "Brutal Strength",
 				"image" : "BrutalStrength.png",
-				"description" : "Your great strength allows you to shred through your prey's defences. Destroy dropped Pallets 10/15/20 % faster."
+				"description" : "Your great strength allows you to shred through your prey's defences. Destroy dropped Pallets <strong class=\"uncommon\">10</strong>/<strong class=\"rare\">15</strong>/<strong class=\"veryRare\">20</strong> % faster."
 			},
 			{
 				"name" : "Deerstalker",
 				"image" : "Deerstalker.png",
-				"description" : "Unlocks potential in one's Aura reading ability. Reveals dying Survivors' Auras when standing within 12/24/36 metres."
+				"description" : "Unlocks potential in one's Aura reading ability. Reveals dying Survivors' Auras when standing within <strong class=\"uncommon\">12</strong>/<strong class=\"uncommon\">24</strong>/<strong class=\"rare\">36</strong> metres."
 			},
 			{
 				"name" : "Distressing",
 				"image" : "Distressing.png",
-				"description" : "Your horrifying emanation strikes at a supernaturally long distance. Your Terror Radius is increased by 22/24/26 %. Gain 50/75/100 % more Bloodpoints for actions in the Deviousness category. The Bonus Bloodpoints are only awarded during the trial."
+				"description" : "Your horrifying emanation strikes at a supernaturally long distance. Your Terror Radius is increased by <strong class=\"uncommon\">22</strong>/<strong class=\"rare\">24</strong>/<strong class=\"veryRare\">26</strong> %. Gain <strong class=\"uncommon\">50</strong>/<strong class=\"rare\">75</strong>/<strong class=\"veryRare\">100</strong> % more Bloodpoints for actions in the Deviousness category.<br/>The Bonus Bloodpoints are only awarded during the trial."
 			},
 			{
 				"name" : "Dying Light",
 				"image" : "DyingLight.png",
-				"description" : "You become obsessed with one Survivor. Your Obsession's altruistic action speed is increased by 38/44/50 %. Once the Obsession is killed or sacrificed, every other Survivor gets a penalty of 19/22/25 % to repair, healing and sabotage speed."
+				"description" : "You become obsessed with one Survivor. Your Obsession's altruistic action speed is increased by <strong class=\"rare\">38</strong>/<strong class=\"veryRare\">44</strong>/<strong class=\"veryRare\">50</strong> %. Once the Obsession is killed or sacrificed, every other Survivor gets a penalty of <strong class=\"rare\">19</strong>/<strong class=\"veryRare\">22</strong>/<strong class=\"veryRare\">25</strong> % to repair, healing and sabotage speed."
 			},
 			{
 				"name" : "Enduring",
 				"image" : "Enduring.png",
-				"description" : "You are resilient to pain. Your rate of recovery from stuns is increased by 50/60/75 %."
+				"description" : "You are resilient to pain. Your rate of recovery from stuns is increased by <strong class=\"uncommon\">50</strong>/<strong class=\"uncommon\">60</strong>/<strong class=\"rare\">75</strong> %."
 			},
 			{
 				"name" : "Fire Up",
@@ -1146,8 +1146,7 @@
 			{
 				"name" : "Hex: No One Escapes Death",
 				"image" : "NoOneEscapesDeath.png",
-				"description" : "A Hex rooting its power on hope. You are animated by the power of your Hex Totem when the Survivors are on the verge of escaping. Once the Exit Gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, ―/―/Successful attacks trigger Dying State automatically, cooldowns on successful and missed attacks are decreased by 4/8/8 % and your movement speed is increased by 3/4/4 %."
-			},
+				"description" : "A Hex rooting its power on hope. You are animated by the power of your Hex Totem when the Survivors are on the verge of escaping. Once the Exit Gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, ―/―/Successful attacks trigger Dying State automatically, cooldowns on successful and missed attacks are decreased by 4/8/8 % and your movement speed is increased by 3/4/4 %."			},
 			{
 				"name" : "Hex: Ruin",
 				"image" : "Ruin.png",
