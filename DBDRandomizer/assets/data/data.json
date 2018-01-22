@@ -1156,22 +1156,22 @@
 			{
 				"name" : "Hex: The Third Seal",
 				"image" : "TheThirdSeal.png",
-				"description" : "A Hex that hinders one's Aura reading ability. Hitting a Survivor while the Hex Totem is active reduces the effectiveness of their Aura reading ability by 100%. This effect applies to the last 2/3/4 Survivors hit."
+				"description" : "A Hex that hinders one's Aura reading ability. Hitting a Survivor while the Hex Totem is active reduces the effectiveness of their Aura reading ability by <strong class=\"uncommon\">100%</strong>. This effect applies to the last <strong class=\"uncommon\">2</strong>/<strong class=\"rare\">3</strong>/<strong class=\"veryRare\">4</strong> Survivors hit."
 			},
 			{
 				"name" : "Hex: Thrill of the Hunt",
 				"image" : "ThrillOfTheHunt.png",
-				"description" : "A Hex rooting its power on hope. The false hope of Survivors fills you with excitement and strengthens your totems. For each Dull Totem and Hex Totem remaining on the Map gain a Token. Gain 6/8/10 % more Bloodpoints for actions in the Hunter category for each Token. Survivors' cleansing speed is reduced by 4/5/6 % for each Token. Gain a notification when someone starts working on a Hex Totem."
+				"description" : "A Hex rooting its power on hope. The false hope of Survivors fills you with excitement and strengthens your totems. For each Dull Totem and Hex Totem remaining on the Map gain a Token.<br />Gain <strong class=\"uncommon\">6</strong>/<strong class=\"uncommon\">8</strong>/<strong class=\"rare\">10</strong> % more Bloodpoints for actions in the Hunter category for each Token.<br />Survivors' cleansing speed is reduced by <strong class=\"uncommon\">4</strong>/<strong class=\"uncommon\">5</strong>/<strong class=\"rare\">6</strong> % for each Token.<br />Gain a notification when someone starts working on a Hex Totem."
 			},
 			{
 				"name" : "Knock Out",
 				"image" : "KnockOut.png",
-				"description" : "The trauma caused by your brutal attacks makes crying for help painfully difficult. Dying Survivors' Auras are not revealed to other Survivors when they are standing outside of 32/24/16 metres of range."
+				"description" : "The trauma caused by your brutal attacks makes crying for help painfully difficult. Dying Survivors' Auras are not revealed to other Survivors when they are standing outside of <strong class=\"uncommon\">32</strong>/<strong class=\"uncommon\">24</strong>/<strong class=\"rare\">16</strong> metres of range."
 			},
 			{
 				"name" : "Lightborn",
 				"image" : "Lightborn.png",
-				"description" : "Unlike other beasts of the fog, you have adapted to light. Resistance to blindness is increased by 20/40/60 %. Recovery from blindness is increased by 50%."
+				"description" : "Unlike other beasts of the fog, you have adapted to light. Resistance to blindness is increased by <strong class=\"uncommon\">20</strong>/<strong class=\"rare\">40</strong>/<strong class=\"veryRare\">60</strong> %. Recovery from blindness is increased by <strong class=\"token\">50%</strong>."
 			},
 			{
 				"name" : "Monitor & Abuse",
