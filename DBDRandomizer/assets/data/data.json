@@ -1141,16 +1141,17 @@
 			{
 				"name" : "Hex: Huntress' Lullaby",
 				"image" : "HexHuntressLullaby.png",
-				"description" : "A Hex rooting its power in despair. Your hunt is an irresistible song of dread which muddles your prey’s attention. Survivors receive a 2/4/6 % regression penalty when missing any Skill Check. Each time a Survivor is hooked, Huntress Lullaby grows in power: 1 to 4 Tokens: Time between the Skill Check warning sound and the Skill Check becomes shorter. 5 Tokens: No Skill Check warning."
+				"description" : "A Hex rooting its power in despair. Your hunt is an irresistible song of dread which muddles your prey’s attention. Survivors receive a <strong class=\"uncommon\">2</strong>/<strong class=\"rare\">4</strong>/<strong class=\"veryRare\">6</strong> % regression penalty when missing any Skill Check. Each time a Survivor is hooked, <em>Huntress Lullaby</em> grows in power:<br /><strong class=\"token\">1 to 4 Tokens</strong>: Time between the Skill Check warning sound and the Skill Check becomes shorter.<br /><strong class=\"token\">5 Tokens</strong>: No Skill Check warning."
 			},
 			{
 				"name" : "Hex: No One Escapes Death",
 				"image" : "NoOneEscapesDeath.png",
-				"description" : "A Hex rooting its power on hope. You are animated by the power of your Hex Totem when the Survivors are on the verge of escaping. Once the Exit Gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, ―/―/Successful attacks trigger Dying State automatically, cooldowns on successful and missed attacks are decreased by 4/8/8 % and your movement speed is increased by 3/4/4 %."			},
+				"description" : "A Hex rooting its power on hope. You are animated by the power of your Hex Totem when the Survivors are on the verge of escaping. Once the Exit Gates are powered, if there is a Dull Totem remaining on the map, this Hex is applied to it. While this Hex is active, <strong class=\"rare\">―</strong>/<strong class=\"veryRare\">―</strong>/<strong class=\"veryRare\">Successful attacks trigger Dying State automatically,</strong> cooldowns on successful and missed attacks are decreased by <strong class=\"rare\">4</strong>/<strong class=\"veryRare\">8</strong>/<strong class=\"veryRare\">8</strong> % and your movement speed is increased by <strong class=\"rare\">3</strong>/<strong class=\"veryRare\">4</strong>/<strong class=\"veryRare\">4</strong> %."
+			},
 			{
 				"name" : "Hex: Ruin",
 				"image" : "Ruin.png",
-				"description" : "A Hex that affects the Survivors' skills at repairing Generators. 2/3/4 Survivors are affected by Ruin, which causes Good Skill Checks to result in 5% regression on the Generator and Great Skill Checks grant 0% in progression."
+				"description" : "A Hex that affects the Survivors' skills at repairing Generators. <strong class=\"rare\">2</strong>/<strong class=\"veryRare\">3</strong>/<strong class=\"veryRare\">4</strong> Survivors are affected by <em>Ruin</em>, which causes Good Skill Checks to result in <strong class=\"teachable\">5%</strong> regression on the Generator and Great Skill Checks grant <strong class=\"token\">0%</strong> in progression."
 			},
 			{
 				"name" : "Hex: The Third Seal",
