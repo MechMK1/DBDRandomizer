@@ -303,9 +303,9 @@ echo '			</div>';
 
 	function mode_default()
 	{
-echo '<section class="jumbotron text-center">';
+echo '<section class="jumbotron text-center bg-dark">';
 echo '	<div class="container">';
-echo '		<h1 class="jumbotron-heading">Dead by Daylight Randomizer</h1>';
+echo '		<h1 class="jumbotron-heading text-white">Dead by Daylight Randomizer</h1>';
 echo '		<p class="lead text-muted">Don\'t know what to play? Try out the Dead by Daylight Randomizer and get a random killer or survivor, item, add-ons and offering.<br/>Click the buttons below to get started!</p>';
 echo '		<p>';
 echo '			<a href="?mode=killer" class="btn btn-danger btn-lg my-2"><img src="assets/data/images/icons/Killer.png" height="64"> Killer</a>';
