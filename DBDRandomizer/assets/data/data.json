@@ -1176,22 +1176,22 @@
 			{
 				"name" : "Monitor & Abuse",
 				"image" : "MonitorAndAbuse.png",
-				"description" : "Meticulous in your approach, terrifying in your application. While in a chase, your Terror Radius is increased by 6/7/8 metres. Otherwise your Terror Radius is decreased by 6/7/8 metres and your field of view is slightly/moderately/considerably increased."
+				"description" : "Meticulous in your approach, terrifying in your application. While in a chase, your Terror Radius is increased by <strong class=\"uncommon\">6</strong>/<strong class=\"rare\">7</strong>/<strong class=\"veryRare\">8</strong> metres. Otherwise your Terror Radius is decreased by <strong class=\"uncommon\">6</strong>/<strong class=\"rare\">7</strong>/<strong class=\"veryRare\">8</strong> metres and your field of view is <strong class=\"uncommon\">slightly</strong>/<strong class=\"rare\">moderately</strong>/<strong class=\"veryRare\">considerably</strong> increased."
 			},
 			{
 				"name" : "Monstrous Shrine",
 				"image" : "MonstrousShrine.png",
-				"description" : "Your fervent care of the hooks found in the Basement has aroused the Entity interest. The Basement Hooks are granted the following bonuses: 3/6/9 % faster Entity progression. 5/10/15 % increased difficulty on escape attempts. 3/6/9 % increased penalty to escape fails."
+				"description" : "Your fervent care of the hooks found in the Basement has aroused the Entity interest. The Basement Hooks are granted the following bonuses:<br /><br /><strong class=\"uncommon\">3</strong>/<strong class=\"rare\">6</strong>/<strong class=\"veryRare\">9</strong> % faster Entity progression.<br /><strong class=\"uncommon\">5</strong>/<strong class=\"rare\">10</strong>/<strong class=\"veryRare\">15</strong> % increased difficulty on escape attempts.<br /><strong class=\"uncommon\">3</strong>/<strong class=\"rare\">6</strong>/<strong class=\"veryRare\">9</strong> % increased penalty to escape fails."
 			},
 			{
 				"name" : "Overcharge",
 				"image" : "GeneratorOvercharge.png",
-				"description" : "You are fuelled by your hate for progress. Overcharge a Generator by performing the Damage Generator action. The next Survivor interacting with that Generator is faced with a moderately/considerably/tremendously difficult Skill Check. Failing the Skill Check results in an additional 3/4/5 % Generator regression."
+				"description" : "You are fuelled by your hate for progress. Overcharge a Generator by performing the Damage Generator action. The next Survivor interacting with that Generator is faced with a <strong class=\"uncommon\">moderately</strong>/<strong class=\"rare\">considerably</strong>/<strong class=\"veryRare\">tremendously</strong> difficult Skill Check. Failing the Skill Check results in an additional <strong class=\"uncommon\">3</strong>/<strong class=\"rare\">4</strong>/<strong class=\"veryRare\">5</strong> % Generator regression."
 			},
 			{
 				"name" : "Overwhelming Presence",
 				"image" : "OverwhelmingPresence.png",
-				"description" : "Your presence alone instils great fear. Survivors within your Terror Radius suffer from inefficiency. Affected Survivors' Item consumption rates are increased by 80/90/100 %."
+				"description" : "Your presence alone instils great fear. Survivors within your Terror Radius suffer from inefficiency. Affected Survivors' Item consumption rates are increased by <strong class=\"uncommon\">80</strong>/<strong class=\"uncommon\">90</strong>/<strong class=\"rare\">100</strong> %."
 			},
 			{
 				"name" : "Remember Me",
