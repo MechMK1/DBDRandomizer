@@ -1071,17 +1071,17 @@
 			{
 				"name" : "Beast Of Prey",
 				"image" : "BeastOfPrey.png",
-				"description" : "Your lust for a kill is so intense that your connection with the Entity is momentarily lost, making you totally unpredictable. The Red Stain disappears for 15/20/25 seconds when Bloodlust activates. Beast of Prey has a cooldown of 120 seconds."
+				"description" : "Your lust for a kill is so intense that your connection with the Entity is momentarily lost, making you totally unpredictable. The Red Stain disappears for <strong class=\"uncommon\">15</strong>/<strong class=\"uncommon\">20</strong>/<strong class=\"rare\">25</strong> seconds when Bloodlust activates.<br/>Beast of Prey has a cooldown of <strong class=\"teachable\">120 seconds</strong>."
 			},
 			{
 				"name" : "Bitter Murmur",
 				"image" : "BitterMurmur.png",
-				"description" : "Unlocks potential in one's Aura reading ability. Survivors' Auras are revealed to you for a duration of 5/7/9 seconds when the Exit Gates are powered."
+				"description" : "Unlocks potential in one's Aura reading ability. Survivors' Auras are revealed to you for a duration of <strong class=\"rare\">5</strong>/<strong class=\"veryRare\">7</strong>/<strong class=\"veryRare\">9</strong> seconds when the Exit Gates are powered."
 			},
 			{
 				"name" : "Bloodhound",
 				"image" : "Bloodhound.png",
-				"description" : "Like a hunting scent hound, you smell traces of blood at a great distance. Fresh Blood Stains are considerably more discernible than normal and can be tracked for 2/3/4 seconds longer than normal."
+				"description" : "Like a hunting scent hound, you smell traces of blood at a great distance. Fresh Blood Stains are <strong class=\"uncommon\">considerably more discernible</strong> than normal and can be tracked for <strong class=\"uncommon\">2</strong>/<strong class=\"rare\">3</strong/<strong class=\"veryRare\">4</strong> seconds longer than normal."
 			},
 			{
 				"name" : "Blood Warden",
