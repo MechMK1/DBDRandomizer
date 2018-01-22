@@ -1081,7 +1081,7 @@
 			{
 				"name" : "Bloodhound",
 				"image" : "Bloodhound.png",
-				"description" : "Like a hunting scent hound, you smell traces of blood at a great distance. Fresh Blood Stains are <strong class=\"uncommon\">considerably more discernible</strong> than normal and can be tracked for <strong class=\"uncommon\">2</strong>/<strong class=\"rare\">3</strong/<strong class=\"veryRare\">4</strong> seconds longer than normal."
+				"description" : "Like a hunting scent hound, you smell traces of blood at a great distance. Fresh Blood Stains are <strong class=\"uncommon\">considerably more discernible</strong> than normal and can be tracked for <strong class=\"uncommon\">2</strong>/<strong class=\"rare\">3</strong>/<strong class=\"veryRare\">4</strong> seconds longer than normal."
 			},
 			{
 				"name" : "Blood Warden",
