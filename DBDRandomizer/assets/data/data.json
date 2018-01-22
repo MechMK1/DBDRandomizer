@@ -1196,22 +1196,22 @@
 			{
 				"name" : "Remember Me",
 				"image" : "RememberMe.png",
-				"description" : "You become obsessed with one Survivor. Each time you hit your Obsession, you increase the opening time of the Exit Gates by 5 seconds up to a maximum of 20 additional/25 additional/30 additional seconds. The Obsession is not affected by Remember Me."
+				"description" : "You become obsessed with one Survivor. Each time you hit your Obsession, you increase the opening time of the Exit Gates by <strong class=\"uncommon\">5 seconds</strong> up to a maximum of <strong class=\"uncommon\">20</strong>/<strong class=\"rare\">25</strong>/<strong class=\"veryRare\">30</strong> additional seconds. The Obsession is not affected by <em>Remember Me</em>."
 			},
 			{
 				"name" : "Play With Your Food",
 				"image" : "PlayWithYourFood.png",
-				"description" : "You become obsessed with one Survivor. Every time you chase your Obsession and let them escape, you receive a Token up to a maximum of 3 Tokens. Each Token increases your movement speed by 3/4/5 %. Each offensive action spends one Token."
+				"description" : "You become obsessed with one Survivor. Every time you chase your Obsession and let them escape, you receive a Token up to a maximum of 3 Tokens. Each Token increases your movement speed by <strong class=\"rare\">3</strong>/<strong class=\"veryRare\">4</strong>/<strong class=\"veryRare\">5</strong> %. Each offensive action spends one Token."
 			},
 			{
 				"name" : "Predator",
 				"image" : "Predator.png",
-				"description" : "Your acute tracking ability allows you to follow disturbances left by passing prey over a longer period of time. Footstep marks stay visible 1/2/3 seconds longer than normal."
+				"description" : "Your acute tracking ability allows you to follow disturbances left by passing prey over a longer period of time. Footstep marks stay visible <strong class=\"uncommon\">1</strong>/<strong class=\"uncommon\">2</strong>/<strong class=\"rare\">3</strong> seconds longer than normal."
 			},
 			{
 				"name" : "Save The Best For Last",
 				"image" : "SaveTheBestForLast.png",
-				"description" : "You become obsessed with one Survivor. As long as your Obsession is alive, after being in a chase for 20 seconds the cool-down for your next successful attack is decreased by 30/35/40 %. Your successful attack cool-down remains active for 5 seconds seconds after a chase. Re-initialising a chase before the 5 seconds have lapsed will reset the successful attack cool-down timer."
+				"description" : "You become obsessed with one Survivor. As long as your Obsession is alive, after being in a chase for <strong class=\"uncommon\">20 seconds</strong> the cool-down for your next successful attack is decreased by <strong class=\"rare\">30</strong>/<strong class=\"veryRare\">35</strong>/<strong class=\"veryRare\">40</strong> %. Your successful attack cool-down remains active for <strong class=\"token\">5 seconds</strong> seconds after a chase. Re-initialising a chase before the <strong class=\"token\">5 seconds</strong> have lapsed will reset the successful attack cool-down timer."
 			},
 			{
 				"name" : "Shadowborn",
