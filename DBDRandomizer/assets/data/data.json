@@ -1216,27 +1216,27 @@
 			{
 				"name" : "Shadowborn",
 				"image" : "Shadowborn.png",
-				"description" : "You have a keen vision in the darkness of the night. Your field of view is moderately/considerably/tremendously wider than normal."
+				"description" : "You have a keen vision in the darkness of the night. Your field of view is <strong class=\"rare\">moderately</strong>/<strong class=\"veryRare\">considerably</strong>/<strong class=\"veryRare\">tremendously</strong> wider than normal."
 			},
 			{
 				"name" : "Sloppy Butcher",
 				"image" : "SloppyButcher.png",
-				"description" : "You know where to hit to make them bleed. Wounds inflicted by successful attacks slightly/moderately/considerably increase the Survivor's Bleeding frequency. Bleeding returns to normal once the Survivor is healed."
+				"description" : "You know where to hit to make them bleed. Wounds inflicted by successful attacks <strong class=\"uncommon\">slightly</strong>/<strong class=\"uncommon\">moderately</strong>/<strong class=\"rare\">considerably</strong> increase the Survivor's Bleeding frequency. Bleeding returns to normal once the Survivor is healed."
 			},
 			{
 				"name" : "Spies From The Shadows",
 				"image" : "SpiesFromTheShadows.png",
-				"description" : "The Crows found in the world can communicate directly with you. 50/50/75 % of the time, cawing Crows give you a visual clue when you are within a 16/24/36 metres."
+				"description" : "The Crows found in the world can communicate directly with you. <strong class=\"rare\">50</strong>/<strong class=\"veryRare\">50</strong>/<strong class=\"veryRare\">75</strong> % of the time, cawing Crows give you a visual clue when you are within a <strong class=\"rare\">16</strong>/<strong class=\"veryRare\">24</strong>/<strong class=\"veryRare\">32</strong> metres."
 			},
 			{
 				"name" : "Stridor",
 				"image" : "Stridor.png",
-				"description" : "Breathing of Survivors in pain is 25/50/50 % louder. Regular Survivor breathing is now also 0/0/25 % louder."
+				"description" : "Breathing of Survivors in pain is <strong class=\"uncommon\">25</strong>/<strong class=\"uncommon\">50</strong>/<strong class=\"rare\">50</strong> % louder. Regular Survivor breathing is now also <strong class=\"uncommon\">0</strong>/<strong class=\"uncommon\">0</strong>/<strong class=\"rare\">25</strong> % louder."
 			},
 			{
 				"name" : "Territorial Imperative",
 				"image" : "TerritorialImperative.png",
-				"description" : "Unlocks potential in one's Aura reading ability. Survivors' Auras are revealed to you for 3 seconds when they enter the Basement and you are more than 32 metres away from the Basement entrance. Territorial Imperative can only be triggered once every 60/45/30 seconds."
+				"description" : "Unlocks potential in one's Aura reading ability. Survivors' Auras are revealed to you for <strong class=\"common\">3 seconds</strong> when they enter the Basement and you are more than <strong class=\"teachable\">32 metres</strong> away from the Basement entrance. <em>Territorial Imperative</em> can only be triggered once every <strong class=\"uncommon\">60</strong>/<strong class=\"rare\">45</strong>/<strong class=\"veryRare\">30</strong> seconds."
 			},
 			{
 				"name" : "Tinkerer",
