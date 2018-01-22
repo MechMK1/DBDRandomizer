@@ -1116,7 +1116,7 @@
 			{
 				"name" : "Fire Up",
 				"image" : "FireUp.png",
-				"description" : "The increased pressure of losing your preys fills you with anger and gives you unsuspected motivation. Each time the Survivors complete repairs on a Generator, Fire Up grows in power and grants speed bonus to pick up, drop, Pallet break, Generator break and vaults. 2 Tokens: Receive 6/8/10 % action speed bonus. 3 Tokens: Receive 8/10/12 % action speed bonus. 4 Tokens: Receive 10/12/14 % action speed bonus."
+				"description" : "The increased pressure of losing your preys fills you with anger and gives you unsuspected motivation. Each time the Survivors complete repairs on a Generator, Fire Up grows in power and grants speed bonus to pick up, drop, Pallet break, Generator break and vaults.<br/><strong class=\"token\">2 Tokens</strong>: Receive <strong class=\"uncommon\">6</strong>/<strong class=\"uncommon\">8</strong>/<strong class=\"rare\">10</strong> % action speed bonus.<br/><strong class=\"token\">3 Tokens</strong>: Receive <strong class=\"uncommon\">8</strong>/<strong class=\"uncommon\">10</strong>/<strong class=\"rare\">12</strong> % action speed bonus.<br/><strong class=\"token\">4 Tokens</strong>: Receive <strong class=\"uncommon\">10</strong>/<strong class=\"uncommon\">12</strong>/<strong class=\"rare\">14</strong> % action speed bonus."
 			},
 			{
 				"name" : "Franklin's Demise",
