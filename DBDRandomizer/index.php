@@ -72,6 +72,8 @@
 
 	function get_mode()
 	{
+		if(!array_key_exists("mode", $_GET)) return NULL; //So no warning is being printed
+
 		if($_GET["mode"] === "killer") return MODE_KILLER;
 		if($_GET["mode"] === "survivor") return MODE_SURVIVOR;
 
@@ -301,7 +303,18 @@ echo '			</div>';
 
 	function mode_default()
 	{
-		echo "<p>YOLO</p>";
+echo '<section class="jumbotron text-center">';
+echo '	<div class="container">';
+echo '		<h1 class="jumbotron-heading">Dead by Daylight Randomizer</h1>';
+echo '		<p class="lead text-muted">Don\'t know what to play? Try out the Dead by Daylight Randomizer and get a random killer or survivor, item, add-ons and offering.<br/>Click the buttons below to get started!</p>';
+echo '		<p>';
+echo '			<a href="?mode=killer" class="btn btn-danger btn-lg my-2"><img src="assets/data/images/icons/Killer.png" height="64"> Killer</a>';
+echo '			<a href="?mode=survivor" class="btn btn-primary btn-lg my-2"><img src="assets/data/images/icons/Survivor.png" height="64"> Survivor</a>';
+echo '		</p>';
+echo '	</div>';
+echo '</section>';
+
+//echo '<a class="btn btn-danger btn-lg" href="?mode=killer" role="button">Killer</a> <a class="btn btn-primary btn-lg" href="?mode=survivor" role="button">Survivor</a>';
 	}
 
 	$mode = get_mode();
@@ -339,10 +352,16 @@ echo '			</div>';
 			<div class="collapse navbar-collapse" id="navbarsExampleDefault">
 				<ul class="navbar-nav mr-auto">
 					<li class="nav-item" id="nav-killer">
-						<a class="nav-link" href="?mode=killer">Killer</a>
+						<a class="nav-link" href="?mode=killer">
+							<img src="assets/data/images/icons/Killer.png" class="d-inline-block align-top" height="24">
+							Killer
+						</a>
 					</li>
 					<li class="nav-item" id="nav-survivor">
-						<a class="nav-link" href="?mode=survivor">Survivors</a>
+						<a class="nav-link" href="?mode=survivor">
+							<img src="assets/data/images/icons/Survivor.png" class="d-inline-block align-top" height="24">
+							Survivors
+						</a>
 					</li>
 				</ul>
 			</div>
@@ -369,6 +388,12 @@ echo '			</div>';
 
 
 		</main><!-- /.container -->
+
+		<footer class="footer">
+			<div class="container">
+				<span class="text-white">Created by MechMK1 and Mister_Marty. Dedicated to my dearest Morgane.</span>
+			</div>
+		</footer>
 
 		<!-- Bootstrap core JavaScript
 		================================================== -->
