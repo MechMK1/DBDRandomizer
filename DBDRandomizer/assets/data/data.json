@@ -1121,22 +1121,22 @@
 			{
 				"name" : "Franklin's Demise",
 				"image" : "FranklinsDemise.png",
-				"description" : "Your vicious attacks make the Survivors drop their Item on impact. The lost Item is damaged in the fall, losing 0/5/10 % of its base amount of Charges."
+				"description" : "Your vicious attacks make the Survivors drop their Item on impact. The lost Item is damaged in the fall, losing color: <strong class=\"uncommon\">0</strong>/<strong class=\"rare\">5</strong>/<strong class=\"veryRare\">10</strong> % of its base amount of Charges."
 			},
 			{
 				"name" : "Insidious",
 				"image" : "Insidious.png",
-				"description" : "Unlocks the stealth ability. By standing still for 4/3/2 seconds, you reduce your Terror Radius to 0 metres and thus become stealthy until you move or act again."
+				"description" : "Unlocks the stealth ability. By standing still for <strong class=\"rare\">4</strong>/<strong class=\"veryRare\">3</strong>/<strong class=\"veryRare\">2</strong> seconds, you reduce your Terror Radius to <strong class=\"teachable\">0 metres</strong> and thus become stealthy until you move or act again."
 			},
 			{
 				"name" : "Iron Grasp",
 				"image" : "IronGrasp.png",
-				"description" : "Your powerful hold onto the Survivors causes escapes to be nearly impossible. Effects of Survivors' wiggling are reduced by 25/50/75 %. Time to wiggle free from your grasp is increased by 4/8/12 %."
+				"description" : "Your powerful hold onto the Survivors causes escapes to be nearly impossible. Effects of Survivors' wiggling are reduced by <strong class=\"uncommon\">25</strong>/<strong class=\"uncommon\">50</strong>/<strong class=\"4are\">75</strong> %. Time to wiggle free from your grasp is increased by <strong class=\"uncommon\">4</strong>/<strong class=\"uncommon\">8</strong>/<strong class=\"rare\">12</strong> %."
 			},
 			{
 				"name" : "Hex: Devour Hope",
 				"image" : "DevourHope.png",
-				"description" : "A Hex rooting its power on hope. The false hope of Survivors ignites your hunger. When a Survivor is rescued from a hook at least 24 metres away, Devour Hope receives a Token. 2 Tokens: ―/―/Gain a 5% speed burst for 10 seconds after hooking a Survivor. Speed burst triggers 10 seconds after hooking a Survivor. 3 Tokens: ―/Attacks put Survivors into the dying state automatically./Attacks put Survivors into the dying state automatically. 5 Tokens: Grants the ability to kill Survivors by your own hand./Grants the ability to kill Survivors by your own hand./Grants the ability to kill Survivors by your own hand."
+				"description" : "A Hex rooting its power on hope. The false hope of Survivors ignites your hunger. When a Survivor is rescued from a hook at least <strong class=\"uncommon\">24 metres</strong> away, <em>Devour Hope</em> receives a Token.<br/><strong class=\"token\">2 Tokens</strong>: <strong class=\"rare\">―</strong>/<strong class=\"veryRare\">―</strong>/<strong class=\"veryRare\">Gain a 5% speed burst for 10 seconds after hooking a Survivor. Speed burst triggers 10 seconds after hooking a Survivor.</strong><br/><strong class=\"token\">3 Tokens</strong>: <strong class=\"rare\">―</strong>/<strong class=\"veryRare\">Attacks put Survivors into the dying state automatically.</strong>/<strong class=\"veryRare\">Attacks put Survivors into the dying state automatically.</strong><br/><strong class=\"token\">5 Tokens</strong>: <strong class=\"rare\">Grants the ability to kill Survivors by your own hand.</strong>/<strong class=\"veryRare\">Grants the ability to kill Survivors by your own hand.</strong>/<strong class=\"veryRare\">Grants the ability to kill Survivors by your own hand.</strong>"
 			},
 			{
 				"name" : "Hex: Huntress' Lullaby",
