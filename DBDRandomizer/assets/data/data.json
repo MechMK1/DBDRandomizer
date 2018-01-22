@@ -1056,7 +1056,7 @@
 			{
 				"name" : "A Nurse's Calling",
 				"image" : "ANursesCalling.png",
-				"description" : "Unlocks potential in one's Aura reading ability. The Auras of Survivors who are healing or being healed are revealed to you when they are within <strong class="rare">20</strong>/<strong class="veryRare">24</strong>/<strong class="veryRare">28</strong> metres of range."
+				"description" : "Unlocks potential in one's Aura reading ability. The Auras of Survivors who are healing or being healed are revealed to you when they are within <strong class=\"rare\">20</strong>/<strong class=\"veryRare\">24</strong>/<strong class=\"veryRare\">28</strong> metres of range."
 			},
 			{
 				"name" : "Agitation",
