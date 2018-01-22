@@ -23,6 +23,9 @@ body {
 .teachable {
   color: #ff8800;
 }
+.token {
+  color: #d41c1c;
+}
 
 .footer {
   position: absolute;
