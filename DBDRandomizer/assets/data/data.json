@@ -1236,7 +1236,7 @@
 			{
 				"name" : "Territorial Imperative",
 				"image" : "TerritorialImperative.png",
-				"description" : "Unlocks potential in one's Aura reading ability. Survivors' Auras are revealed to you for <strong class=\"common\">3 seconds</strong> when they enter the Basement and you are more than <strong class=\"teachable\">32 metres</strong> away from the Basement entrance. <em>Territorial Imperative</em> can only be triggered once every <strong class=\"uncommon\">60</strong>/<strong class=\"rare\">45</strong>/<strong class=\"veryRare\">30</strong> seconds."
+				"description" : "Unlocks potential in one's Aura reading ability. Survivors' Auras are revealed to you for <strong class=\"uncommon\">3 seconds</strong> when they enter the Basement and you are more than <strong class=\"teachable\">32 metres</strong> away from the Basement entrance. <em>Territorial Imperative</em> can only be triggered once every <strong class=\"uncommon\">60</strong>/<strong class=\"rare\">45</strong>/<strong class=\"veryRare\">30</strong> seconds."
 			},
 			{
 				"name" : "Tinkerer",
