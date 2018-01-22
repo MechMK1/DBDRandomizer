@@ -1241,27 +1241,27 @@
 			{
 				"name" : "Tinkerer",
 				"image" : "Tinkerer.png",
-				"description" : "Add-ons that affect the charge time of your Power are 6/8/10 % more effective."
+				"description" : "Add-ons that affect the charge time of your Power are <strong class=\"rare\">6</strong>/<strong class=\"veryRare\">8</strong>/<strong class=\"veryRare\">10</strong> % more effective."
 			},
 			{
 				"name" : "Thanatophobia",
 				"image" : "Thanatophobia.png",
-				"description" : "All Survivors receive penalties to repair, healing and sabotage speeds for each injured, dying or hooked Survivor. 1 injured, dying or hooked survivor decrease repair, healing and sabotage speed by 4/5/6 %. 2 injured, dying or hooked survivor decrease repair, healing and sabotage speed by 7/8/9 %. 3 injured, dying or hooked survivor decrease repair, healing and sabotage speed by 10/11/12 %. 4 injured, dying or hooked survivor decrease repair, healing and sabotage speed by 13/14/15 %."
+				"description" : "All Survivors receive penalties to repair, healing and sabotage speeds for each injured, dying or hooked Survivor.<br /><br />1 injured, dying or hooked survivor decrease repair, healing and sabotage speed by <strong class=\"uncommon\">4</strong>/<strong class=\"rare\">5</strong>/<strong class=\"veryRare\">6</strong> %.<br />2 injured, dying or hooked survivor decrease repair, healing and sabotage speed by <strong class=\"uncommon\">7</strong>/<strong class=\"rare\">8</strong>/<strong class=\"veryRare\">9</strong> %.<br />3 injured, dying or hooked survivor decrease repair, healing and sabotage speed by <strong class=\"uncommon\">10</strong>/<strong class=\"rare\">11</strong>/<strong class=\"veryRare\">12</strong> %.<br />4 injured, dying or hooked survivor decrease repair, healing and sabotage speed by <strong class=\"uncommon\">13</strong>/<strong class=\"rare\">14</strong>/<strong class=\"veryRare\">15</strong> %."
 			},
 			{
 				"name" : "Unnerving Presence",
 				"image" : "UnnervingPresence.png",
-				"description" : "Your presence alone instils great fear. Survivors within your Terror Radius have a 6/8/10 % greater chance of triggering Skill Checks when repairing, healing or sabotaging. Triggered Skill Checks' success zones are reduced by 40/50/60 %."
+				"description" : "Your presence alone instils great fear. Survivors within your Terror Radius have a <strong class=\"uncommon\">6</strong>/<strong class=\"uncommon\">8</strong>/<strong class=\"rare\">10</strong> % greater chance of triggering Skill Checks when repairing, healing or sabotaging. Triggered Skill Checks' success zones are reduced by <strong class=\"uncommon\">40</strong>/<strong class=\"uncommon\">50</strong>/<strong class=\"rare\">60</strong> %."
 			},
 			{
 				"name" : "Unrelenting",
 				"image" : "Unrelenting.png",
-				"description" : "You recuperate faster from any attack made with your main weapon. The cooldown of missed attacks is reduced by 20/25/30 %."
+				"description" : "You recuperate faster from any attack made with your main weapon. The cooldown of missed attacks is reduced by <strong class=\"uncommon\">20</strong>/<strong class=\"rare\">25</strong>/<strong class=\"veryRare\">30</strong> %."
 			},
 			{
 				"name" : "Whispers",
 				"image" : "Whispers.png",
-				"description" : "You have a rudimentary understanding of the Entity voice. Sporadically hear the Entity's Whisper when standing within a 48/40/32 metres of a Survivor."
+				"description" : "You have a rudimentary understanding of the Entity voice. Sporadically hear the Entity's Whisper when standing within a <strong class=\"rare\">48</strong>/<strong class=\"veryRare\">40</strong>/<strong class=\"veryRare\">32</strong> metres of a Survivor."
 			}
 		],
 		"offerings" : [
