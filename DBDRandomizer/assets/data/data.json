@@ -1131,7 +1131,7 @@
 			{
 				"name" : "Iron Grasp",
 				"image" : "IronGrasp.png",
-				"description" : "Your powerful hold onto the Survivors causes escapes to be nearly impossible. Effects of Survivors' wiggling are reduced by <strong class=\"uncommon\">25</strong>/<strong class=\"uncommon\">50</strong>/<strong class=\"4are\">75</strong> %. Time to wiggle free from your grasp is increased by <strong class=\"uncommon\">4</strong>/<strong class=\"uncommon\">8</strong>/<strong class=\"rare\">12</strong> %."
+				"description" : "Your powerful hold onto the Survivors causes escapes to be nearly impossible. Effects of Survivors' wiggling are reduced by <strong class=\"uncommon\">25</strong>/<strong class=\"uncommon\">50</strong>/<strong class=\"rare\">75</strong> %. Time to wiggle free from your grasp is increased by <strong class=\"uncommon\">4</strong>/<strong class=\"uncommon\">8</strong>/<strong class=\"rare\">12</strong> %."
 			},
 			{
 				"name" : "Hex: Devour Hope",
