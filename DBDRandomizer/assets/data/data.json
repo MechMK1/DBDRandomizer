@@ -2070,19 +2070,30 @@
 				"description" : "When starting to run, break into a sprint at <strong class=\"uncommon\">150%</strong> your normal running speed for a maximum of <strong class=\"teachable\">3 seconds</strong>.<br />Causes Exhaustion for <strong class=\"rare\">60</strong>/<strong class=\"veryRare\">50</strong>/<strong class=\"veryRare\">40</strong> seconds."
 			},
 			{
+				"name" : "Stake Out" ,
+				"image" : "StakeOut.png",
+				"description" : "Getting close to the Killer fills you with determination. For each <strong class=\"uncommon\">15 seconds</strong> you are standing within the Killer's Terror Radius and are not in a Chase, you gain a Token up to a maximum of <strong class=\"rare\">2</strong>/<strong class=\"veryRare\">3</strong>/<strong class=\"veryRare\">4</strong> Tokens.<br />When <em>Stake Out</em> has at least <strong>1 Token</strong>, Good Skill Checks are considered Great Skill Checks and consume <strong>1 Token</strong>."
+			},
+			{
 				"name" : "Streetwise" ,
 				"image" : "Streetwise.png",
-				"description" : "Long nights out taught you to do a lot with what you've got. Reduce consumption rate of Item charge by 10/12/15 % for you and allies within an 8 metre range."
+				"description" : "Long nights out taught you to do a lot with what you've got. Reduce consumption rate of Item charge by <strong class=\"rare\">10</strong>/<strong class=\"veryRare\">12</strong>/<strong class=\"veryRare\">15</strong> % for you and allies within an <strong class=\"teachable\">8 metre</strong> range."
 			},
 			{
 				"name" : "This Is Not Happening" ,
 				"image" : "ThisIsNotHappening.png",
-				"description" : "You perform at your best when you are under extreme stress. Great Skill Check success zones when repairing, healing and sabotaging get 10/20/30 % bigger when you are injured."
+				"description" : "You perform at your best when you are under extreme stress. Great Skill Check success zones when repairing, healing and sabotaging get <strong class=\"uncommon\">10</strong>/<strong class=\"rare\">20</strong>/<strong class=\"veryRare\">30</strong> % bigger when you are injured."
 			},
 			{
 				"name" : "Technician" ,
 				"image" : "Technician.png",
-				"description" : "The noises caused by your repairs and their hearing distance are reduced by 0/4/8 metres. On a failed repair Skill Checks, there is a 30/40/50 % chance the Generator explosion will be prevented."
+				"description" : "The noises caused by your repairs and their hearing distance are reduced by <strong class=\"uncommon\">0</strong>/<strong class=\"uncommon\">4</strong>/<strong class=\"rare\">8</strong> metres. On a failed repair Skill Checks, there is a <strong class=\"uncommon\">30</strong>/<strong class=\"uncommon\">40</strong>/<strong class=\"rare\">50</strong> % chance the Generator explosion will be prevented."
+			},
+			
+			{
+				"name" : "Tenacity" ,
+				"image" : "Tenacity.png",
+				"description" : "There is nothing stopping you. Your ferocious tenacity in dire situations allows you to crawl <strong class=\"uncommon\">40</strong>/<strong class=\"uncommon\">40</strong>/<strong class=\"rare\">50</strong> % faster and recover at the same time."
 			},
 			{
 				"name" : "Up The Ante" ,
