@@ -70,6 +70,13 @@
 		return $tmp[0];
 	}
 
+	function get_image($image)
+	{
+		$prefix = "assets/images/";
+		if(is_readable($prefix . $image)) return $prefix . $image;
+		else return $prefix . "icons/Unknown.png";
+	}
+
 	function get_mode()
 	{
 		if(!array_key_exists("mode", $_GET)) return NULL; //So no warning is being printed
@@ -111,7 +118,8 @@
 echo '		<div class="my-3 p-3 bg-dark rounded box-shadow">';
 echo '			<h2 class="border-bottom border-danger pb-3 text-white">Killer</h2>';
 echo '			<div class="media text-white pt-3">';
-echo "				<img src=\"assets/data/images/killers/$killer->image\" alt=\"$killer->name\" height=\"64\" class=\"mr-2 rounded\">";
+$image = get_image("killers/$killer->image");
+echo "				<img src=\"$image\" alt=\"$killer->name\" height=\"64\" class=\"mr-2 rounded\">";
 echo '				<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">';
 echo "					<strong class=\"d-block text-gray-dark\">$killer->name</strong>";
 echo "					<em>$killer->description</em>";
@@ -129,7 +137,8 @@ echo '			<h2 class="border-bottom border-danger pb-3 text-white">Add-Ons</h2>';
 foreach($addons as $addon)
 {
 echo '			<div class="media text-white pt-3">';
-echo "				<img src=\"assets/data/images/addons/killers/$addon->image\" alt=\"$addon->name\" height=\"64\" class=\"mr-2 rounded\">";
+$image = get_image("addons/killers/$addon->image");
+echo "				<img src=\"$image\" alt=\"$addon->name\" height=\"64\" class=\"mr-2 rounded\">";
 echo '				<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">';
 echo "					<strong class=\"d-block text-gray-dark\">$addon->name</strong>";
 echo "					<em>$addon->description</em>";
@@ -146,7 +155,8 @@ echo '				<h2 class="border-bottom border-danger pb-3 text-white">Perks</h2>';
 foreach($perks as $perk)
 {
 echo '				<div class="media text-white pt-3">';
-echo "					<img src=\"assets/data/images/perks/killer/$perk->image\" alt=\"$perk->name\" height=\"64\" class=\"mr-2 rounded\">";
+$image = get_image("perks/killer/$perk->image");
+echo "					<img src=\"$image\" alt=\"$perk->name\" height=\"64\" class=\"mr-2 rounded\">";
 echo '					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">';
 echo "						<strong class=\"d-block text-gray-dark\">$perk->name</strong>";
 echo $perk->description;
@@ -161,7 +171,8 @@ echo '			</div>';
 echo '			<div class="my-3 p-3 bg-dark rounded box-shadow">';
 echo '				<h2 class="border-bottom border-danger pb-3 text-white">Offering</h2>';
 echo '				<div class="media text-white pt-3">';
-echo "					<img src=\"assets/data/images/offerings/$offering->image\" alt=\"$offering->name\" height=\"64\" class=\"mr-2 rounded\">";
+$image = get_image("offerings/$offering->image");
+echo "					<img src=\"$image\" alt=\"$offering->name\" height=\"64\" class=\"mr-2 rounded\">";
 echo '					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">';
 echo "						<strong class=\"d-block text-gray-dark\">$offering->name</strong>";
 echo "						<em>$offering->description</em>";
@@ -216,7 +227,8 @@ echo '			</div>';
 echo '			<div class="my-3 p-3 bg-dark rounded box-shadow">';
 echo '				<h2 class="border-bottom border-primary pb-3 text-white">Survivor</h2>';
 echo '				<div class="media text-white pt-3">';
-echo "					<img src=\"assets/data/images/survivors/$survivor->image\" alt=\"$survivor->name\" height=\"64\" class=\"mr-2 rounded\">";
+$image = get_image("survivors/$survivor->image");
+echo "					<img src=\"$image\" alt=\"$survivor->name\" height=\"64\" class=\"mr-2 rounded\">";
 echo '					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">';
 echo "						<strong class=\"d-block text-gray-dark\">$survivor->name</strong>";
 echo "						<em>$survivor->description</em>";
@@ -230,7 +242,8 @@ echo '			</div>';
 echo '			<div class="my-3 p-3 bg-dark rounded box-shadow">';
 echo '				<h2 class="border-bottom border-primary pb-3 text-white">Item</h2>';
 echo '				<div class="media text-white pt-3">';
-echo "					<img src=\"assets/data/images/items/$item->image\" alt=\"$item->name\" height=\"64\" class=\"mr-2 rounded\">";
+$image = get_image("items/$item->image");
+echo "					<img src=\"$image\" alt=\"$item->name\" height=\"64\" class=\"mr-2 rounded\">";
 echo '					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">';
 echo "						<strong class=\"d-block text-gray-dark\">$item->name</strong>";
 echo "						<em>$item->description</em>";
@@ -242,7 +255,8 @@ if(!empty($addons)){
 	foreach($addons as $addon)
 	{
 	echo '				<div class="media text-white pt-3">';
-	echo "					<img src=\"assets/data/images/addons/items/$addon->image\" alt=\"$addon->name\" height=\"64\" class=\"mr-2 rounded\">";
+	$image = get_image("addons/items/$addon->image");
+	echo "					<img src=\"$image\" alt=\"$addon->name\" height=\"64\" class=\"mr-2 rounded\">";
 	echo '					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">';
 	echo "						<strong class=\"d-block text-gray-dark\">$addon->name</strong>";
 	echo "						<em>$addon->description</em>";
@@ -260,7 +274,8 @@ echo '				<h2 class="border-bottom border-primary pb-3 text-white">Perks</h2>';
 foreach($perks as $perk)
 {
 echo '				<div class="media text-white pt-3">';
-echo "					<img src=\"assets/data/images/perks/survivor/$perk->image\" alt=\"$perk->name\" height=\"64\" class=\"mr-2 rounded\">";
+$image = get_image("perks/survivor/$perk->image");
+echo "					<img src=\"$image\" alt=\"$perk->name\" height=\"64\" class=\"mr-2 rounded\">";
 echo '					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">';
 echo "						<strong class=\"d-block text-gray-dark\">$perk->name</strong>";
 echo $perk->description;
@@ -275,7 +290,8 @@ echo '			</div>';
 echo '			<div class="my-3 p-3 bg-dark rounded box-shadow">';
 echo '				<h2 class="border-bottom border-primary pb-3 text-white">Offering</h2>';
 echo '				<div class="media text-white pt-3">';
-echo "					<img src=\"assets/data/images/offerings/$offering->image\" alt=\"$offering->name\" height=\"64\" class=\"mr-2 rounded\">";
+$image = get_image("offerings/$offering->image");
+echo "					<img src=\"$image\" alt=\"$offering->name\" height=\"64\" class=\"mr-2 rounded\">";
 echo '					<p class="media-body pb-3 mb-0 small lh-125 border-bottom border-white">';
 echo "						<strong class=\"d-block text-gray-dark\">$offering->name</strong>";
 echo "						<em>$offering->description</em>";
@@ -308,8 +324,8 @@ echo '	<div class="container">';
 echo '		<h1 class="jumbotron-heading text-white">Dead by Daylight Randomizer</h1>';
 echo '		<p class="lead text-muted">Don\'t know what to play? Try out the Dead by Daylight Randomizer and get a random killer or survivor, item, add-ons and offering.<br/>Click the buttons below to get started!</p>';
 echo '		<p>';
-echo '			<a href="?mode=killer" class="btn btn-danger btn-lg my-2"><img src="assets/data/images/icons/Killer.png" height="64"> Killer</a>';
-echo '			<a href="?mode=survivor" class="btn btn-primary btn-lg my-2"><img src="assets/data/images/icons/Survivor.png" height="64"> Survivor</a>';
+echo '			<a href="?mode=killer" class="btn btn-danger btn-lg my-2"><img src="assets/images/icons/Killer.png" height="64"> Killer</a>';
+echo '			<a href="?mode=survivor" class="btn btn-primary btn-lg my-2"><img src="assets/images/icons/Survivor.png" height="64"> Survivor</a>';
 echo '		</p>';
 echo '	</div>';
 echo '</section>';
@@ -349,13 +365,13 @@ echo '</section>';
 			<ul class="navbar-nav mr-auto">
 				<li class="nav-item" id="nav-killer">
 					<a class="nav-link" href="?mode=killer">
-						<img src="assets/data/images/icons/Killer.png" class="d-inline-block align-top" height="24">
+						<img src="assets/images/icons/Killer.png" class="d-inline-block align-top" height="24">
 						Killer
 					</a>
 				</li>
 				<li class="nav-item" id="nav-survivor">
 					<a class="nav-link" href="?mode=survivor">
-						<img src="assets/data/images/icons/Survivor.png" class="d-inline-block align-top" height="24">
+						<img src="assets/images/icons/Survivor.png" class="d-inline-block align-top" height="24">
 						Survivors
 					</a>
 				</li>
