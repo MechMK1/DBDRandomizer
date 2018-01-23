@@ -2012,32 +2012,32 @@
 			{
 				"name" : "Plunderer's Instinct" ,
 				"image" : "PlunderersInstinct.png",
-				"description" : "Unlocks potential in one's Aura reading ability. Chests' Auras are revealed to you when standing within 16/24/32 metres. Grants a slightly/moderately/considerably better chance at finding an Item of higher rarity from Chests."
+				"description" : "Unlocks potential in one's Aura reading ability. Chests' Auras are revealed to you when standing within <strong class=\"uncommon\">16</strong>/<strong class=\"uncommon\">24</strong>/<strong class=\"rare\">32</strong> metres. Grants a <strong class=\"uncommon\">slightly</strong>/<strong class=\"uncommon\">moderately</strong>/<strong class=\"rare\">considerably</strong> better chance at finding an Item of higher rarity from Chests."
 			},
 			{
 				"name" : "Premonition" ,
 				"image" : "Premonition.png",
-				"description" : "You have the undeniable capability to sense danger. Get an auditory warning when looking in the direction of the Killer in a 45 degree cone within a range of 12/24/36 metres. Premonition has a cooldown of 60/45/30 seconds seconds each time it activates. Premonition trumps any of the Killer's stealth abilities."
+				"description" : "You have the undeniable capability to sense danger. Get an auditory warning when looking in the direction of the Killer in a 45 degree cone within a range of <strong class=\"rare\">12</strong>/<strong class=\"veryRare\">24</strong>/<strong class=\"veryRare\">36</strong> metres. Premonition has a cooldown of <strong class=\"rare\">60</strong>/<strong class=\"veryRare\">45</strong>/<strong class=\"veryRare\">30</strong> seconds seconds each time it activates. Premonition trumps any of the Killer's stealth abilities."
 			},
 			{
 				"name" : "Prove Thyself" ,
 				"image" : "ProveThyself.png",
-				"description" : "Receive an incremental speed bonus to repair, healing and sabotage actions when other Survivors are within an 8 metre range.<br />1 nearby Survivor grants 1/2/3 % increased speed.<br />2 nearby Survivor grants 2/4/6 % increased speed.<br />3 nearby Survivor grants 3/6/9 % increased speed."
+				"description" : "Receive an incremental speed bonus to repair, healing and sabotage actions when other Survivors are within an <strong class=\"uncommon\">8 metre</strong> range.<br /><br />1 nearby Survivor grants <strong class=\"uncommon\">1</strong>/<strong class=\"rare\">2</strong>/<strong class=\"veryRare\">3</strong> % increased speed.<br />2 nearby Survivor grants <strong class=\"uncommon\">2</strong>/<strong class=\"rare\">4</strong>/<strong class=\"veryRare\">6</strong> % increased speed.<br />3 nearby Survivor grants <strong class=\"uncommon\">3</strong>/<strong class=\"rare\">6</strong>/<strong class=\"veryRare\">9</strong> % increased speed."
 			},
 			{
 				"name" : "Quick & Quiet" ,
 				"image" : "QuickAndQuiet.png",
-				"description" : "You do not make as much noise as others when quickly vaulting over obstacles or hiding in Lockers. The vault and hide actions' noise detection range is reduced by 100%. This effect can only be triggered every 30/25/20 seconds."
+				"description" : "You do not make as much noise as others when quickly vaulting over obstacles or hiding in Lockers. The vault and hide actions' noise detection range is reduced by <strong class=\"uncommon\">100%</strong>. This effect can only be triggered every <strong class=\"uncommon\">30</strong>/<strong class=\"uncommon\">25</strong>/<strong class=\"rare\">20</strong> seconds."
 			},
 			{
 				"name" : "Resilience" ,
 				"image" : "Resilience.png",
-				"description" : "You are motivated in dire situations. Grants 3/6/9 % additional speed when repairing, sabotaging, healing and searching while you are Injured."
+				"description" : "You are motivated in dire situations. Grants <strong class=\"uncommon\">3</strong>/<strong class=\"rare\">6</strong>/<strong class=\"veryRare\">9</strong> % additional speed when repairing, sabotaging, healing and searching while you are Injured."
 			},
 			{
 				"name" : "Saboteur" ,
 				"image" : "Saboteur.png",
-				"description" : "Unlocks the ability to sabotage without a Toolbox at 30/40/50 % the normal sabotage speed. Skill Checks triggered in this situation have success zones reduced by 20/10/0 %. Increases efficiency of Toolbox sabotage by 50/75/100 %."
+				"description" : "Unlocks the ability to sabotage without a Toolbox at <strong class=\"rare\">30</strong>/<strong class=\"veryRare\">40</strong>/<strong class=\"veryRare\">50</strong> % the normal sabotage speed. Skill Checks triggered in this situation have success zones reduced by <strong class=\"rare\">20</strong>/<strong class=\"veryRare\">10</strong>/<strong class=\"veryRare\">0</strong> %. Increases efficiency of Toolbox sabotage by <strong class=\"rare\">50</strong>/<strong class=\"veryRare\">75</strong>/<strong class=\"veryRare\">100</strong> %."
 			},
 			{
 				"name" : "Self-Care" ,
