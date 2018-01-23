@@ -2098,37 +2098,37 @@
 			{
 				"name" : "Up The Ante" ,
 				"image" : "UpTheAnte.png",
-				"description" : "For each other Survivor still alive, grant a 1/2/3 % bonus to Luck to all remaining Survivors."
+				"description" : "For each other Survivor still alive, grant a <strong class=\"rare\">1</strong>/<strong class=\"veryRare\">2</strong>/<strong class=\"veryRare\">3</strong> % bonus to Luck to all remaining Survivors."
 			},
 			{
 				"name" : "Unbreakable" ,
 				"image" : "Unbreakable.png",
-				"description" : "Past battles have taught you a thing or two about survival. Grants the ability to fully recover from the dying state once per trial. Increases dying recovery by 15/20/25 %."
+				"description" : "Past battles have taught you a thing or two about survival. Grants the ability to fully recover from the dying state <strong>once per trial</strong>. Increases dying recovery by <strong class=\"rare\">15</strong>/<strong class=\"veryRare\">20</strong>/<strong class=\"veryRare\">25</strong> %."
 			},
 			{
 				"name" : "Urban Evasion" ,
 				"image" : "UrbanEvasion.png",
-				"description" : "Your movement speed while crouching is increased by 90/95/100 %."
+				"description" : "Your movement speed while crouching is increased by <strong class=\"uncommon\">90</strong>/<strong class=\"rare\">95</strong>/<strong class=\"veryRare\">100</strong> %."
 			},
 			{
 				"name" : "Vigil" ,
 				"image" : "Vigil.png",
-				"description" : "You look over your friends even in dire situations. You and your allies within an 8 metre range recover from Exhausted, Hemorrhage, Mangled, Hindered and Blindness Status Effects 10/15/20 % faster."
+				"description" : "You look over your friends even in dire situations. You and your allies within an 8 metre range recover from <strong>Exhausted, Hemorrhage, Mangled, Hindered and Blindness</strong> Status Effects <strong class=\"uncommon\">10</strong>/<strong class=\"rare\">15</strong>/<strong class=\"veryRare\">20</strong> % faster."
 			},
 			{
 				"name" : "Wake Up!" ,
 				"image" : "WakeUp.png",
-				"description" : "Unlocks potential in one's Aura reading ability. Once all Generators are powered, Exit Gates are revealed to you when within 24/48/∞ metres of range. While opening the Exit Gates, reveal your Aura to other Survivors within 24/48/∞ metres of range.<br />While Wake Up! is active, you open the Exit Gates 5/10/15 % faster."
+				"description" : "Unlocks potential in one's Aura reading ability. Once all Generators are powered, Exit Gates are revealed to you when within <strong class=\"uncommon\">24</strong>/<strong class=\"uncommon\">48</strong>/<strong class=\"rare\">∞</strong> metres of range. While opening the Exit Gates, reveal your Aura to other Survivors within <strong class=\"uncommon\">24</strong>/<strong class=\"uncommon\">48</strong>/<strong class=\"rare\">∞</strong> metres of range.<br />While <em>Wake Up!</em> is active, you open the Exit Gates <strong class=\"uncommon\">5</strong>/<strong class=\"uncommon\">10</strong>/<strong class=\"rare\">15</strong> % faster."
 			},
 			{
 				"name" : "We'll Make It" ,
 				"image" : "WellMakeIt.png",
-				"description" : "Helping others heightens your morale. For each Survivor you rescue from a Hook, gain an additional 25/50/100 % speed increase to healing up to a maximum of 100% for 30/60/90 seconds."
+				"description" : "Helping others heightens your morale. For each Survivor you rescue from a Hook, gain an additional <strong class=\"uncommon\">25</strong>/<strong class=\"rare\">50</strong>/<strong class=\"veryRare\">100</strong> % speed increase to healing up to a maximum of <strong class=\"teachable\">100%</strong> for <strong class=\"uncommon\">30</strong>/<strong class=\"rare\">60</strong>/<strong class=\"veryRare\">90</strong> seconds."
 			},
 			{
 				"name" : "We're Gonna Live Forever" ,
 				"image" : "WereGonnaLiveForever.png",
-				"description" : "Your few friends deserve the best protection. Each time you rescue or take a hit to protect a Survivor, gain 25% stackable bonus to all Bloodpoint gains up to a maximum of 50/75/100 %.<br />The Bonus Bloodpoints are only awarded post-trial."
+				"description" : "Your few friends deserve the best protection. Each time you rescue or take a hit to protect a Survivor, gain <strong class=\"uncommon\">25%</strong> stackable bonus to all Bloodpoint gains up to a maximum of <strong class=\"uncommon\">50</strong>/<strong class=\"uncommon\">75</strong>/<strong class=\"rare\">100</strong> %.<br />The Bonus Bloodpoints are only awarded post-trial."
 			}
 		],
 		"offerings" : [
