@@ -1992,7 +1992,7 @@
 			{
 				"name" : "No One Left Behind" ,
 				"image" : "NoOneLeftBehind.png",
-				"description" : "It is inconceivable to leave someone behind. Once the Exit Gates are powered, gain <strong class=\"uncommon\">50</strong>/<strong class=\"rare\">75</strong>/<strong class=\"veryRare\">100</strong> % more Bloodpoints for actions in the Altruism category and perform them 4/8/12 % quicker."
+				"description" : "It is inconceivable to leave someone behind. Once the Exit Gates are powered, gain <strong class=\"uncommon\">50</strong>/<strong class=\"rare\">75</strong>/<strong class=\"veryRare\">100</strong> % more Bloodpoints for actions in the Altruism category and perform them <strong class=\"uncommon\">4</strong>/<strong class=\"rare\">8</strong>/<strong class=\"veryRare\">12</strong> % quicker."
 			},
 			{
 				"name" : "Object of Obsession" ,
