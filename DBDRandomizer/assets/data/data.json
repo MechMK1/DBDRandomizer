@@ -1927,22 +1927,27 @@
 			{
 				"name" : "Dead Hard" ,
 				"image" : "DeadHard.png",
-				"description" : "You can take a beating. When injured, tap into your adrenaline bank and dash forward quickly to avoid damage. Press the activate ability button while running to dash forward. During the dash, you avoid damage.<br />Causes Exhaustion for 60/50/40 seconds."
+				"description" : "You can take a beating. When injured, tap into your adrenaline bank and dash forward quickly to avoid damage. Press the <strong>activate ability</strong> button while running to dash forward. During the dash, you avoid damage.<br />Causes Exhaustion for <strong class=\"uncommon\">60</strong>/<strong class=\"rare\">50</strong>/<strong class=\"veryRare\">40</strong> seconds."
 			},
 			{
 				"name" : "Decisive Strike" ,
 				"image" : "DecisiveStrike.png",
-				"description" : "Once per match, when the Killer's Obsession, succeed a Skill Check to automatically escape the Killer's grasp and stun them for 3/3.5/4 seconds. When not the Killer's Obsession, when the wiggle meter is at 45/40/35 % succeed in a Skill Check to escape the grasp."
+				"description" : "Once per match, when the Killer's Obsession, succeed a Skill Check to automatically escape the Killer's grasp and stun them for <strong class=\"rare\">3</strong>/<strong class=\"veryRare\">3.5</strong>/<strong class=\"veryRare\">4</strong> seconds. When not the Killer's Obsession, when the wiggle meter is at <strong class=\"rare\">45</strong>/<strong class=\"veryRare\">40</strong>/<strong class=\"veryRare\">35</strong> % succeed in a Skill Check to escape the grasp."
 			},
 			{
 				"name" : "Déjà Vu" ,
 				"image" : "DejaVu.png",
-				"description" : "Unlocks potential in one's Aura reading ability. 1/1/2 Generator(s)' Auras are revealed to you for 4/8/8 seconds seconds when starting a trial.<br />If you are holding a Map that can track them, Generators revealed by Déjà Vu are added to the Map."
+				"description" : "Unlocks potential in one's Aura reading ability. <strong class=\"uncommon\">1</strong>/<strong class=\"rare\">1</strong>/<strong class=\"veryRare\">2</strong> Generator(s)' Auras are revealed to you for <strong class=\"uncommon\">4</strong>/<strong class=\"rare\">8</strong>/<strong class=\"veryRare\">8</strong> seconds seconds when starting a trial.<br />If you are holding a Map that can track them, Generators revealed by <em>Déjà Vu</em> are added to the Map."
+			},
+			{
+				"name" : "Detective's Hunch" ,
+				"image" : "DetectivesHunch.png",
+				"description" : "Unlocks potential in one's Aura reading ability. When completing a Generator, the Auras of Generators, Chests and Totems within <strong class=\"uncommon\">32 metres</strong> are revealed to you for <strong class=\"rare\">5</strong>/<strong class=\"veryRare\">10</strong>/<strong class=\"veryRare\">15</strong> seconds.<br />If you are holding a Map IconItems map.png that can track Objectives, Generators revealed by <em>Detective's Hunch</em> are added to the Map."
 			},
 			{
 				"name" : "Empathy" ,
 				"image" : "Empathy.png",
-				"description" : "Unlocks potential in one's Aura reading ability. Dying or injured allies' Auras are revealed to you when within 32/64/∞ metres. Empathy does not reveal Auras of allies when they are in the Killer's direct contact."
+				"description" : "Unlocks potential in one's Aura reading ability. Dying or injured allies' Auras are revealed to you when within <strong class=\"uncommon\">32</strong>/<strong class=\"uncommon\">64</strong>/<strong class=\"rare\">∞</strong> metres. <em>Empathy</em> does not reveal Auras of allies when they are in the Killer's direct contact."
 			},
 			{
 				"name" : "Hope" ,
