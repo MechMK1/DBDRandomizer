@@ -1952,32 +1952,32 @@
 			{
 				"name" : "Hope" ,
 				"image" : "Hope.png",
-				"description" : "The growing odds of a successful escape fill you with hope and give you wings. Your movement speed is increased by 5/6/7 % as soon as the Exit Gates are powered.<br />This Perk is only active for 120 seconds after the Exit Gates have been powered."
+				"description" : "The growing odds of a successful escape fill you with hope and give you wings. Your movement speed is increased by <strong class=\"uncommon\">5</strong>/<strong class=\"rare\">6</strong>/<strong class=\"veryRare\">7</strong> % as soon as the Exit Gates are powered.<br />This Perk is only active for <strong class=\"uncommon\">120 seconds</strong> after the Exit Gates have been powered."
 			},
 			{
 				"name" : "Iron Will" ,
 				"image" : "IronWill.png",
-				"description" : "You're able to concentrate and enter a meditative-like state to numb some pain. Grunts of pain caused by injuries are reduced by 50/100/100 % while staying still/while staying still/at any time."
+				"description" : "You're able to concentrate and enter a meditative-like state to numb some pain. Grunts of pain caused by injuries are reduced by <strong class=\"uncommon\">50</strong>/<strong class=\"uncommon\">50</strong>/<strong class=\"rare\">100</strong> % <strong class=\"uncommon\">while staying still</strong>/<strong class=\"uncommon\">while staying still</strong>/<strong class=\"rare\">at any time</strong>."
 			},
 			{
 				"name" : "Kindred" ,
 				"image" : "Kindred.png",
-				"description" : "Unlocks potential in one's Aura reading ability. While you're on the Hook, 1 random Survivor's/All Survivors'/All Survivors' and the Killer's (in an 8m radius around the Hook) Auras are revealed to all other Survivors."
+				"description" : "Unlocks potential in one's Aura reading ability. While you're on the Hook, <strong class=\"uncommon\">1 random Survivor's</strong>/<strong class=\"rare\">All Survivors'</strong>/<strong class=\"veryRare\">All Survivors' and the Killer's (in an 8m radius around the Hook)</strong> Aura(s) are revealed to all other Survivors."
 			},
 			{
 				"name" : "Leader" ,
 				"image" : "Leader.png",
-				"description" : "You're able to organize a team to cooperate more efficiently. Increases the other Survivors' Repair, Healing and Sabotage speed by 3/6/9 % when they are within an 8 metre range from you."
+				"description" : "You're able to organize a team to cooperate more efficiently. Increases the other Survivors' Repair, Healing and Sabotage speed by <strong class=\"rare\">3</strong>/<strong class=\"veryRare\">6</strong>/<strong class=\"veryRare\">9</strong> % when they are within an <strong class=\"teachable\">8 meter</strong> range from you."
 			},
 			{
 				"name" : "Left Behind" ,
 				"image" : "LeftBehind.png",
-				"description" : "You'll get the job done... No matter the cost. If you are the last person remaining in the trial, for each Generator that needs to be repaired, gain a 19/22/25 % bonus to Repair speed."
+				"description" : "You'll get the job done... No matter the cost. If you are the last person remaining in the trial, for each Generator that needs to be repaired, gain a <strong class=\"uncommon\">19</strong>/<strong class=\"uncommon\">22</strong>/<strong class=\"rare\">25</strong> % bonus to Repair speed."
 			},
 			{
 				"name" : "Lightweight" ,
 				"image" : "Lightweight.png",
-				"description" : "Your running is light and soft, making your tracks harder to follow. Footstep marks stay visible 1/2/3 seconds less than normal."
+				"description" : "Your running is light and soft, making your tracks harder to follow. Footstep marks stay visible <strong class=\"uncommon\">1</strong>/<strong class=\"uncommon\">2</strong>/<strong class=\"rare\">3</strong> seconds less than normal."
 			},
 			{
 				"name" : "Lithe" ,
