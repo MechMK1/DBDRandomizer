@@ -1967,7 +1967,7 @@
 			{
 				"name" : "Leader" ,
 				"image" : "Leader.png",
-				"description" : "You're able to organize a team to cooperate more efficiently. Increases the other Survivors' Repair, Healing and Sabotage speed by <strong class=\"rare\">3</strong>/<strong class=\"veryRare\">6</strong>/<strong class=\"veryRare\">9</strong> % when they are within an <strong class=\"teachable\">8 meter</strong> range from you."
+				"description" : "You're able to organize a team to cooperate more efficiently. Increases the other Survivors' Repair, Healing and Sabotage speed by <strong class=\"rare\">3</strong>/<strong class=\"veryRare\">6</strong>/<strong class=\"veryRare\">9</strong> % when they are within an <strong class=\"teachable\">8 metre</strong> range from you."
 			},
 			{
 				"name" : "Left Behind" ,
@@ -1982,32 +1982,32 @@
 			{
 				"name" : "Lithe" ,
 				"image" : "Lithe.png",
-				"description" : "After performing a vault, break into a sprint at 150% of your normal running speed for a maximum of 3 seconds.<br />Activates in chases only.<br />Causes Exhaustion for 60/50/40 seconds."
+				"description" : "After performing a vault, break into a sprint at <strong class=\"uncommon\">150%</strong> of your normal running speed for a maximum of <strong class=\"uncommon\">3 seconds</strong>.<br /><em>Activates in chases only.</em><br />Causes Exhaustion for <strong class=\"uncommon\">60</strong>/<strong class=\"rare\">50</strong>/<strong class=\"veryRare\">40</strong> seconds."
 			},
 			{
 				"name" : "No Mither" ,
 				"image" : "NoMither.png",
-				"description" : "Go on kid, it's just a scratch. You start the trial injured and won't let anyone heal you beyond this state. Your thick blood coagulates practically instantly. You cannot be healed to healthy. You don't leave pools of blood. Grunts of pain caused by injuries are reduced by 0/25/50 % at any time. Grants the ability to fully recover from the dying state."
+				"description" : "Go on kid, it's just a scratch. You start the trial injured and won't let anyone heal you beyond this state. Your thick blood coagulates practically instantly. You cannot be healed to healthy. You don't leave pools of blood. Grunts of pain caused by injuries are reduced by <strong class=\"uncommon\">0</strong>/<strong class=\"rare\">25</strong>/<strong class=\"veryRare\">50</strong> % at any time. Grants the ability to fully recover from the dying state."
 			},
 			{
 				"name" : "No One Left Behind" ,
 				"image" : "NoOneLeftBehind.png",
-				"description" : "It is inconceivable to leave someone behind. Once the Exit Gates are powered, gain 50/75/100 % more Bloodpoints for actions in the Altruism category and perform them 4/8/12 % quicker."
+				"description" : "It is inconceivable to leave someone behind. Once the Exit Gates are powered, gain <strong class=\"uncommon\">50</strong>/<strong class=\"rare\">75</strong>/<strong class=\"veryRare\">100</strong> % more Bloodpoints for actions in the Altruism category and perform them 4/8/12 % quicker."
 			},
 			{
 				"name" : "Object of Obsession" ,
 				"image" : "ObjectOfObsession.png",
-				"description" : "If you are the Killer's Obsession and look in the Killer's direction, your link will reveal your Auras to each other. This effect applies only if you are outside the Killer's Terror Radius, to a maximum range of 56/64/72 metres. Otherwise, it applies to a maximum range of 44/56/64 metres."
+				"description" : "If you are the Killer's Obsession and look in the Killer's direction, your link will reveal your Auras to each other. This effect applies only if you are outside the Killer's Terror Radius, to a maximum range of <strong class=\"uncommon\">56</strong>/<strong class=\"rare\">64</strong>/<strong class=\"veryRare\">72</strong> metres. Otherwise, it applies to a maximum range of <strong class=\"uncommon\">44</strong>/<strong class=\"rare\">56</strong>/<strong class=\"veryRare\">64</strong> metres."
 			},
 			{
 				"name" : "Open Handed" ,
 				"image" : "OpenHanded.png",
-				"description" : "Strengthens the potential of you and your team's Aura reading abilities. Increases Aura reading ranges by 4/6/8 metres."
+				"description" : "Strengthens the potential of you and your team's Aura reading abilities. Increases Aura reading ranges by <strong class=\"uncommon\">4</strong>/<strong class=\"rare\">6</strong>/<strong class=\"veryRare\">8</strong> metres."
 			},
 			{
 				"name" : "Pharmacy" ,
 				"image" : "Pharmacy.png",
-				"description" : "You have a knack for finding medicine. Searches through Chests are 40/60/80 % faster.<br />Tier III only: The noises caused by searches along with their hearing distances are reduced by 8 metres.<br />Pharmacy guarantees an Emergency Med-Kit on your first completed Chest search."
+				"description" : "You have a knack for finding medicine. Searches through Chests are <strong class=\"uncommon\">40</strong>/<strong class=\"rare\">60</strong>/<strong class=\"veryRare\">80</strong> % faster.<br /><strong>Tier III only:</strong> The noises caused by searches along with their hearing distances are reduced by <strong class=\"teachable\">8 metres</strong>.<br />Pharmacy guarantees an Emergency Med-Kit on your <strong>first</strong> completed Chest search."
 			},
 			{
 				"name" : "Plunderer's Instinct" ,
