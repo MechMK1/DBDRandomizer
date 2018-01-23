@@ -1882,22 +1882,22 @@
 			{
 				"name" : "Ace in The Hole" ,
 				"image" : "AceInTheHole.png",
-				"description" : "Lady Luck always seems to be throwing something good your way. When retrieving an Item from a Chest, there is a 50% chance that an Add-on of Uncommon/Rare/Very Rare rarity or lower will be attached to it."
+				"description" : "Lady Luck always seems to be throwing something good your way. When retrieving an Item from a Chest, there is a <strong class=\"uncommon\">50%</strong> chance that an Add-on of <strong class=\"rare\">Uncommon</strong>/<strong class=\"veryRare\">Rare</strong>/<strong class=\"veryRare\">Very Rare</strong> rarity or lower will be attached to it."
 			},
 			{
 				"name" : "Adrenaline" ,
 				"image" : "Adrenaline.png",
-				"description" : "You are fuelled by unexpected energy when on the verge of escape. Instantly heal one Health State and sprint at 150% your normal running speed for 5 seconds when the Exit Gates are powered.<br />Adrenaline is on hold if you are disabled at the moment it should take effect and will activate when freed.<br />Adrenaline will wake you up if you are asleep when it triggers.<br />Adrenaline ignores Exhaustion.<br />Causes Exhaustion for 60/50/40 seconds."
+				"description" : "You are fuelled by unexpected energy when on the verge of escape. <strong class=\"uncommon\">Instantly heal one Health State</strong> and sprint at <strong class=\"teachable\">150%</strong> your normal running speed for <strong class=\"token\">5 seconds</strong> when the Exit Gates are powered.<br /><em>Adrenaline</em> is on hold if you are disabled at the moment it should take effect and will activate when freed.<br /><em>Adrenaline</em> will <strong>wake you up</strong> if you are asleep when it triggers.<br /><em>Adrenaline</em> ignores <strong>Exhaustion</strong>.<br />Causes Exhaustion for <strong class=\"rare\">60</strong>/<strong class=\"veryRare\">50</strong>/<strong class=\"veryRare\">40</strong> seconds."
 			},
 			{
 				"name" : "Alert" ,
 				"image" : "Alert.png",
-				"description" : "Your acute senses are on high alert. When the Killer performs the break action within 12/24/36 metres of range, the Killer's Aura is revealed to you for 6 seconds. This effect can only be triggered once every 60/45/30 seconds."
+				"description" : "Your acute senses are on high alert. When the Killer performs the break action within <strong class=\"uncommon\">12</strong>/<strong class=\"rare\">24</strong>/<strong class=\"veryRare\">36</strong> metres of range, the Killer's Aura is revealed to you for <strong class=\"teachable\">6 seconds</strong>. This effect can only be triggered once every <strong class=\"uncommon\">60</strong>/<strong class=\"rare\">45</strong>/<strong class=\"veryRare\">30</strong> seconds."
 			},
 			{
 				"name" : "Balanced Landing" ,
 				"image" : "BalancedLanding.png",
-				"description" : "When Balanced Landing is active, stagger effects from long falls are reduced by 50/75/75 %.<br />Tier III only: Upon landing, start sprinting at 150% your normal running speed for a maximum of 3 seconds if not exhausted.<br />Causes Exhaustion for 40 seconds."
+				"description" : "When Balanced Landing is active, stagger effects from long falls are reduced by <strong class=\"uncommon\">50</strong>/<strong class=\"uncommon\">75</strong>/<strong class=\"rare\">75</strong> %.<br /><br /><strong>Tier III only:</strong> Upon landing, start sprinting at <strong class=\"teachable\">150%</strong> your normal running speed for a maximum of <strong class=\"token\">3 seconds</strong> if not exhausted.<br />Causes Exhaustion for <strong class=\"veryRare\">40 seconds</strong>."
 			},
 			{
 				"name" : "Bond" ,
