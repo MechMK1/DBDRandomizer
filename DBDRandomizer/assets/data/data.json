@@ -2093,7 +2093,7 @@
 			{
 				"name" : "Tenacity" ,
 				"image" : "Tenacity.png",
-				"description" : "There is nothing stopping you. Your ferocious tenacity in dire situations allows you to crawl <strong class=\"uncommon\">40</strong>/<strong class=\"uncommon\">40</strong>/<strong class=\"rare\">50</strong> % faster and recover at the same time."
+				"description" : "There is nothing stopping you. Your ferocious tenacity in dire situations allows you to crawl <strong class=\"uncommon\">30</strong>/<strong class=\"uncommon\">40</strong>/<strong class=\"rare\">50</strong> % faster and recover at the same time."
 			},
 			{
 				"name" : "Up The Ante" ,
