@@ -2042,32 +2042,32 @@
 			{
 				"name" : "Self-Care" ,
 				"image" : "SelfCare.png",
-				"description" : "Unlocks the ability to heal yourself without a Med-Kit at 50% the normal healing speed. Increases the efficiency of Med-Kit self-heal by 10/15/20 %."
+				"description" : "Unlocks the ability to heal yourself without a Med-Kit at <strong class=\"uncommon\">50%</strong> the normal healing speed. Increases the efficiency of Med-Kit self-heal by <strong class=\"rare\">10</strong>/<strong class=\"veryRare\">15</strong>/<strong class=\"veryRare\">20</strong> %."
 			},
 			{
 				"name" : "Slippery Meat" ,
 				"image" : "SlipperyMeat.png",
-				"description" : "You have developed an efficient way to get out of Bear Traps and Hooks. Grants up to 1/2/3 extra escape attempts on the hook. The odds of freeing yourself from Bear Traps are increased by 15/20/25 %."
+				"description" : "You have developed an efficient way to get out of Bear Traps and Hooks. Grants up to <strong class=\"uncommon\">1</strong>/<strong class=\"uncommon\">2</strong>/<strong class=\"rare\">3</strong> extra escape attempts on the hook. The odds of freeing yourself from Bear Traps are increased by <strong class=\"uncommon\">15</strong>/<strong class=\"uncommon\">20</strong>/<strong class=\"rare\">25</strong> %."
 			},
 			{
 				"name" : "Small Game" ,
 				"image" : "SmallGame.png",
-				"description" : "You have the undeniable capability to sense danger. Get an auditory warning when looking in the direction of Killer Traps and Totems in a 45 degree cone within a range of 8/10/12 metres. Small Game has a cooldown of 15/12/10 seconds each time it activates."
+				"description" : "You have the undeniable capability to sense danger. Get an auditory warning when looking in the direction of Killer Traps and Totems in a 45 degree cone within a range of <strong class=\"uncommon\">8</strong>/<strong class=\"uncommon\">10</strong>/<strong class=\"rare\">12</strong> metres. Small Game has a cooldown of <strong class=\"uncommon\">15</strong>/<strong class=\"uncommon\">12</strong>/<strong class=\"rare\">10</strong> seconds each time it activates."
 			},
 			{
 				"name" : "Sole Survivor" ,
 				"image" : "SoleSurvivor.png",
-				"description" : "Each Survivor killed or sacrificed disrupts the Killer's Aura reading ability.<br />1 killed or sacrificed: reduces the Killer's Aura reading range by 40/35/50 %.<br />2 killed or sacrificed: reduces the Killer's Aura reading range by 40/60/75 %.<br />3 killed or sacrificed: reduces the Killer's Aura reading range by 40/85/100 %."
+				"description" : "Each Survivor killed or sacrificed disrupts the Killer's Aura reading ability.<br /><br />1 killed or sacrificed: reduces the Killer's Aura reading range by <strong class=\"uncommon\">40</strong>/<strong class=\"rare\">35</strong>/<strong class=\"veryRare\">50</strong> %.<br />2 killed or sacrificed: reduces the Killer's Aura reading range by <strong class=\"uncommon\">40</strong>/<strong class=\"rare\">60</strong>/<strong class=\"veryRare\">75</strong> %.<br />3 killed or sacrificed: reduces the Killer's Aura reading range by <strong class=\"uncommon\">40</strong>/<strong class=\"rare\">85</strong>/<strong class=\"veryRare\">100</strong> %."
 			},
 			{
 				"name" : "Spine Chill" ,
 				"image" : "SpineChill.png",
-				"description" : "An unnatural tingle warns you of impending doom. Get notified when the Killer is looking directly in your direction and standing within 12/24/36 metres of range. When Spine Chill is active, Skill Check trigger odds are increased by 10% with success zones reduced by 10% and your Repair, Heal and Sabotage speeds are increased by 2/4/6 %."
+				"description" : "An unnatural tingle warns you of impending doom. Get notified when the Killer is looking directly in your direction and standing within <strong class=\"rare\">12</strong>/<strong class=\"veryRare\">24</strong>/<strong class=\"veryRare\">36</strong> metres of range. When <em>Spine Chill</em> is active, Skill Check trigger odds are increased by <strong class=\"teachable\">10%</strong> with success zones reduced by <strong class=\"token\">10%</strong> and your Repair, Heal and Sabotage speeds are increased by <strong class=\"rare\">2</strong>/<strong class=\"veryRare\">4</strong>/<strong class=\"veryRare\">6</strong> %."
 			},
 			{
 				"name" : "Sprint Burst" ,
 				"image" : "SprintBurst.png",
-				"description" : "When starting to run, break into a sprint at 150% your normal running speed for a maximum of 3 seconds.<br />Causes Exhaustion for 60/50/40 seconds."
+				"description" : "When starting to run, break into a sprint at <strong class=\"uncommon\">150%</strong> your normal running speed for a maximum of <strong class=\"teachable\">3 seconds</strong>.<br />Causes Exhaustion for <strong class=\"rare\">60</strong>/<strong class=\"veryRare\">50</strong>/<strong class=\"veryRare\">40</strong> seconds."
 			},
 			{
 				"name" : "Streetwise" ,
