@@ -1902,27 +1902,27 @@
 			{
 				"name" : "Bond" ,
 				"image" : "Bond.png",
-				"description" : "Unlocks potential in one's Aura reading ability. Allies' Auras are revealed to you when they are within 12/24/36 metres."
+				"description" : "Unlocks potential in one's Aura reading ability. Allies' Auras are revealed to you when they are within <strong class=\"uncommon\">12</strong>/<strong class=\"uncommon\">24</strong>/<strong class=\"rare\">36</strong> metres."
 			},
 			{
 				"name" : "Borrowed Time" ,
 				"image" : "BorrowedTime.png",
-				"description" : "You are fuelled with an unexpected energy when saving an ally from a hook within the Killer's Terror Radius. Once per match, for 15 seconds after unhooking a Survivor within the Killer's Terror Radius, any damage taken that would put you or the unhooked Survivor into the dying state will instead trigger a 15/20/25 seconds bleed-out timer. Taking any damage during or reaching the end of the bleed-out timer will put you into the Dying State."
+				"description" : "You are fuelled with an unexpected energy when saving an ally from a hook within the Killer's Terror Radius. Once per match, for <strong class=\"uncommon\">15 seconds</strong> after unhooking a Survivor within the Killer's Terror Radius, any damage taken that would put you or the unhooked Survivor into the dying state will instead trigger a <strong class=\"uncommon\">15</strong>/<strong class=\"rare\">20</strong>/<strong class=\"veryRare\">25</strong> seconds bleed-out timer. Taking any damage during or reaching the end of the bleed-out timer will put you into the Dying State."
 			},
 			{
 				"name" : "Botany Knowledge" ,
 				"image" : "BotanyKnowledge.png",
-				"description" : "You transform plants found around The Campfire into tinctures that slow down bleeding. Healing speed is increased by 10/15/20 % and the efficiency of Med-Kits is increased by 10/15/20 %."
+				"description" : "You transform plants found around The Campfire into tinctures that slow down bleeding. Healing speed is increased by <strong class=\"uncommon\">10</strong>/<strong class=\"rare\">15</strong>/<strong class=\"veryRare\">20</strong> % and the efficiency of Med-Kits is increased by <strong class=\"uncommon\">10</strong>/<strong class=\"rare\">15</strong>/<strong class=\"veryRare\">20</strong> %."
 			},
 			{
 				"name" : "Calm Spirit" ,
 				"image" : "CalmSpirit.png",
-				"description" : "Animals seem to trust you as they often stay calm in your presence. Reduces chances of alerting Crows by 80/90/100 %."
+				"description" : "Animals seem to trust you as they often stay calm in your presence. Reduces chances of alerting Crows by <strong class=\"uncommon\">80</strong>/<strong class=\"rare\">90</strong>/<strong class=\"veryRare\">100</strong> %."
 			},
 			{
 				"name" : "Dark Sense" ,
 				"image" : "DarkSense.png",
-				"description" : "Unlocks potential in one's Aura reading ability. When the Exit Gates unlock, the Killer's Aura is revealed to you for 3/5/7 seconds."
+				"description" : "Unlocks potential in one's Aura reading ability. When the Exit Gates unlock, the Killer's Aura is revealed to you for <strong class=\"rare\">3</strong>/<strong class=\"veryRare\">5</strong>/<strong class=\"veryRare\">7</strong> seconds."
 			},
 			{
 				"name" : "Dead Hard" ,
