@@ -1050,6 +1050,113 @@
 						"description" : "A black cardboard box filled with photographs."
 					}
 				]
+			},
+			{
+				"name" : "The Pig",
+				"image" : "Pig.png",
+				"description" : "At first I actually believed that it was a pig that slept in front of me on the ground. An animal that somehow had eluded the banalities of my old life and managed to end up at this forsaken and forgotten place. But then it rose, from crouch to standing, with its lifeless eyes nailed to my person. I ran, as I have so brutally learnt to do. My curiosity halted my escape after a few feet and I hid in a cabinet. The Pig moved like a predator – and I saw: a human body wearing a pig’s head as ornament.",
+				"addons" : [
+					{
+						"name" : "Workshop Grease",
+						"image" : "WorkshopGrease.png",
+						"description" : "A modification to the Jigsaw Box: the lubricated parts make the search a more delicate exercise."
+					},
+					{
+						"name" : "Shattered Syringe",
+						"image" : "ShatteredSyringe.png",
+						"description" : "Symbol of a broken way of life. Reminiscing about her past-self hardens her determination."
+					},
+					{
+						"name" : "John's Medical File",
+						"image" : "JohnsMedicalFile.png",
+						"description" : "The medical file of a cancerous man. Fills the reader with dread and recklessness."
+					},
+					{
+						"name" : "Combat Straps",
+						"image" : "CombatStraps.png",
+						"description" : "Leather straps that hold fabric in place for nimbler movement."
+					},
+					{
+						"name" : "Video Tape",
+						"image" : "VideoTape.png",
+						"description" : "A recording of Jigsaw, explaining the game's rules to Amanda. Reminiscing about her past-self hardens her determination."
+					},
+					{
+						"name" : "Utility Blades",
+						"image" : "UtilityBlades.png",
+						"description" : "A modification to the Reverse Bear Trap: sharp blades attached to the Trap's interior lacerate the victim with every movement."
+					},
+					{
+						"name" : "Razor Wires",
+						"image" : "Razor Wires.png",
+						"description" : "A modification to the Jigsaw Box: the addition of razor sharp wires makes it extra difficult and potentially painful to search them."
+					},
+					{
+						"name" : "Last Will",
+						"image" : "LastWill.png",
+						"description" : "A latched wooden box with a satin lining, offered as part of a last will."
+					},
+					{
+						"name" : "Face Mask",
+						"image" : "FaceMask.png",
+						"description" : "A modification to the Reverse Bear Trap: the heavy cloth face mask, laced with a sedative, partially suffocates the target, making it hard to concentrate."
+					},
+					{
+						"name" : "Slow-Release Toxin",
+						"image" : "Slow-ReleaseToxin.png",
+						"description" : "A modification to the Reverse Bear Trap: a poison that is not fatal, but weakens the body and makes it nearly impossible to recover fully from any effort."
+					},
+					{
+						"name" : "Rusty Attachments",
+						"image" : "RustyAttachments.png",
+						"description" : "A modification to the Reverse Bear Trap: mouth spikes, covered with crusty and volatile rust spots that make injuries particularly difficult to heal."
+					},
+					{
+						"name" : "Jigsaw's Annotated Plan",
+						"image" : "JigsawsAnnotatedPlan.png",
+						"description" : "A disturbing, yet brilliant, Trap design sketched in detail on a sheet of paper."
+					},
+					{
+						"name" : "Interlocking Razor",
+						"image" : "InterlockingRazor.png",
+						"description" : "A modification to the Jigsaw Box: the addition of interlocking razor blades makes it impossible to move suddenly in the Jigsaw Box without slitting one's wrists."
+					},
+					{
+						"name" : "Bag Of Gears",
+						"image" : "BagOfGears.png",
+						"description" : "A few mechanical parts that allow the creation of challenging Jigsaw Boxes and easier to install Reverse Bear Traps."
+					},
+					{
+						"name" : "Tampered Timer",
+						"image" : "TamperedTimer.png",
+						"description" : "A timer that has been fiddled with. A spring in the mechanism forces the gears to turn faster."
+					},
+					{
+						"name" : "Jigsaw's Sketch",
+						"image" : "JigsawsSketch.png",
+						"description" : "A disturbing, yet brilliant, Trap design laid down on paper and annotated by Jigsaw."
+					},
+					{
+						"name" : "Crate Of Gears",
+						"image" : "CrateOfGears.png",
+						"description" : "This collection of mechanical parts allows the creation of extra-challenging Jigsaw Boxes and Reverse Bear Traps that are easier to install."
+					},
+					{
+						"name" : "Amanda's Secret",
+						"image" : "Amanda's Secret.png",
+						"description" : "A black metal box containing a knife and various medical supplies, such as bandages and compresses. Deep cuts reduce stress and awaken the senses."
+					},
+					{
+						"name" : "Rules Set No.2",
+						"image" : "RulesSetNo.2.png",
+						"description" : "Not all games need to have the same rules."
+					},
+					{
+						"name" : "Amanda's Letter",
+						"image" : "AmandasLetter.png",
+						"description" : "A blackmailing Letter for the attention of Amanda. Fills the reader with rage and focus."
+					}
+				]
 			}
 		],
 		"perks" : [
