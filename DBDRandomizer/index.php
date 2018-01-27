@@ -109,6 +109,15 @@
 
 	function get_killer($killers)
 	{
+		if(array_key_exists("killer", $_GET))
+		{
+			$name = $_GET["killer"];
+			foreach($killers as $killer)
+			{
+				if($killer->name === $name) return $killer;
+			}
+		}
+
 		return PickSingle($killers);
 	}
 
