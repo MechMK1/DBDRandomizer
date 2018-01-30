@@ -18,4 +18,8 @@ Q: Why PHP?
 A: PHP is shit. I really dislike the language and I had already written a prototype in C#. I would only have needed to make a library out of it and then write a .NET Core application. However, I have never done that before and so I just spent a few hours doing everything in PHP.
 
 Q: Will we get updates when new killers come out?  
-A: I dunno. But everything is based on assets/data/data.json. It's really easy to understand and to add new perks, offerings, killers, etc...
+A: I dunno. But everything is based on `assets/data/data.json`. It's really easy to understand and to add new perks, offerings, killers, etc...
+
+# Licensing
+All code is written by me and published under the MIT License.
+Any and all images, except `assets/data/icons/Unknown.png`, are owned by Behaviour Interactive and were taken from the official Dead by Daylight Wiki. I believe they fall under fair use, as they are used to directly represent their meaning in the game they are coming from.
