@@ -2074,7 +2074,7 @@
 			{
 				"name" : "Detective's Hunch" ,
 				"image" : "DetectivesHunch.png",
-				"description" : "Unlocks potential in one's Aura reading ability. When completing a Generator, the Auras of Generators, Chests and Totems within <strong class=\"rare\">32</strong>/<strong class=\"veryRare\">48</strong>/<strong class=\"veryRare\"> metres are revealed to you for <strong class=\"teachable\">5 seconds</strong>.<br />If you are holding a Map IconItems map.png that can track Objectives, Generators revealed by <em>Detective's Hunch</em> are added to the Map."
+				"description" : "Unlocks potential in one's Aura reading ability. When completing a Generator, the Auras of Generators, Chests and Totems within <strong class=\"rare\">32</strong>/<strong class=\"veryRare\">48</strong>/<strong class=\"veryRare\">64</strong> metres are revealed to you for <strong class=\"teachable\">5 seconds</strong>.<br />If you are holding a Map IconItems map.png that can track Objectives, Generators revealed by <em>Detective's Hunch</em> are added to the Map."
 			},
 			{
 				"name" : "Empathy" ,
