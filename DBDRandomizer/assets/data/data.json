@@ -1580,6 +1580,11 @@
 				"name" : "Quentin Smith",
 				"image" : "Quentin.png",
 				"description" : "Someone like Quentin never attracted attention in a library, no matter how strange the texts he requested. He devoured all the information he could find, on shared dream worlds, lucid dreaming, and the methods to control the dream space. Forcing himself to stay awake, via a steady diet of pills and energy drinks, he searched through dusty volumes, finding myths about the demons that live in dreams, trapping their victims in limbo and feeding off their terror. He worked quickly as he knew that Freddy would soon be coming for him."
+			},
+			{
+				"name" : "David Tapp",
+				"image" : "Tapp.png",
+				"description" : "I am not a stranger to law enforcement professionals. I have learned to…spot them. To recognize their posture and sway. Now, one seems to inhabit this, my new home. He looks worn down, but just like me, he refuses to simply lay down and await the coming pain and death. The struggle is the only thing that keeps him sane – something to focus on."
 			}
 		],
 		"itemGroups" : [
@@ -2069,7 +2074,7 @@
 			{
 				"name" : "Detective's Hunch" ,
 				"image" : "DetectivesHunch.png",
-				"description" : "Unlocks potential in one's Aura reading ability. When completing a Generator, the Auras of Generators, Chests and Totems within <strong class=\"uncommon\">32 metres</strong> are revealed to you for <strong class=\"rare\">5</strong>/<strong class=\"veryRare\">10</strong>/<strong class=\"veryRare\">15</strong> seconds.<br />If you are holding a Map IconItems map.png that can track Objectives, Generators revealed by <em>Detective's Hunch</em> are added to the Map."
+				"description" : "Unlocks potential in one's Aura reading ability. When completing a Generator, the Auras of Generators, Chests and Totems within <strong class=\"rare\">32</strong>/<strong class=\"veryRare\">48</strong>/<strong class=\"veryRare\"> metres are revealed to you for <strong class=\"teachable\">5 seconds</strong>.<br />If you are holding a Map IconItems map.png that can track Objectives, Generators revealed by <em>Detective's Hunch</em> are added to the Map."
 			},
 			{
 				"name" : "Empathy" ,
@@ -2293,6 +2298,11 @@
 				"name" : "Heart Locket",
 				"image" : "HeartLocket.png",
 				"description" : "A silver heart locket necklace. The simple interior is engraved with the following: 'E+M'."
+			},
+			{
+				"name" : "Jigsaw Piece",
+				"image" : "JigsawPiece.png",
+				"description" : "Congratulations. You are still alive. Most people are so ungrateful to be alive. But not you. Not anymore."
 			},
 			{
 				"name" : "MacMillan's Phalanx Bone",
