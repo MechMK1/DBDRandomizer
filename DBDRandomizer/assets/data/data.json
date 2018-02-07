@@ -1443,6 +1443,11 @@
 				"description" : "Grant me the favour of killing one."
 			},
 			{
+				"name" : "Jigsaw Piece",
+				"image" : "JigsawPiece.png",
+				"description" : "Congratulations. You are still alive. Most people are so ungrateful to be alive. But not you. Not anymore."
+			},
+			{
 				"name" : "MacMillan's Phalanx Bone",
 				"image" : "MacMillansPhalanxBone.png",
 				"description" : "MacMillan's skeletal remains were found in the basement of the mine's storehouse. His leg bones shattered into pieces and a mining hammer lying in his lap."
