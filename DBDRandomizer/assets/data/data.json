@@ -1241,6 +1241,11 @@
 				"description" : "Your powerful hold onto the Survivors causes escapes to be nearly impossible. Effects of Survivors' wiggling are reduced by <strong class=\"uncommon\">25</strong>/<strong class=\"uncommon\">50</strong>/<strong class=\"rare\">75</strong> %. Time to wiggle free from your grasp is increased by <strong class=\"uncommon\">4</strong>/<strong class=\"uncommon\">8</strong>/<strong class=\"rare\">12</strong> %."
 			},
 			{
+				"name" : "Hangman's Trick",
+				"image" : "HangmansTrick.png",
+				"description" : "Your ingenious modifications to Hooks prevent tampering and permanent damage. Hooks destroyed by sabotage or sacrifices repair automatically after <strong class=\"uncommon\">30</strong>/<strong class=\"uncommon\">20</strong>/<strong class=\"rare\">10</strong> seconds.<br/>Gain a notification when someone starts sabotaging the Hooks."
+			},
+			{
 				"name" : "Hex: Devour Hope",
 				"image" : "DevourHope.png",
 				"description" : "A Hex rooting its power on hope. The false hope of Survivors ignites your hunger. When a Survivor is rescued from a hook at least <strong class=\"uncommon\">24 metres</strong> away, <em>Devour Hope</em> receives a Token.<br/><strong class=\"token\">2 Tokens</strong>: <strong class=\"rare\">―</strong>/<strong class=\"veryRare\">―</strong>/<strong class=\"veryRare\">Gain a 5% speed burst for 10 seconds after hooking a Survivor. Speed burst triggers 10 seconds after hooking a Survivor.</strong><br/><strong class=\"token\">3 Tokens</strong>: <strong class=\"rare\">―</strong>/<strong class=\"veryRare\">Attacks put Survivors into the dying state automatically.</strong>/<strong class=\"veryRare\">Attacks put Survivors into the dying state automatically.</strong><br/><strong class=\"token\">5 Tokens</strong>: <strong class=\"rare\">Grants the ability to kill Survivors by your own hand.</strong>/<strong class=\"veryRare\">Grants the ability to kill Survivors by your own hand.</strong>/<strong class=\"veryRare\">Grants the ability to kill Survivors by your own hand.</strong>"
@@ -1279,6 +1284,11 @@
 				"name" : "Lightborn",
 				"image" : "Lightborn.png",
 				"description" : "Unlike other beasts of the fog, you have adapted to light. Resistance to blindness is increased by <strong class=\"uncommon\">20</strong>/<strong class=\"rare\">40</strong>/<strong class=\"veryRare\">60</strong> %. Recovery from blindness is increased by <strong class=\"token\">50%</strong>."
+			},
+			{
+				"name" : "Make Your Choice",
+				"image" : "MakeYourChoice.png",
+				"description" : "When a Survivor rescues another from a Hook at least <strong class=\"rare\">48</strong>/<strong class=\"veryRare\">40</strong>/<strong class=\"veryRare\">32</strong> metres away from you, <em>Make Your Choice</em> triggers and aplies the <em><strong>Exposed</strong></em> Status Effect on the rescuer for <strong class=\"teachable\">60 seconds</strong>.<br/><em>Make Your Choice</em> has a cool-down of <strong class=\"token\">60 seconds</strong>."
 			},
 			{
 				"name" : "Monitor & Abuse",
@@ -1339,6 +1349,11 @@
 				"name" : "Stridor",
 				"image" : "Stridor.png",
 				"description" : "Breathing of Survivors in pain is <strong class=\"uncommon\">25</strong>/<strong class=\"uncommon\">50</strong>/<strong class=\"rare\">50</strong> % louder. Regular Survivor breathing is now also <strong class=\"uncommon\">0</strong>/<strong class=\"uncommon\">0</strong>/<strong class=\"rare\">25</strong> % louder."
+			},
+			{
+				"name" : "Surveillance",
+				"image" : "Surveillance.png",
+				"description" : "Unlocks potential in one's Aura reading ability. The last <strong class=\"uncommon\">1 regressing Generator's</strong>/<strong class=\"rare\">2 regressing Generators'</strong>/<strong class=\"veryRare\">3 regressing Generators'</strong> Aura(s) are indicated in white to you for <strong class=\"teachable\">16 seconds</strong>."
 			},
 			{
 				"name" : "Territorial Imperative",
